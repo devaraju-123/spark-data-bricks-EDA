@@ -1,0 +1,1001 @@
+term,home_ownership,grade,purpose,int_rate,addr_state,loan_status,application_type,loan_amnt,emp_length,annual_inc,dti,delinq_2yrs,revol_util,revol_bal,total_acc,num_tl_90g_dpd_24m,dti_joint,term_cleaned,emplen_cleaned,revolutil_cleaned,rev_avg,dti_cleaned,bad_loan
+ 36 months,RENT,G,other,30.84%,WA,Current,Individual,1000,6 years,31680,0,0,null,0,3,0,null, 36 ,6,43.76206961077844,43.76206961077844,0,No
+ 60 months,MORTGAGE,B,debt_consolidation,12.98%,NJ,Current,Individual,30000,10+ years,137000,12.87,0,65.20%,23162,31,0,null, 60 ,10,65,43.76206961077844,12.87,No
+ 60 months,MORTGAGE,A,credit_card,8.19%,MD,Current,Individual,17000,6 years,82000,15.57,0,25.80%,16693,17,0,null, 60 ,6,25,43.76206961077844,15.57,No
+ 36 months,RENT,B,debt_consolidation,10.72%,NJ,Current,Individual,3000,2 years,60000,12.46,1,39.10%,586,16,0,null, 36 ,2,39,43.76206961077844,12.46,No
+ 36 months,RENT,B,debt_consolidation,11.31%,IL,Current,Joint App,24000,2 years,74675,17.28,0,44%,18469,9,0,13.88, 36 ,2,44,43.76206961077844,17.28,No
+ 36 months,MORTGAGE,E,medical,23.40%,TX,Current,Individual,5000,10+ years,75000,8.16,0,51.80%,16274,13,0,null, 36 ,10,51,43.76206961077844,8.16,No
+ 36 months,MORTGAGE,A,debt_consolidation,8.19%,MI,Current,Individual,26000,n/a,88000,33.92,0,56.10%,8698,57,0,null, 36 ,,56,43.76206961077844,33.92,No
+ 36 months,MORTGAGE,B,other,11.80%,CA,Current,Individual,5000,10+ years,100000,17.88,2,17.20%,4093,29,0,null, 36 ,10,17,43.76206961077844,17.88,No
+ 36 months,RENT,C,debt_consolidation,16.14%,VA,Current,Individual,12400,n/a,25764,38.33,0,75.30%,10315,11,0,null, 36 ,,75,43.76206961077844,38.33,No
+ 60 months,MORTGAGE,C,debt_consolidation,16.14%,DE,Current,Individual,40000,10+ years,390000,9.14,0,73%,57115,28,0,null, 60 ,10,73,43.76206961077844,9.14,No
+ 60 months,OWN,D,debt_consolidation,17.97%,CA,Current,Individual,26700,10+ years,130000,30.76,1,43.90%,14977,24,1,null, 60 ,10,43,43.76206961077844,30.76,No
+ 36 months,MORTGAGE,B,home_improvement,11.80%,MI,Current,Individual,8000,2 years,58000,6.31,0,58.40%,467,8,0,null, 36 ,2,58,43.76206961077844,6.31,No
+ 36 months,MORTGAGE,D,other,18.94%,PA,Current,Individual,11000,10+ years,60000,25.9,0,null,0,20,0,null, 36 ,10,43.76206961077844,43.76206961077844,25.9,No
+ 60 months,RENT,B,other,12.98%,CA,Current,Joint App,30000,4 years,34560,2.33,0,1.40%,1025,32,0,9.6, 60 ,4,1,43.76206961077844,2.33,No
+ 60 months,MORTGAGE,C,home_improvement,14.47%,MA,Current,Individual,15000,10+ years,110000,18.56,2,90.40%,27109,18,1,null, 60 ,10,90,43.76206961077844,18.56,No
+ 36 months,MORTGAGE,C,debt_consolidation,16.91%,FL,Current,Individual,15000,n/a,50000,32.77,0,25.30%,13523,22,0,null, 36 ,,25,43.76206961077844,32.77,No
+ 36 months,MORTGAGE,A,credit_card,8.19%,CA,Current,Individual,10000,10+ years,59920,21.35,2,67.20%,66232,19,0,null, 36 ,10,67,43.76206961077844,21.35,No
+ 60 months,MORTGAGE,D,debt_consolidation,19.92%,AL,Current,Individual,12000,7 years,48000,36.2,0,52.50%,12073,16,0,null, 60 ,7,52,43.76206961077844,36.2,No
+ 60 months,MORTGAGE,B,credit_card,10.72%,OH,Current,Individual,32000,3 years,60000,23.24,0,22.50%,61671,37,0,null, 60 ,3,22,43.76206961077844,23.24,No
+ 36 months,MORTGAGE,E,credit_card,23.40%,SC,Current,Individual,4000,2 years,40000,21.42,0,88.70%,4259,7,0,null, 36 ,2,88,43.76206961077844,21.42,No
+ 60 months,MORTGAGE,C,debt_consolidation,14.47%,KY,Current,Joint App,20000,8 years,30000,60.52,0,90.60%,9512,14,0,14.27, 60 ,8,90,43.76206961077844,60.52,No
+ 36 months,RENT,B,other,11.55%,CA,Current,Individual,6825,3 years,21000,20,0,36.30%,7665,11,0,null, 36 ,3,36,43.76206961077844,20,No
+ 36 months,RENT,A,credit_card,6.46%,CO,Current,Individual,10000,< 1 year,56000,15.2,0,52.40%,9695,15,0,null, 36 ,1,52,43.76206961077844,15.2,No
+ 36 months,RENT,D,other,17.97%,WA,Fully Paid,Joint App,2000,1 year,33280,40.5,0,79.50%,19879,16,0,29.12, 36 ,1,79,43.76206961077844,40.5,No
+ 36 months,MORTGAGE,C,moving,16.14%,MA,Current,Individual,6025,2 years,145000,11.11,1,96%,17282,24,1,null, 36 ,2,96,43.76206961077844,11.11,No
+ 36 months,MORTGAGE,B,home_improvement,11.31%,AZ,Current,Joint App,20000,1 year,180000,6.81,0,33.60%,11511,17,0,6.87, 36 ,1,33,43.76206961077844,6.81,No
+ 36 months,MORTGAGE,A,debt_consolidation,7.56%,MN,Current,Individual,25000,5 years,107000,5.36,1,62.20%,30375,11,0,null, 36 ,5,62,43.76206961077844,5.36,No
+ 36 months,OWN,B,credit_card,11.80%,TX,Current,Individual,11000,10+ years,70000,23.42,0,77.40%,10068,17,0,null, 36 ,10,77,43.76206961077844,23.42,No
+ 60 months,MORTGAGE,E,debt_consolidation,23.40%,IL,Current,Individual,28000,n/a,60000,26.4,0,58%,24597,26,0,null, 60 ,,58,43.76206961077844,26.4,No
+ 36 months,RENT,A,credit_card,6.46%,VA,Current,Individual,40000,9 years,115000,26.85,0,88.50%,41241,24,0,null, 36 ,9,88,43.76206961077844,26.85,No
+ 60 months,MORTGAGE,C,credit_card,15.02%,CA,Current,Individual,13200,10+ years,90000,26.57,0,59%,39682,22,0,null, 60 ,10,59,43.76206961077844,26.57,No
+ 36 months,MORTGAGE,D,medical,20.89%,IN,Current,Joint App,10000,4 years,78000,31.51,0,55.80%,91683,37,0,16.62, 36 ,4,55,43.76206961077844,31.51,No
+ 60 months,RENT,C,debt_consolidation,13.56%,NJ,Current,Individual,25000,n/a,52000,17.96,0,15.60%,10409,46,0,null, 60 ,,15,43.76206961077844,17.96,No
+ 60 months,RENT,F,car,28.72%,NV,Current,Individual,20000,10+ years,165000,5.03,3,20.60%,1052,10,0,null, 60 ,10,20,43.76206961077844,5.03,No
+ 36 months,RENT,A,credit_card,7.56%,UT,Current,Joint App,24000,< 1 year,25000,11.71,0,5.60%,2210,26,0,4.35, 36 ,1,5,43.76206961077844,11.71,No
+ 36 months,RENT,D,credit_card,18.94%,CA,Current,Individual,30000,6 years,64000,34.6,0,82%,40756,21,0,null, 36 ,6,82,43.76206961077844,34.6,No
+ 60 months,OWN,E,home_improvement,23.40%,PA,Current,Individual,10000,1 year,45000,12.83,0,3.30%,5663,62,0,null, 60 ,1,3,43.76206961077844,12.83,No
+ 36 months,RENT,B,credit_card,10.72%,CA,Current,Individual,6500,4 years,50000,33.01,0,47.90%,16201,35,0,null, 36 ,4,47,43.76206961077844,33.01,No
+ 60 months,MORTGAGE,B,debt_consolidation,10.33%,FL,Current,Joint App,19000,10+ years,43232,13.85,0,36.10%,18496,22,0,13.31, 60 ,10,36,43.76206961077844,13.85,No
+ 60 months,MORTGAGE,C,debt_consolidation,16.14%,TX,Current,Individual,40000,< 1 year,150000,19.14,4,63.80%,10215,29,1,null, 60 ,1,63,43.76206961077844,19.14,No
+ 60 months,RENT,C,debt_consolidation,13.56%,CA,Current,Individual,20000,n/a,44000,37.37,0,22.60%,9725,30,0,null, 60 ,,22,43.76206961077844,37.37,No
+ 36 months,RENT,A,debt_consolidation,8.19%,CA,Current,Joint App,29600,10+ years,86500,52.43,0,34.40%,20859,29,0,25.5, 36 ,10,34,43.76206961077844,52.43,No
+ 36 months,RENT,D,debt_consolidation,19.92%,MN,Late (31-120 days),Individual,2000,< 1 year,240000,2.58,0,49.40%,9087,12,0,null, 36 ,1,49,43.76206961077844,2.58,yes
+ 60 months,RENT,D,moving,18.94%,CT,Current,Individual,14400,1 year,62000,15.33,0,59%,7078,36,0,null, 60 ,1,59,43.76206961077844,15.33,No
+ 36 months,MORTGAGE,C,home_improvement,15.02%,NC,Current,Individual,7200,10+ years,201000,18.48,0,70.40%,50892,21,0,null, 36 ,10,70,43.76206961077844,18.48,No
+ 36 months,OWN,A,debt_consolidation,8.19%,AL,Current,Individual,15000,10+ years,100000,18.83,0,16%,4861,22,0,null, 36 ,10,16,43.76206961077844,18.83,No
+ 36 months,MORTGAGE,B,debt_consolidation,10.72%,IN,Current,Joint App,33500,9 years,175000,22.99,0,85.60%,24492,33,0,23.94, 36 ,9,85,43.76206961077844,22.99,No
+ 36 months,MORTGAGE,A,credit_card,7.02%,NJ,Current,Joint App,5000,10+ years,80000,2.64,0,1.80%,1618,24,0,6.37, 36 ,10,1,43.76206961077844,2.64,No
+ 36 months,RENT,B,debt_consolidation,10.72%,GA,Current,Individual,15000,10+ years,115000,24.88,0,80.20%,9784,20,0,null, 36 ,10,80,43.76206961077844,24.88,No
+ 36 months,RENT,A,credit_card,8.19%,NJ,Current,Individual,5000,2 years,40000,13.2,0,31.60%,4744,13,0,null, 36 ,2,31,43.76206961077844,13.2,No
+ 36 months,MORTGAGE,A,debt_consolidation,7.56%,CO,Current,Individual,5000,4 years,70000,34.94,0,6.60%,5905,44,0,null, 36 ,4,6,43.76206961077844,34.94,No
+ 36 months,MORTGAGE,A,debt_consolidation,8.81%,LA,Current,Individual,10000,10+ years,90000,4.03,0,13.10%,445,14,0,null, 36 ,10,13,43.76206961077844,4.03,No
+ 60 months,RENT,C,debt_consolidation,16.14%,MO,Current,Individual,35000,10+ years,66000,19.07,0,67.10%,23561,21,0,null, 60 ,10,67,43.76206961077844,19.07,No
+ 60 months,MORTGAGE,D,debt_consolidation,20.89%,WI,Current,Joint App,15000,4 years,55000,46.76,1,47.20%,6838,28,0,14.53, 60 ,4,47,43.76206961077844,46.76,No
+ 36 months,RENT,A,debt_consolidation,8.46%,PA,Current,Individual,6000,9 years,120000,18.87,0,42%,22462,22,0,null, 36 ,9,42,43.76206961077844,18.87,No
+ 36 months,MORTGAGE,C,debt_consolidation,16.91%,TX,Fully Paid,Joint App,25475,5 years,51902,23.63,0,36.40%,34798,29,0,24.47, 36 ,5,36,43.76206961077844,23.63,No
+ 36 months,MORTGAGE,A,debt_consolidation,7.02%,WA,Current,Individual,10000,2 years,90000,7.87,0,54.10%,20354,13,0,null, 36 ,2,54,43.76206961077844,7.87,No
+ 36 months,MORTGAGE,A,credit_card,7.56%,CA,Current,Individual,7000,2 years,65000,9.53,0,32.20%,11286,29,0,null, 36 ,2,32,43.76206961077844,9.53,No
+ 60 months,MORTGAGE,A,debt_consolidation,8.19%,AL,Current,Individual,40000,3 years,100000,10.16,0,29.50%,16227,26,0,null, 60 ,3,29,43.76206961077844,10.16,No
+ 36 months,MORTGAGE,B,debt_consolidation,10.72%,MD,Current,Individual,6000,9 years,50000,15.72,0,55.40%,7705,20,0,null, 36 ,9,55,43.76206961077844,15.72,No
+ 36 months,OWN,A,debt_consolidation,6.46%,NY,Current,Individual,3750,n/a,20000,11.64,0,18.70%,5969,21,0,null, 36 ,,18,43.76206961077844,11.64,No
+ 60 months,MORTGAGE,C,debt_consolidation,16.14%,TX,Current,Individual,20000,6 years,120000,12.06,0,52%,11590,12,0,null, 60 ,6,52,43.76206961077844,12.06,No
+ 36 months,MORTGAGE,D,debt_consolidation,20.89%,AL,Current,Individual,15000,10+ years,35000,22.81,0,51.50%,1184,27,0,null, 36 ,10,51,43.76206961077844,22.81,No
+ 60 months,RENT,D,debt_consolidation,22.35%,UT,Late (31-120 days),Individual,32000,n/a,85000,3.5,0,45.80%,8748,8,0,null, 60 ,,45,43.76206961077844,3.5,yes
+ 60 months,MORTGAGE,B,credit_card,11.80%,AR,Current,Joint App,25000,10+ years,67000,12.86,1,34.20%,6326,9,0,13.92, 60 ,10,34,43.76206961077844,12.86,No
+ 60 months,RENT,B,debt_consolidation,12.98%,TX,Current,Individual,23000,9 years,50000,14.65,0,84%,19742,10,0,null, 60 ,9,84,43.76206961077844,14.65,No
+ 60 months,MORTGAGE,B,credit_card,11.80%,IL,Current,Individual,18000,6 years,60000,25.72,0,37.60%,23324,21,0,null, 60 ,6,37,43.76206961077844,25.72,No
+ 36 months,RENT,D,debt_consolidation,18.94%,CA,Current,Individual,3000,3 years,38000,30.54,1,35.90%,17679,31,0,null, 36 ,3,35,43.76206961077844,30.54,No
+ 60 months,RENT,C,debt_consolidation,16.91%,ME,Current,Individual,11000,7 years,50000,22.92,0,47.20%,7554,15,0,null, 60 ,7,47,43.76206961077844,22.92,No
+ 36 months,MORTGAGE,B,debt_consolidation,11.80%,WI,Current,Joint App,10675,1 year,36000,8.6,0,65%,8904,7,0,6.86, 36 ,1,65,43.76206961077844,8.6,No
+ 36 months,MORTGAGE,D,home_improvement,19.92%,PA,Current,Individual,5000,6 years,62000,29,0,46.10%,14923,27,0,null, 36 ,6,46,43.76206961077844,29,No
+ 60 months,MORTGAGE,C,debt_consolidation,13.56%,GA,In Grace Period,Individual,14400,4 years,165000,8.19,0,12.90%,9219,41,0,null, 60 ,4,12,43.76206961077844,8.19,yes
+ 60 months,MORTGAGE,C,credit_card,13.56%,OH,Current,Individual,30000,10+ years,80000,20.06,0,71%,18542,24,0,null, 60 ,10,71,43.76206961077844,20.06,No
+ 36 months,RENT,A,debt_consolidation,6.46%,AZ,Current,Individual,20000,4 years,57000,10.44,0,22.30%,11378,8,0,null, 36 ,4,22,43.76206961077844,10.44,No
+ 60 months,MORTGAGE,B,home_improvement,10.72%,CA,Current,Individual,15000,10+ years,160000,16.86,0,17%,20717,28,0,null, 60 ,10,17,43.76206961077844,16.86,No
+ 36 months,MORTGAGE,C,credit_card,15.02%,CA,Current,Individual,10000,10+ years,94000,18.7,0,61.80%,8593,18,0,null, 36 ,10,61,43.76206961077844,18.7,No
+ 36 months,RENT,C,debt_consolidation,13.56%,OR,Current,Joint App,6500,3 years,24500,7.89,1,26.80%,2628,8,1,10.93, 36 ,3,26,43.76206961077844,7.89,No
+ 36 months,RENT,A,credit_card,6.46%,OR,Current,Individual,16000,1 year,75000,23.04,0,88.70%,36188,6,0,null, 36 ,1,88,43.76206961077844,23.04,No
+ 36 months,MORTGAGE,C,debt_consolidation,15.02%,TX,In Grace Period,Individual,11500,3 years,60000,15.42,0,43.80%,9593,26,0,null, 36 ,3,43,43.76206961077844,15.42,yes
+ 36 months,MORTGAGE,C,home_improvement,14.47%,NJ,Current,Individual,8000,10+ years,110000,22.1,0,82.10%,25443,42,0,null, 36 ,10,82,43.76206961077844,22.1,No
+ 36 months,MORTGAGE,C,credit_card,13.56%,PA,Current,Individual,12000,n/a,70000,10.59,0,13.10%,10316,38,0,null, 36 ,,13,43.76206961077844,10.59,No
+ 60 months,MORTGAGE,D,debt_consolidation,19.92%,CA,Current,Individual,35000,1 year,135000,11.74,0,39%,18761,20,0,null, 60 ,1,39,43.76206961077844,11.74,No
+ 36 months,RENT,A,debt_consolidation,7.56%,FL,Current,Individual,5000,n/a,40000,1.5,0,18.90%,1551,14,0,null, 36 ,,18,43.76206961077844,1.5,No
+ 60 months,OWN,C,home_improvement,16.91%,PA,Current,Joint App,24000,5 years,100000,2.88,0,66.10%,3106,7,0,3.29, 60 ,5,66,43.76206961077844,2.88,No
+ 60 months,RENT,B,moving,12.98%,CO,Current,Joint App,35000,6 years,75000,10.7,0,6.90%,274,5,0,17.67, 60 ,6,6,43.76206961077844,10.7,No
+ 36 months,MORTGAGE,C,major_purchase,15.02%,GA,Current,Individual,3025,10+ years,112000,27.44,1,52.20%,20680,31,0,null, 36 ,10,52,43.76206961077844,27.44,No
+ 60 months,OWN,C,debt_consolidation,16.91%,FL,Current,Individual,18500,n/a,39000,30.89,0,9.10%,1837,29,0,null, 60 ,,9,43.76206961077844,30.89,No
+ 36 months,RENT,B,credit_card,11.31%,CA,Current,Individual,3850,10+ years,23424,5.69,0,38.90%,2646,5,0,null, 36 ,10,38,43.76206961077844,5.69,No
+ 60 months,MORTGAGE,C,debt_consolidation,13.56%,CO,Current,Joint App,10000,10+ years,50000,3.22,0,24.80%,2751,9,0,8.44, 60 ,10,24,43.76206961077844,3.22,No
+ 60 months,MORTGAGE,C,debt_consolidation,16.91%,SC,Current,Individual,23000,10+ years,109000,10.56,0,49.60%,31232,24,0,null, 60 ,10,49,43.76206961077844,10.56,No
+ 36 months,RENT,A,debt_consolidation,6.46%,CA,Current,Individual,40000,1 year,101000,14.06,0,50.50%,35059,21,0,null, 36 ,1,50,43.76206961077844,14.06,No
+ 36 months,MORTGAGE,C,credit_card,16.91%,GA,Current,Individual,15000,10+ years,81000,39.99,0,90.60%,42317,24,0,null, 36 ,10,90,43.76206961077844,39.99,No
+ 60 months,MORTGAGE,D,house,17.97%,WI,Current,Individual,10000,n/a,32220,26.29,0,76.10%,14160,40,0,null, 60 ,,76,43.76206961077844,26.29,No
+ 36 months,OWN,B,credit_card,12.98%,CA,Current,Individual,13500,2 years,50000,9.17,0,80.80%,13249,8,0,null, 36 ,2,80,43.76206961077844,9.17,No
+ 36 months,RENT,B,credit_card,12.98%,NM,Current,Individual,12600,< 1 year,100000,31.57,0,52.70%,68560,30,0,null, 36 ,1,52,43.76206961077844,31.57,No
+ 36 months,RENT,A,credit_card,7.56%,FL,Current,Individual,9000,3 years,84000,15.07,0,28.30%,16039,23,0,null, 36 ,3,28,43.76206961077844,15.07,No
+ 60 months,MORTGAGE,D,debt_consolidation,18.94%,UT,Current,Individual,15000,10+ years,79144,19.01,0,65.30%,22390,19,0,null, 60 ,10,65,43.76206961077844,19.01,No
+ 60 months,MORTGAGE,B,debt_consolidation,12.98%,NC,Current,Individual,32000,10+ years,80500,5.1,0,54.30%,14776,4,0,null, 60 ,10,54,43.76206961077844,5.1,No
+ 36 months,MORTGAGE,A,credit_card,7.02%,AR,Current,Individual,3200,3 years,25000,7.73,0,44.40%,2711,27,0,null, 36 ,3,44,43.76206961077844,7.73,No
+ 36 months,MORTGAGE,A,credit_card,7.02%,TX,Current,Individual,6000,< 1 year,65000,22.36,0,43%,5977,31,0,null, 36 ,1,43,43.76206961077844,22.36,No
+ 36 months,MORTGAGE,A,credit_card,7.56%,NY,Current,Individual,8000,2 years,60000,19.02,0,64%,10565,13,0,null, 36 ,2,64,43.76206961077844,19.02,No
+ 36 months,MORTGAGE,A,debt_consolidation,7.02%,TX,Current,Individual,40000,7 years,106000,28.36,0,1.50%,500,47,0,null, 36 ,7,1,43.76206961077844,28.36,No
+ 36 months,RENT,B,debt_consolidation,10.33%,UT,Current,Individual,9000,2 years,55000,0.96,0,17.20%,2949,8,0,null, 36 ,2,17,43.76206961077844,0.96,No
+ 36 months,RENT,C,credit_card,13.56%,NV,Current,Individual,7000,< 1 year,40000,21.15,0,23.80%,7012,19,0,null, 36 ,1,23,43.76206961077844,21.15,No
+ 36 months,MORTGAGE,C,debt_consolidation,16.91%,GA,Current,Individual,9500,1 year,75000,19.68,0,21.40%,5002,49,0,null, 36 ,1,21,43.76206961077844,19.68,No
+ 60 months,RENT,B,debt_consolidation,10.72%,WA,Fully Paid,Individual,10000,7 years,77491.2,32.8,0,25.10%,8235,33,0,null, 60 ,7,25,43.76206961077844,32.8,No
+ 36 months,RENT,C,debt_consolidation,15.02%,NC,Current,Individual,8000,10+ years,55000,9.49,0,20.80%,3285,33,0,null, 36 ,10,20,43.76206961077844,9.49,No
+ 60 months,MORTGAGE,B,debt_consolidation,12.98%,CA,Current,Joint App,33175,n/a,0,null,0,52.80%,91745,38,0,30.33, 60 ,,52,43.76206961077844,30.33,No
+ 60 months,MORTGAGE,B,debt_consolidation,11.80%,NJ,Current,Individual,17000,n/a,70000,14.54,0,6.60%,4854,26,0,null, 60 ,,6,43.76206961077844,14.54,No
+ 36 months,RENT,D,debt_consolidation,18.94%,SC,Current,Joint App,20000,7 years,18000,28.93,0,46.70%,11446,7,0,29.65, 36 ,7,46,43.76206961077844,28.93,No
+ 60 months,MORTGAGE,D,house,20.89%,MO,Current,Individual,16000,< 1 year,35000,15.57,2,7.20%,2008,22,0,null, 60 ,1,7,43.76206961077844,15.57,No
+ 36 months,MORTGAGE,B,other,11.80%,CO,Current,Individual,3200,5 years,140000,8.13,1,40.80%,6565,21,0,null, 36 ,5,40,43.76206961077844,8.13,No
+ 36 months,OWN,A,debt_consolidation,6.46%,CA,Current,Individual,10000,7 years,78996,8.31,0,38.60%,4826,22,0,null, 36 ,7,38,43.76206961077844,8.31,No
+ 36 months,RENT,A,other,7.56%,HI,Current,Individual,5000,10+ years,67000,3.87,0,28.50%,6617,14,0,null, 36 ,10,28,43.76206961077844,3.87,No
+ 36 months,MORTGAGE,A,debt_consolidation,6.46%,IL,Current,Individual,40000,< 1 year,200000,0.47,0,0.30%,5997,16,0,null, 36 ,1,0,43.76206961077844,0.47,No
+ 60 months,OWN,D,debt_consolidation,22.35%,FL,In Grace Period,Individual,20000,10+ years,80000,17.72,0,35%,3567,19,0,null, 60 ,10,35,43.76206961077844,17.72,yes
+ 36 months,RENT,B,debt_consolidation,10.33%,NJ,Current,Individual,5000,10+ years,45000,16.77,0,79.80%,11086,21,0,null, 36 ,10,79,43.76206961077844,16.77,No
+ 36 months,MORTGAGE,A,debt_consolidation,6.46%,CA,Current,Individual,8000,8 years,40000,12.45,0,13.30%,5757,24,0,null, 36 ,8,13,43.76206961077844,12.45,No
+ 60 months,RENT,D,credit_card,17.97%,IL,Current,Individual,10000,1 year,90000,13.8,0,49.20%,12897,7,0,null, 60 ,1,49,43.76206961077844,13.8,No
+ 36 months,RENT,A,home_improvement,7.56%,RI,Current,Joint App,6000,1 year,56810,0.19,0,0%,9,47,0,20.27, 36 ,1,0,43.76206961077844,0.19,No
+ 60 months,MORTGAGE,B,debt_consolidation,10.72%,TN,Current,Individual,15000,10+ years,68000,24.62,0,52%,7442,15,0,null, 60 ,10,52,43.76206961077844,24.62,No
+ 36 months,MORTGAGE,A,debt_consolidation,7.56%,MN,Current,Individual,30000,10+ years,165000,21.72,0,67.40%,23847,30,0,null, 36 ,10,67,43.76206961077844,21.72,No
+ 36 months,RENT,B,debt_consolidation,11.55%,IL,Current,Individual,4000,2 years,65000,16.3,0,15%,2201,17,0,null, 36 ,2,15,43.76206961077844,16.3,No
+ 36 months,MORTGAGE,A,debt_consolidation,7.56%,AL,Current,Joint App,40000,3 years,67323,84.65,0,62.60%,74793,49,0,26.66, 36 ,3,62,43.76206961077844,84.65,No
+ 36 months,RENT,E,debt_consolidation,23.40%,NY,Fully Paid,Individual,1000,n/a,34000,30.07,0,52.90%,13747,19,0,null, 36 ,,52,43.76206961077844,30.07,No
+ 60 months,OWN,C,credit_card,16.14%,TX,Current,Individual,20000,< 1 year,40000,18.66,1,12.20%,9602,45,1,null, 60 ,1,12,43.76206961077844,18.66,No
+ 60 months,RENT,C,debt_consolidation,16.14%,CT,Current,Individual,10000,2 years,42000,15.54,0,44.30%,1552,11,0,null, 60 ,2,44,43.76206961077844,15.54,No
+ 60 months,MORTGAGE,D,credit_card,17.97%,CO,Current,Individual,40000,< 1 year,150000,33.09,0,86.60%,261839,29,0,null, 60 ,1,86,43.76206961077844,33.09,No
+ 60 months,MORTGAGE,B,debt_consolidation,11.80%,FL,Current,Joint App,36000,10+ years,83000,24.19,1,41%,5534,22,0,28.42, 60 ,10,41,43.76206961077844,24.19,No
+ 36 months,OWN,A,major_purchase,6.46%,MT,Current,Individual,6500,n/a,85000,18.68,0,26.30%,20712,17,0,null, 36 ,,26,43.76206961077844,18.68,No
+ 60 months,MORTGAGE,C,debt_consolidation,16.91%,IL,Current,Individual,30000,< 1 year,192000,16.15,0,95.20%,80043,11,0,null, 60 ,1,95,43.76206961077844,16.15,No
+ 36 months,RENT,D,home_improvement,17.97%,NC,Current,Individual,3000,4 years,99435.83,12.16,1,99.80%,4493,14,0,null, 36 ,4,99,43.76206961077844,12.16,No
+ 36 months,RENT,C,credit_card,15.02%,CA,Current,Individual,15000,8 years,70000,26.08,0,76.70%,27396,33,0,null, 36 ,8,76,43.76206961077844,26.08,No
+ 60 months,MORTGAGE,C,debt_consolidation,13.56%,TX,Current,Individual,40000,3 years,155000,12.68,0,26.40%,15523,50,0,null, 60 ,3,26,43.76206961077844,12.68,No
+ 36 months,OWN,B,credit_card,11.80%,NV,Current,Individual,7500,3 years,62000,2.94,0,14.80%,2068,13,0,null, 36 ,3,14,43.76206961077844,2.94,No
+ 36 months,RENT,D,debt_consolidation,17.97%,NY,Current,Individual,2000,2 years,24000,3.8,0,70%,1610,5,0,null, 36 ,2,70,43.76206961077844,3.8,No
+ 36 months,RENT,C,moving,16.14%,CA,Current,Individual,6000,4 years,100500,14.24,0,48.60%,12529,9,0,null, 36 ,4,48,43.76206961077844,14.24,No
+ 60 months,RENT,D,debt_consolidation,22.35%,NY,Current,Individual,10000,n/a,43056,39.11,1,34.60%,2385,10,1,null, 60 ,,34,43.76206961077844,39.11,No
+ 36 months,OWN,C,debt_consolidation,15.02%,SD,Current,Individual,9000,7 years,30000,14.96,0,87.50%,4552,7,0,null, 36 ,7,87,43.76206961077844,14.96,No
+ 60 months,OWN,B,credit_card,11.80%,PA,Current,Joint App,30000,2 years,204000,9.44,0,76.10%,60720,23,0,7.25, 60 ,2,76,43.76206961077844,9.44,No
+ 36 months,MORTGAGE,A,credit_card,6.11%,TN,Current,Joint App,10825,10+ years,32668,16.94,0,45.70%,10833,12,0,8.81, 36 ,10,45,43.76206961077844,16.94,No
+ 36 months,RENT,D,credit_card,18.94%,PA,Current,Individual,5000,5 years,55000,27.97,0,87.80%,20976,7,0,null, 36 ,5,87,43.76206961077844,27.97,No
+ 36 months,RENT,C,credit_card,15.02%,PA,Current,Individual,8000,1 year,39780,9.8,0,26%,3586,12,0,null, 36 ,1,26,43.76206961077844,9.8,No
+ 36 months,RENT,A,debt_consolidation,8.81%,NY,Current,Individual,18000,3 years,120000,20.43,0,21.10%,30665,36,0,null, 36 ,3,21,43.76206961077844,20.43,No
+ 36 months,RENT,B,medical,10.33%,TN,Current,Joint App,16000,< 1 year,30000,43.36,0,69.30%,36252,19,0,13.14, 36 ,1,69,43.76206961077844,43.36,No
+ 60 months,OWN,D,debt_consolidation,22.35%,VA,Current,Individual,10000,10+ years,82000,32.26,0,32%,23886,34,0,null, 60 ,10,32,43.76206961077844,32.26,No
+ 36 months,RENT,A,debt_consolidation,8.81%,NY,Current,Individual,2500,1 year,35000,4.46,0,15%,3142,14,0,null, 36 ,1,15,43.76206961077844,4.46,No
+ 36 months,RENT,A,credit_card,6.46%,CA,Current,Individual,38500,4 years,84000,25.87,0,61.60%,46462,33,0,null, 36 ,4,61,43.76206961077844,25.87,No
+ 36 months,OWN,B,debt_consolidation,10.33%,MI,Current,Individual,7000,10+ years,110000,1.33,0,38.60%,5399,6,0,null, 36 ,10,38,43.76206961077844,1.33,No
+ 36 months,MORTGAGE,A,debt_consolidation,8.19%,FL,Current,Individual,8500,4 years,100000,12.32,0,40.70%,18235,12,0,null, 36 ,4,40,43.76206961077844,12.32,No
+ 36 months,RENT,A,credit_card,8.19%,SC,Current,Individual,5875,7 years,48360,26.1,0,25.40%,9472,17,0,null, 36 ,7,25,43.76206961077844,26.1,No
+ 36 months,MORTGAGE,A,car,6.46%,NY,Fully Paid,Individual,35000,10+ years,112000,5.12,0,21.90%,11231,27,0,null, 36 ,10,21,43.76206961077844,5.12,No
+ 60 months,MORTGAGE,C,debt_consolidation,14.47%,NJ,Current,Joint App,24000,10+ years,42000,78.97,0,87.90%,47752,36,0,36.54, 60 ,10,87,43.76206961077844,78.97,No
+ 60 months,MORTGAGE,C,home_improvement,15.02%,MI,Current,Individual,40000,3 years,127000,18.96,0,30%,11191,28,0,null, 60 ,3,30,43.76206961077844,18.96,No
+ 60 months,MORTGAGE,C,credit_card,16.14%,TX,Current,Individual,24000,1 year,50000,20.12,0,88.50%,22043,49,0,null, 60 ,1,88,43.76206961077844,20.12,No
+ 60 months,RENT,C,debt_consolidation,13.56%,OK,Current,Individual,25500,4 years,86000,14.35,0,32.30%,7373,30,0,null, 60 ,4,32,43.76206961077844,14.35,No
+ 60 months,RENT,C,debt_consolidation,16.14%,NY,Current,Individual,40000,10+ years,80000,30.87,0,14.80%,2632,21,0,null, 60 ,10,14,43.76206961077844,30.87,No
+ 60 months,MORTGAGE,B,debt_consolidation,12.73%,CA,Current,Individual,10000,< 1 year,78400,5.99,0,42.40%,5729,20,0,null, 60 ,1,42,43.76206961077844,5.99,No
+ 60 months,MORTGAGE,C,debt_consolidation,16.91%,NC,Current,Individual,32000,10+ years,94000,34.64,0,72%,22848,37,0,null, 60 ,10,72,43.76206961077844,34.64,No
+ 60 months,RENT,B,credit_card,11.31%,KY,Current,Individual,10000,3 years,30000,31.28,0,25.70%,8080,13,0,null, 60 ,3,25,43.76206961077844,31.28,No
+ 36 months,MORTGAGE,B,credit_card,11.31%,TN,Current,Individual,23500,10+ years,120000,14.76,0,55%,12274,58,0,null, 36 ,10,55,43.76206961077844,14.76,No
+ 36 months,MORTGAGE,B,debt_consolidation,12.98%,AL,Fully Paid,Individual,7200,4 years,27000,24.67,0,57.70%,9815,9,0,null, 36 ,4,57,43.76206961077844,24.67,No
+ 60 months,MORTGAGE,D,home_improvement,22.35%,MN,Current,Individual,16000,2 years,70000,13.85,2,83.40%,5168,34,0,null, 60 ,2,83,43.76206961077844,13.85,No
+ 60 months,RENT,A,debt_consolidation,8.19%,NC,Current,Individual,40000,2 years,97000,30.62,0,40.60%,50167,31,0,null, 60 ,2,40,43.76206961077844,30.62,No
+ 60 months,MORTGAGE,B,debt_consolidation,11.80%,WV,Current,Individual,40000,8 years,120000,22.07,0,47.90%,33780,28,0,null, 60 ,8,47,43.76206961077844,22.07,No
+ 36 months,MORTGAGE,B,debt_consolidation,10.33%,NJ,Current,Individual,12000,10+ years,55000,16.04,0,41.10%,11427,40,0,null, 36 ,10,41,43.76206961077844,16.04,No
+ 36 months,RENT,C,home_improvement,16.91%,NJ,Fully Paid,Individual,10000,1 year,36374,11.25,0,29%,986,7,0,null, 36 ,1,29,43.76206961077844,11.25,No
+ 60 months,RENT,C,debt_consolidation,13.56%,VA,Current,Individual,15000,6 years,45000,16.27,0,34.40%,10197,11,0,null, 60 ,6,34,43.76206961077844,16.27,No
+ 36 months,RENT,C,debt_consolidation,15.02%,CA,Current,Individual,9600,1 year,80000,7.08,1,40%,9728,13,0,null, 36 ,1,40,43.76206961077844,7.08,No
+ 36 months,OWN,C,major_purchase,13.56%,AL,Late (31-120 days),Individual,4000,n/a,14256,0,0,0%,0,6,0,null, 36 ,,0,43.76206961077844,0,yes
+ 60 months,MORTGAGE,C,debt_consolidation,13.56%,MD,Current,Individual,18000,10+ years,75000,26.18,0,73.20%,26787,28,0,null, 60 ,10,73,43.76206961077844,26.18,No
+ 36 months,RENT,A,house,8.19%,TX,Current,Individual,5000,4 years,130000,17.47,0,52.60%,22213,27,0,null, 36 ,4,52,43.76206961077844,17.47,No
+ 60 months,RENT,C,debt_consolidation,15.02%,CA,Current,Joint App,40000,2 years,102000,4.53,0,55.90%,15553,6,0,5.75, 60 ,2,55,43.76206961077844,4.53,No
+ 60 months,OWN,B,debt_consolidation,12.98%,GA,Current,Individual,25000,10+ years,72000,17.1,0,51.30%,22024,14,0,null, 60 ,10,51,43.76206961077844,17.1,No
+ 36 months,RENT,A,debt_consolidation,8.46%,CA,Current,Individual,10000,3 years,55000,19.27,0,47.10%,13619,17,0,null, 36 ,3,47,43.76206961077844,19.27,No
+ 60 months,MORTGAGE,B,debt_consolidation,11.31%,CA,Current,Joint App,40000,10+ years,190000,9.66,0,27%,137356,46,0,12.71, 60 ,10,27,43.76206961077844,9.66,No
+ 36 months,RENT,C,vacation,16.91%,IL,Current,Individual,1500,< 1 year,43000,4.02,0,5.40%,1203,11,0,null, 36 ,1,5,43.76206961077844,4.02,No
+ 36 months,RENT,A,debt_consolidation,8.19%,TX,Current,Individual,5000,< 1 year,50000,6.53,0,38.90%,13317,17,0,null, 36 ,1,38,43.76206961077844,6.53,No
+ 60 months,MORTGAGE,E,debt_consolidation,24.37%,NC,Current,Joint App,35000,3 years,29640,25.02,0,94.50%,23162,12,0,13.79, 60 ,3,94,43.76206961077844,25.02,No
+ 60 months,RENT,D,debt_consolidation,22.35%,IN,Current,Joint App,40000,< 1 year,50000,1.9,2,2.50%,345,14,0,14.38, 60 ,1,2,43.76206961077844,1.9,No
+ 36 months,OWN,A,credit_card,7.56%,IN,Current,Individual,17000,< 1 year,105000,23.11,0,62.10%,18083,19,0,null, 36 ,1,62,43.76206961077844,23.11,No
+ 36 months,MORTGAGE,B,other,11.31%,OH,Current,Joint App,1500,n/a,28000,33.82,0,73.30%,12090,21,0,25.99, 36 ,,73,43.76206961077844,33.82,No
+ 36 months,RENT,D,small_business,17.97%,NJ,Current,Individual,1850,9 years,47000,28.65,0,58.40%,14882,22,0,null, 36 ,9,58,43.76206961077844,28.65,No
+ 36 months,RENT,C,credit_card,14.47%,CA,Current,Individual,8000,< 1 year,40000,38.7,0,6.40%,3580,19,0,null, 36 ,1,6,43.76206961077844,38.7,No
+ 60 months,MORTGAGE,C,credit_card,16.14%,NC,Current,Joint App,30000,10+ years,67000,26.26,0,59.10%,10867,19,0,23.08, 60 ,10,59,43.76206961077844,26.26,No
+ 36 months,RENT,E,major_purchase,27.27%,CO,Current,Individual,1000,7 years,59000,11.84,0,80.80%,3638,8,0,null, 36 ,7,80,43.76206961077844,11.84,No
+ 36 months,MORTGAGE,C,debt_consolidation,16.91%,SC,Current,Individual,30000,< 1 year,94000,15.61,0,97.30%,23927,8,0,null, 36 ,1,97,43.76206961077844,15.61,No
+ 60 months,MORTGAGE,C,debt_consolidation,16.14%,CO,Current,Individual,25000,n/a,75000,5.78,0,30.30%,12514,35,0,null, 60 ,,30,43.76206961077844,5.78,No
+ 60 months,RENT,B,credit_card,10.33%,CO,Current,Individual,11000,3 years,40000,9.03,0,49.60%,11218,20,0,null, 60 ,3,49,43.76206961077844,9.03,No
+ 36 months,RENT,B,other,12.98%,WV,Current,Joint App,12000,7 years,24000,36.7,0,51.10%,13289,7,0,15.56, 36 ,7,51,43.76206961077844,36.7,No
+ 36 months,RENT,C,debt_consolidation,14.47%,MI,Current,Individual,6000,6 years,24000,20.7,1,43.50%,6138,12,0,null, 36 ,6,43,43.76206961077844,20.7,No
+ 36 months,MORTGAGE,C,debt_consolidation,16.14%,MS,Current,Individual,20000,5 years,65000,4.34,0,49.20%,11607,8,0,null, 36 ,5,49,43.76206961077844,4.34,No
+ 36 months,RENT,B,debt_consolidation,11.80%,CO,Current,Individual,3300,1 year,70000,2.11,0,16.80%,8515,4,0,null, 36 ,1,16,43.76206961077844,2.11,No
+ 36 months,RENT,A,debt_consolidation,7.56%,MD,Current,Individual,15000,n/a,50000,5.21,0,13.90%,5132,25,0,null, 36 ,,13,43.76206961077844,5.21,No
+ 36 months,RENT,D,home_improvement,18.94%,NY,Current,Individual,9000,2 years,45000,37.81,0,47.90%,23679,16,0,null, 36 ,2,47,43.76206961077844,37.81,No
+ 36 months,MORTGAGE,B,debt_consolidation,12.98%,UT,Current,Individual,10000,10+ years,38000,15.19,0,31.50%,6834,14,0,null, 36 ,10,31,43.76206961077844,15.19,No
+ 36 months,OWN,B,debt_consolidation,11.31%,CA,Current,Individual,4000,10+ years,65000,10.12,0,5.40%,1075,14,0,null, 36 ,10,5,43.76206961077844,10.12,No
+ 36 months,MORTGAGE,C,debt_consolidation,16.91%,MI,Current,Individual,12000,10+ years,52000,20.61,0,27.40%,8699,14,0,null, 36 ,10,27,43.76206961077844,20.61,No
+ 36 months,MORTGAGE,C,debt_consolidation,14.47%,MI,Current,Joint App,8000,< 1 year,15000,14.72,0,43.30%,3979,10,0,22.99, 36 ,1,43,43.76206961077844,14.72,No
+ 36 months,RENT,A,credit_card,8.81%,IL,Current,Individual,10000,10+ years,103161,8.53,0,33.60%,10642,12,0,null, 36 ,10,33,43.76206961077844,8.53,No
+ 36 months,RENT,A,debt_consolidation,8.81%,MO,Current,Individual,10600,10+ years,62000,17.27,0,39.70%,9717,15,0,null, 36 ,10,39,43.76206961077844,17.27,No
+ 36 months,RENT,B,debt_consolidation,10.72%,TX,Current,Individual,6000,3 years,48000,8.4,1,57.60%,5010,19,0,null, 36 ,3,57,43.76206961077844,8.4,No
+ 36 months,RENT,C,credit_card,13.56%,PA,Current,Individual,8000,< 1 year,60000,15.74,0,28.80%,1237,14,0,null, 36 ,1,28,43.76206961077844,15.74,No
+ 36 months,RENT,A,debt_consolidation,8.19%,MA,Fully Paid,Individual,26525,4 years,189000,17.41,0,23.90%,29008,33,0,null, 36 ,4,23,43.76206961077844,17.41,No
+ 60 months,MORTGAGE,C,debt_consolidation,16.91%,NE,Current,Individual,20000,8 years,52000,35.47,0,8.20%,3017,28,0,null, 60 ,8,8,43.76206961077844,35.47,No
+ 60 months,RENT,A,debt_consolidation,8.19%,CA,Current,Individual,17000,< 1 year,30000,14.8,0,28.60%,13866,26,0,null, 60 ,1,28,43.76206961077844,14.8,No
+ 36 months,RENT,C,major_purchase,14.47%,AR,Fully Paid,Joint App,16000,8 years,49000,15.23,0,57.10%,1771,6,0,7.89, 36 ,8,57,43.76206961077844,15.23,No
+ 60 months,MORTGAGE,A,debt_consolidation,8.19%,CA,Current,Individual,10000,10+ years,62000,6.39,0,12.80%,9990,18,0,null, 60 ,10,12,43.76206961077844,6.39,No
+ 36 months,MORTGAGE,C,debt_consolidation,16.14%,IN,Current,Individual,9775,10+ years,99000,39.32,0,28.90%,13553,37,0,null, 36 ,10,28,43.76206961077844,39.32,No
+ 36 months,RENT,C,credit_card,15.02%,NY,Current,Individual,7000,10+ years,120000,17.29,1,67.20%,14244,27,1,null, 36 ,10,67,43.76206961077844,17.29,No
+ 36 months,RENT,C,debt_consolidation,16.14%,AZ,Current,Individual,14000,2 years,60000,19.66,1,61.60%,7759,11,1,null, 36 ,2,61,43.76206961077844,19.66,No
+ 60 months,RENT,A,debt_consolidation,8.19%,CT,Current,Individual,16000,10+ years,75000,17.84,0,66.30%,18505,23,0,null, 60 ,10,66,43.76206961077844,17.84,No
+ 36 months,RENT,C,debt_consolidation,13.56%,NV,Current,Individual,18000,9 years,145000,10.91,0,54%,10100,35,0,null, 36 ,9,54,43.76206961077844,10.91,No
+ 36 months,RENT,C,debt_consolidation,16.14%,CA,Current,Individual,10000,3 years,35000,27.81,0,23.90%,8969,14,0,null, 36 ,3,23,43.76206961077844,27.81,No
+ 36 months,RENT,B,credit_card,10.72%,TX,Current,Individual,16000,< 1 year,105000,22.15,1,44.90%,21035,24,0,null, 36 ,1,44,43.76206961077844,22.15,No
+ 60 months,MORTGAGE,B,credit_card,12.98%,NV,Current,Individual,18000,10+ years,125000,30.6,0,19.10%,26433,46,0,null, 60 ,10,19,43.76206961077844,30.6,No
+ 60 months,MORTGAGE,C,debt_consolidation,15.02%,VA,Current,Individual,40000,10+ years,89000,25.67,0,63.50%,41040,40,0,null, 60 ,10,63,43.76206961077844,25.67,No
+ 36 months,RENT,A,debt_consolidation,6.46%,CA,Current,Individual,3000,1 year,35000,20.54,0,34.50%,3175,12,0,null, 36 ,1,34,43.76206961077844,20.54,No
+ 36 months,MORTGAGE,A,major_purchase,7.56%,CA,Current,Individual,25000,10+ years,125000,19.93,0,23.10%,13375,39,0,null, 36 ,10,23,43.76206961077844,19.93,No
+ 36 months,MORTGAGE,A,credit_card,7.02%,TX,Current,Individual,20000,4 years,80000,24.17,0,54.10%,19160,20,0,null, 36 ,4,54,43.76206961077844,24.17,No
+ 36 months,MORTGAGE,E,credit_card,25.34%,OH,Fully Paid,Joint App,1200,10+ years,145000,12.01,0,60.90%,24780,52,0,12.6, 36 ,10,60,43.76206961077844,12.01,No
+ 36 months,MORTGAGE,B,credit_card,10.72%,ID,Current,Joint App,16800,10+ years,56000,16.55,0,93.30%,4665,24,0,14.53, 36 ,10,93,43.76206961077844,16.55,No
+ 60 months,MORTGAGE,E,debt_consolidation,27.27%,PA,Current,Individual,14075,6 years,29120,29.84,0,38.40%,5263,24,0,null, 60 ,6,38,43.76206961077844,29.84,No
+ 36 months,OWN,A,debt_consolidation,8.19%,CA,Current,Individual,40000,8 years,150000,11.01,0,54.40%,22730,8,0,null, 36 ,8,54,43.76206961077844,11.01,No
+ 36 months,MORTGAGE,D,other,19.92%,PA,Current,Individual,3000,10+ years,80000,14.93,3,null,0,15,0,null, 36 ,10,43.76206961077844,43.76206961077844,14.93,No
+ 36 months,MORTGAGE,B,debt_consolidation,12.98%,TX,Current,Individual,30000,7 years,100000,16.34,0,75.70%,21035,22,0,null, 36 ,7,75,43.76206961077844,16.34,No
+ 60 months,MORTGAGE,F,debt_consolidation,28.72%,IN,Fully Paid,Individual,12000,7 years,184000,12.84,0,82.20%,28846,29,0,null, 60 ,7,82,43.76206961077844,12.84,No
+ 36 months,OWN,B,credit_card,10.72%,NJ,Current,Individual,16000,1 year,37000,25.49,0,89.60%,10121,6,0,null, 36 ,1,89,43.76206961077844,25.49,No
+ 36 months,OWN,B,debt_consolidation,10.33%,CT,Late (16-30 days),Individual,15000,n/a,22000,6.6,0,11.70%,7371,33,0,null, 36 ,,11,43.76206961077844,6.6,yes
+ 36 months,RENT,A,debt_consolidation,6.46%,FL,Current,Individual,10000,2 years,48000,7.63,0,29.70%,11165,14,0,null, 36 ,2,29,43.76206961077844,7.63,No
+ 36 months,MORTGAGE,C,other,16.91%,NH,Fully Paid,Individual,2100,7 years,65300,16.96,0,65.10%,7746,16,0,null, 36 ,7,65,43.76206961077844,16.96,No
+ 60 months,RENT,D,debt_consolidation,20.89%,NY,Current,Individual,12000,3 years,30000,11.68,0,57.90%,7063,9,0,null, 60 ,3,57,43.76206961077844,11.68,No
+ 36 months,MORTGAGE,D,credit_card,17.97%,VT,Current,Individual,10000,4 years,54407,33.18,0,9%,8936,53,0,null, 36 ,4,9,43.76206961077844,33.18,No
+ 60 months,RENT,C,debt_consolidation,14.47%,FL,Current,Individual,10000,n/a,42000,16.94,0,39.80%,9029,19,0,null, 60 ,,39,43.76206961077844,16.94,No
+ 36 months,RENT,A,debt_consolidation,7.56%,OH,Current,Individual,10000,4 years,65000,27.75,1,18.60%,7631,30,1,null, 36 ,4,18,43.76206961077844,27.75,No
+ 36 months,MORTGAGE,B,debt_consolidation,11.80%,PA,Current,Individual,38400,10+ years,70000,30.5,0,15.10%,12902,39,0,null, 36 ,10,15,43.76206961077844,30.5,No
+ 36 months,MORTGAGE,A,debt_consolidation,6.46%,TX,Current,Individual,40000,2 years,110000,9.57,0,91.40%,24766,20,0,null, 36 ,2,91,43.76206961077844,9.57,No
+ 36 months,MORTGAGE,B,debt_consolidation,10.33%,GA,Current,Joint App,16000,6 years,67000,24.09,0,60.80%,15127,22,0,22.41, 36 ,6,60,43.76206961077844,24.09,No
+ 36 months,MORTGAGE,B,debt_consolidation,11.31%,NJ,Current,Individual,12000,< 1 year,51100,5.61,0,34.40%,4472,12,0,null, 36 ,1,34,43.76206961077844,5.61,No
+ 36 months,MORTGAGE,A,credit_card,8.81%,FL,Fully Paid,Individual,4050,10+ years,56000,16.57,0,19%,3756,15,0,null, 36 ,10,19,43.76206961077844,16.57,No
+ 36 months,RENT,C,major_purchase,13.56%,AZ,Current,Joint App,19650,3 years,33000,51.93,1,1%,433,18,0,32.23, 36 ,3,1,43.76206961077844,51.93,No
+ 36 months,MORTGAGE,C,major_purchase,14.47%,MD,Current,Individual,35000,7 years,109539,11.88,0,46.50%,20119,22,0,null, 36 ,7,46,43.76206961077844,11.88,No
+ 36 months,MORTGAGE,A,debt_consolidation,8.81%,TX,Current,Individual,40000,4 years,85000,12.69,0,64.10%,16782,21,0,null, 36 ,4,64,43.76206961077844,12.69,No
+ 36 months,RENT,A,debt_consolidation,8.19%,MN,Current,Individual,2000,< 1 year,65000,15.16,0,35.20%,14002,22,0,null, 36 ,1,35,43.76206961077844,15.16,No
+ 36 months,RENT,D,debt_consolidation,18.94%,VA,Current,Individual,13800,10+ years,220000,11.13,1,73.60%,14639,14,1,null, 36 ,10,73,43.76206961077844,11.13,No
+ 36 months,RENT,D,credit_card,19.92%,TX,Current,Individual,30000,1 year,68000,33.52,0,16%,2486,28,0,null, 36 ,1,16,43.76206961077844,33.52,No
+ 36 months,RENT,A,credit_card,7.56%,MI,Current,Individual,4000,8 years,56000,5.23,0,12.20%,4880,25,0,null, 36 ,8,12,43.76206961077844,5.23,No
+ 36 months,OWN,C,credit_card,16.91%,FL,Current,Joint App,7200,5 years,56000,39.95,1,72.70%,5816,26,0,35.31, 36 ,5,72,43.76206961077844,39.95,No
+ 36 months,MORTGAGE,B,credit_card,10.33%,NJ,Current,Individual,10000,< 1 year,250000,8.16,0,45.90%,19564,40,0,null, 36 ,1,45,43.76206961077844,8.16,No
+ 36 months,MORTGAGE,B,credit_card,11.31%,IL,Current,Individual,7500,n/a,24000,8.6,0,10.60%,4450,15,0,null, 36 ,,10,43.76206961077844,8.6,No
+ 36 months,OWN,C,debt_consolidation,16.91%,CA,Current,Individual,8000,10+ years,49000,33.48,0,95%,30775,22,0,null, 36 ,10,95,43.76206961077844,33.48,No
+ 36 months,RENT,B,debt_consolidation,10.33%,FL,Current,Individual,5000,10+ years,155000,10.18,0,70.40%,29550,27,0,null, 36 ,10,70,43.76206961077844,10.18,No
+ 36 months,RENT,A,debt_consolidation,8.81%,MO,Current,Individual,6500,1 year,40000,35.58,0,11.30%,6825,30,0,null, 36 ,1,11,43.76206961077844,35.58,No
+ 36 months,RENT,D,credit_card,18.94%,IL,Current,Individual,12800,n/a,24000,12.1,0,62.20%,7959,7,0,null, 36 ,,62,43.76206961077844,12.1,No
+ 36 months,MORTGAGE,E,other,25.34%,MI,Current,Individual,1200,9 years,105000,26.57,0,72.80%,46224,37,0,null, 36 ,9,72,43.76206961077844,26.57,No
+ 36 months,RENT,B,debt_consolidation,11.31%,AZ,Current,Individual,7000,1 year,112896,8.88,0,66.40%,9499,8,0,null, 36 ,1,66,43.76206961077844,8.88,No
+ 36 months,RENT,A,debt_consolidation,6.46%,CA,Current,Individual,10000,10+ years,130000,19.81,0,51.70%,26236,42,0,null, 36 ,10,51,43.76206961077844,19.81,No
+ 36 months,MORTGAGE,E,debt_consolidation,26.31%,MO,Late (31-120 days),Joint App,35000,10+ years,104000,44.9,1,62.90%,28824,42,0,38.17, 36 ,10,62,43.76206961077844,44.9,yes
+ 36 months,RENT,B,debt_consolidation,10.72%,CA,Current,Individual,15000,1 year,120000,15.98,0,92%,28226,9,0,null, 36 ,1,92,43.76206961077844,15.98,No
+ 36 months,RENT,E,debt_consolidation,23.40%,MI,Current,Individual,5500,10+ years,48000,22.28,0,46.10%,5394,21,0,null, 36 ,10,46,43.76206961077844,22.28,No
+ 36 months,MORTGAGE,A,home_improvement,8.81%,KY,Current,Individual,5000,< 1 year,136800,4.54,0,9.80%,2943,24,0,null, 36 ,1,9,43.76206961077844,4.54,No
+ 36 months,RENT,B,credit_card,10.47%,TX,Current,Individual,7000,6 years,38000,28.67,1,21.80%,12526,37,0,null, 36 ,6,21,43.76206961077844,28.67,No
+ 36 months,MORTGAGE,B,debt_consolidation,11.80%,VA,Current,Joint App,30000,< 1 year,60000,21.76,1,0%,0,16,0,10.81, 36 ,1,0,43.76206961077844,21.76,No
+ 36 months,RENT,C,other,16.91%,TX,Current,Joint App,5000,10+ years,30000,43.2,0,65.60%,14700,27,0,26.25, 36 ,10,65,43.76206961077844,43.2,No
+ 60 months,MORTGAGE,A,credit_card,8.81%,KY,Current,Individual,20000,3 years,125000,16.81,0,20.90%,35528,100,0,null, 60 ,3,20,43.76206961077844,16.81,No
+ 60 months,MORTGAGE,B,credit_card,10.72%,CA,Current,Individual,40000,10+ years,120000,24.75,0,44.10%,45917,36,0,null, 60 ,10,44,43.76206961077844,24.75,No
+ 60 months,MORTGAGE,D,credit_card,18.94%,WI,Current,Joint App,28300,10+ years,110000,38.36,0,80.30%,87353,35,0,21.81, 60 ,10,80,43.76206961077844,38.36,No
+ 36 months,MORTGAGE,A,debt_consolidation,6.46%,NJ,Current,Individual,10000,10+ years,70000,7.85,0,63.50%,8958,16,0,null, 36 ,10,63,43.76206961077844,7.85,No
+ 36 months,RENT,A,debt_consolidation,8.81%,OH,Current,Individual,8500,2 years,51500,27.24,0,31.30%,16356,37,0,null, 36 ,2,31,43.76206961077844,27.24,No
+ 60 months,MORTGAGE,B,credit_card,10.72%,NY,Current,Individual,20000,10+ years,110000,15.11,0,37.20%,23957,29,0,null, 60 ,10,37,43.76206961077844,15.11,No
+ 60 months,RENT,D,debt_consolidation,20.89%,CA,Current,Individual,20000,< 1 year,80460,10.92,0,53.10%,9395,9,0,null, 60 ,1,53,43.76206961077844,10.92,No
+ 36 months,RENT,A,credit_card,7.56%,TX,Current,Individual,5000,7 years,112000,7.88,0,16.40%,3751,23,0,null, 36 ,7,16,43.76206961077844,7.88,No
+ 60 months,MORTGAGE,D,major_purchase,19.92%,MA,Current,Individual,28700,n/a,85000,9.21,1,21.60%,1943,19,0,null, 60 ,,21,43.76206961077844,9.21,No
+ 36 months,RENT,B,credit_card,12.98%,VA,Current,Individual,5000,5 years,65000,18.67,0,49.80%,10660,17,0,null, 36 ,5,49,43.76206961077844,18.67,No
+ 36 months,MORTGAGE,A,credit_card,7.56%,IL,Current,Individual,40000,2 years,310000,9.82,0,19.80%,98209,54,0,null, 36 ,2,19,43.76206961077844,9.82,No
+ 36 months,MORTGAGE,D,debt_consolidation,18.94%,GA,Current,Individual,10000,3 years,110000,21.3,0,87.20%,19625,66,0,null, 36 ,3,87,43.76206961077844,21.3,No
+ 60 months,MORTGAGE,D,debt_consolidation,22.35%,AR,Current,Individual,10000,4 years,36000,4.9,0,52%,4055,4,0,null, 60 ,4,52,43.76206961077844,4.9,No
+ 36 months,RENT,A,debt_consolidation,7.56%,IL,Current,Individual,30000,n/a,60000,10.86,0,78.20%,24307,9,0,null, 36 ,,78,43.76206961077844,10.86,No
+ 36 months,RENT,A,debt_consolidation,6.46%,TX,Current,Individual,20000,4 years,120000,6.21,0,9.20%,2215,6,0,null, 36 ,4,9,43.76206961077844,6.21,No
+ 60 months,OWN,B,credit_card,10.33%,CA,Current,Individual,24000,1 year,86000,27.63,0,8.60%,9070,52,0,null, 60 ,1,8,43.76206961077844,27.63,No
+ 36 months,MORTGAGE,B,debt_consolidation,11.80%,NJ,Current,Individual,24000,6 years,98000,18.07,1,68.70%,29688,41,0,null, 36 ,6,68,43.76206961077844,18.07,No
+ 36 months,MORTGAGE,C,debt_consolidation,16.91%,TN,Current,Individual,10000,10+ years,51000,22.87,2,96%,18147,16,0,null, 36 ,10,96,43.76206961077844,22.87,No
+ 36 months,RENT,C,debt_consolidation,14.47%,CA,Current,Individual,10000,< 1 year,90000,16.55,1,51%,13158,23,0,null, 36 ,1,51,43.76206961077844,16.55,No
+ 60 months,MORTGAGE,D,debt_consolidation,17.97%,KS,Current,Individual,15000,10+ years,70000,23.04,0,57.90%,3645,12,0,null, 60 ,10,57,43.76206961077844,23.04,No
+ 60 months,RENT,F,debt_consolidation,28.72%,NM,Current,Individual,21150,1 year,47000,34.96,0,95%,23386,30,0,null, 60 ,1,95,43.76206961077844,34.96,No
+ 60 months,RENT,B,debt_consolidation,11.80%,FL,Current,Individual,27000,3 years,85000,31.26,0,45.20%,21853,24,0,null, 60 ,3,45,43.76206961077844,31.26,No
+ 36 months,RENT,B,debt_consolidation,12.73%,MI,Current,Individual,30000,10+ years,65000,11.3,1,26%,5191,22,0,null, 36 ,10,26,43.76206961077844,11.3,No
+ 60 months,MORTGAGE,B,debt_consolidation,12.98%,PA,Current,Individual,26000,10+ years,60000,13.94,0,52%,21313,25,0,null, 60 ,10,52,43.76206961077844,13.94,No
+ 36 months,MORTGAGE,A,debt_consolidation,6.46%,FL,Current,Joint App,15000,n/a,10000,107.8,0,43.40%,13488,39,0,17.17, 36 ,,43,43.76206961077844,107.8,No
+ 60 months,MORTGAGE,D,debt_consolidation,18.94%,IN,Current,Individual,24000,2 years,124000,24.22,0,52.70%,20224,14,0,null, 60 ,2,52,43.76206961077844,24.22,No
+ 36 months,MORTGAGE,A,credit_card,6.46%,CA,Current,Individual,9000,10+ years,54000,13.87,0,22.10%,10666,17,0,null, 36 ,10,22,43.76206961077844,13.87,No
+ 60 months,RENT,D,debt_consolidation,19.92%,CA,Current,Individual,12000,4 years,90000,13.95,0,65.80%,14337,13,0,null, 60 ,4,65,43.76206961077844,13.95,No
+ 36 months,MORTGAGE,A,other,8.81%,CA,Current,Individual,35000,< 1 year,216000,21.51,0,43.60%,73596,45,0,null, 36 ,1,43,43.76206961077844,21.51,No
+ 36 months,MORTGAGE,C,other,16.14%,NJ,Current,Individual,7500,n/a,84000,4.04,0,5.10%,172,4,0,null, 36 ,,5,43.76206961077844,4.04,No
+ 36 months,MORTGAGE,A,debt_consolidation,6.46%,NY,Current,Individual,40000,1 year,150000,13.07,0,46.50%,35664,37,0,null, 36 ,1,46,43.76206961077844,13.07,No
+ 60 months,RENT,B,debt_consolidation,12.98%,MA,Current,Individual,37000,< 1 year,215000,7.89,0,12.10%,4464,31,0,null, 60 ,1,12,43.76206961077844,7.89,No
+ 36 months,MORTGAGE,B,debt_consolidation,10.33%,TX,Current,Individual,40000,< 1 year,240000,10.59,1,68.80%,57894,22,0,null, 36 ,1,68,43.76206961077844,10.59,No
+ 60 months,MORTGAGE,C,debt_consolidation,15.02%,GA,Current,Individual,24000,< 1 year,137000,22.91,1,81%,49351,29,0,null, 60 ,1,81,43.76206961077844,22.91,No
+ 60 months,RENT,E,debt_consolidation,26.31%,CA,Fully Paid,Individual,10000,n/a,38052,9.08,0,67.40%,1213,9,0,null, 60 ,,67,43.76206961077844,9.08,No
+ 36 months,RENT,C,debt_consolidation,13.56%,KS,Current,Individual,5000,10+ years,55000,26.12,0,49.70%,6854,21,0,null, 36 ,10,49,43.76206961077844,26.12,No
+ 36 months,MORTGAGE,A,debt_consolidation,7.02%,IL,Current,Individual,20000,5 years,52000,27.99,0,44%,13464,44,0,null, 36 ,5,44,43.76206961077844,27.99,No
+ 60 months,MORTGAGE,A,debt_consolidation,8.19%,OH,Current,Joint App,25000,10+ years,80000,30.09,0,34.40%,22333,32,0,29.48, 60 ,10,34,43.76206961077844,30.09,No
+ 36 months,OWN,C,car,16.14%,IN,Current,Individual,4500,4 years,65000,19.77,0,55.50%,27824,28,0,null, 36 ,4,55,43.76206961077844,19.77,No
+ 60 months,MORTGAGE,B,credit_card,10.33%,OH,Current,Individual,14000,10+ years,59000,18.53,0,33%,14239,31,0,null, 60 ,10,33,43.76206961077844,18.53,No
+ 36 months,MORTGAGE,D,credit_card,20.89%,NJ,Current,Individual,25000,10+ years,150000,27.48,1,49.40%,181348,27,0,null, 36 ,10,49,43.76206961077844,27.48,No
+ 36 months,MORTGAGE,D,debt_consolidation,17.97%,MI,Current,Individual,10000,10+ years,68000,13.38,1,82.50%,9492,37,1,null, 36 ,10,82,43.76206961077844,13.38,No
+ 36 months,OWN,D,debt_consolidation,17.97%,ID,Current,Individual,15000,n/a,42000,28.94,0,56.20%,11530,21,0,null, 36 ,,56,43.76206961077844,28.94,No
+ 36 months,MORTGAGE,A,debt_consolidation,7.56%,GA,Current,Individual,12000,10+ years,80000,32.97,0,7.80%,6477,45,0,null, 36 ,10,7,43.76206961077844,32.97,No
+ 36 months,MORTGAGE,B,debt_consolidation,10.72%,NJ,Current,Individual,5000,3 years,75000,8.58,0,23.50%,10052,27,0,null, 36 ,3,23,43.76206961077844,8.58,No
+ 36 months,MORTGAGE,B,major_purchase,11.31%,PA,Current,Individual,20000,4 years,90000,22.51,1,25.70%,6098,27,0,null, 36 ,4,25,43.76206961077844,22.51,No
+ 60 months,MORTGAGE,B,other,10.72%,UT,Current,Individual,10000,10+ years,82000,11.82,0,33%,15511,25,0,null, 60 ,10,33,43.76206961077844,11.82,No
+ 60 months,MORTGAGE,B,credit_card,10.72%,AZ,Current,Individual,37000,5 years,85500,18.48,0,59.10%,23417,30,0,null, 60 ,5,59,43.76206961077844,18.48,No
+ 36 months,MORTGAGE,A,credit_card,7.02%,NH,Current,Individual,13000,10+ years,52707,5.51,1,61.70%,13257,8,1,null, 36 ,10,61,43.76206961077844,5.51,No
+ 36 months,OWN,A,debt_consolidation,6.46%,AL,Current,Joint App,20000,n/a,45000,31.36,0,8.30%,8523,27,0,19.29, 36 ,,8,43.76206961077844,31.36,No
+ 60 months,OWN,C,home_improvement,16.91%,CT,Current,Individual,40000,8 years,140000,7.47,2,12%,8768,33,0,null, 60 ,8,12,43.76206961077844,7.47,No
+ 36 months,RENT,B,credit_card,11.31%,FL,Current,Individual,12000,1 year,72800,10.91,0,24.50%,3459,21,0,null, 36 ,1,24,43.76206961077844,10.91,No
+ 36 months,RENT,B,credit_card,11.31%,CA,Current,Individual,10000,2 years,40000,6.24,0,64.80%,8557,11,0,null, 36 ,2,64,43.76206961077844,6.24,No
+ 36 months,MORTGAGE,B,debt_consolidation,10.72%,OK,Current,Joint App,40000,n/a,77126.4,27.17,0,83.20%,42179,34,0,18.18, 36 ,,83,43.76206961077844,27.17,No
+ 36 months,RENT,A,other,8.19%,CA,Current,Individual,4275,< 1 year,225000,13.71,0,0.10%,99,12,0,null, 36 ,1,0,43.76206961077844,13.71,No
+ 36 months,MORTGAGE,B,debt_consolidation,11.31%,OH,Current,Individual,25000,5 years,70000,6.05,0,45.70%,15178,5,0,null, 36 ,5,45,43.76206961077844,6.05,No
+ 60 months,MORTGAGE,D,credit_card,17.97%,PA,Current,Individual,25000,10+ years,83000,16.45,0,55.80%,20770,15,0,null, 60 ,10,55,43.76206961077844,16.45,No
+ 60 months,MORTGAGE,B,credit_card,11.80%,GA,Current,Individual,16000,1 year,105000,23.44,0,66.20%,44865,50,0,null, 60 ,1,66,43.76206961077844,23.44,No
+ 36 months,MORTGAGE,A,credit_card,8.19%,NJ,Current,Individual,10000,10+ years,108104,16.16,0,32.50%,21207,36,0,null, 36 ,10,32,43.76206961077844,16.16,No
+ 36 months,RENT,D,debt_consolidation,20.89%,CA,Current,Individual,12000,6 years,38000,7.83,0,66.50%,5718,7,0,null, 36 ,6,66,43.76206961077844,7.83,No
+ 36 months,MORTGAGE,B,debt_consolidation,11.06%,CA,Current,Individual,10000,10+ years,54000,16.13,0,50.20%,5422,11,0,null, 36 ,10,50,43.76206961077844,16.13,No
+ 36 months,MORTGAGE,A,debt_consolidation,7.02%,IN,Current,Individual,12000,8 years,105000,35.73,0,13.50%,10312,33,0,null, 36 ,8,13,43.76206961077844,35.73,No
+ 36 months,MORTGAGE,C,medical,16.91%,CA,Fully Paid,Individual,1000,4 years,76100,24.7,0,50.10%,5461,30,0,null, 36 ,4,50,43.76206961077844,24.7,No
+ 36 months,MORTGAGE,A,debt_consolidation,6.46%,VA,Current,Individual,10000,< 1 year,118000,10.69,0,27.80%,13682,20,0,null, 36 ,1,27,43.76206961077844,10.69,No
+ 36 months,MORTGAGE,B,debt_consolidation,11.80%,OH,Current,Individual,21000,5 years,84000,22.83,0,34.50%,5756,21,0,null, 36 ,5,34,43.76206961077844,22.83,No
+ 36 months,OWN,B,credit_card,11.80%,FL,Fully Paid,Individual,5000,3 years,70000,29.16,0,0.20%,39,6,0,null, 36 ,3,0,43.76206961077844,29.16,No
+ 60 months,RENT,D,debt_consolidation,20.89%,NC,Current,Individual,15000,10+ years,48000,17.74,0,86.50%,11680,14,0,null, 60 ,10,86,43.76206961077844,17.74,No
+ 60 months,MORTGAGE,C,debt_consolidation,14.47%,MN,Current,Individual,20000,10+ years,100000,25.14,0,49.40%,44826,45,0,null, 60 ,10,49,43.76206961077844,25.14,No
+ 36 months,RENT,A,debt_consolidation,8.81%,OR,Current,Individual,7000,2 years,54000,4.76,0,55.60%,3223,5,0,null, 36 ,2,55,43.76206961077844,4.76,No
+ 36 months,RENT,A,credit_card,7.21%,NY,Current,Individual,6400,6 years,70000,21.31,0,23.70%,5118,15,0,null, 36 ,6,23,43.76206961077844,21.31,No
+ 60 months,RENT,B,credit_card,12.98%,NY,Current,Individual,30000,10+ years,102000,11.79,0,40%,30584,31,0,null, 60 ,10,40,43.76206961077844,11.79,No
+ 60 months,MORTGAGE,C,debt_consolidation,16.14%,TX,Current,Individual,20000,9 years,78000,11.98,1,31%,19946,20,0,null, 60 ,9,31,43.76206961077844,11.98,No
+ 36 months,MORTGAGE,A,debt_consolidation,7.56%,FL,Current,Individual,10000,2 years,110000,2.19,0,58.50%,6671,5,0,null, 36 ,2,58,43.76206961077844,2.19,No
+ 60 months,RENT,B,credit_card,11.80%,NY,Current,Individual,13000,3 years,56000,26.06,1,96%,10469,7,0,null, 60 ,3,96,43.76206961077844,26.06,No
+ 36 months,MORTGAGE,B,credit_card,10.33%,PA,Current,Individual,10000,1 year,60000,15.62,2,44.30%,10588,20,1,null, 36 ,1,44,43.76206961077844,15.62,No
+ 36 months,RENT,A,debt_consolidation,8.19%,NY,Current,Individual,2700,6 years,54000,7.84,0,16.10%,3244,18,0,null, 36 ,6,16,43.76206961077844,7.84,No
+ 36 months,RENT,A,major_purchase,8.81%,IL,Current,Individual,6500,10+ years,50000,29.4,0,6.90%,3952,33,0,null, 36 ,10,6,43.76206961077844,29.4,No
+ 36 months,MORTGAGE,D,home_improvement,20.89%,AR,Current,Individual,5000,2 years,161000,15.49,0,80.80%,47736,62,0,null, 36 ,2,80,43.76206961077844,15.49,No
+ 36 months,MORTGAGE,A,credit_card,7.02%,WA,Current,Individual,38250,< 1 year,290000,8.58,0,57.30%,37142,38,0,null, 36 ,1,57,43.76206961077844,8.58,No
+ 60 months,MORTGAGE,B,credit_card,11.80%,CA,Current,Individual,20500,10+ years,65000,15.36,0,57%,41827,23,0,null, 60 ,10,57,43.76206961077844,15.36,No
+ 36 months,MORTGAGE,B,debt_consolidation,11.31%,CA,Fully Paid,Individual,12000,5 years,168000,20.2,5,54.50%,28071,48,1,null, 36 ,5,54,43.76206961077844,20.2,No
+ 60 months,RENT,A,credit_card,8.46%,CT,Current,Individual,15000,1 year,53500,24.67,0,44.40%,20904,22,0,null, 60 ,1,44,43.76206961077844,24.67,No
+ 60 months,RENT,C,debt_consolidation,13.56%,NY,Current,Joint App,25000,10+ years,30000,2.88,0,66.10%,3304,4,0,10.21, 60 ,10,66,43.76206961077844,2.88,No
+ 36 months,MORTGAGE,A,credit_card,6.46%,WA,Current,Joint App,8500,6 years,107000,15.13,0,15.80%,9390,10,0,12.67, 36 ,6,15,43.76206961077844,15.13,No
+ 36 months,MORTGAGE,C,debt_consolidation,14.47%,PA,Current,Individual,20000,10+ years,110000,11.01,0,34.30%,10345,15,0,null, 36 ,10,34,43.76206961077844,11.01,No
+ 36 months,MORTGAGE,C,debt_consolidation,16.91%,IN,Current,Joint App,5000,< 1 year,105000,14.81,4,78.50%,7456,28,0,10.33, 36 ,1,78,43.76206961077844,14.81,No
+ 36 months,RENT,B,debt_consolidation,10.33%,NY,Current,Individual,10000,3 years,52000,3.14,0,29.40%,5825,7,0,null, 36 ,3,29,43.76206961077844,3.14,No
+ 60 months,RENT,E,debt_consolidation,25.34%,MD,Current,Individual,25000,3 years,58000,24.75,0,85%,35074,11,0,null, 60 ,3,85,43.76206961077844,24.75,No
+ 60 months,MORTGAGE,A,debt_consolidation,8.19%,KS,Current,Individual,10000,2 years,30240,27.7,0,55.70%,10578,12,0,null, 60 ,2,55,43.76206961077844,27.7,No
+ 36 months,MORTGAGE,A,debt_consolidation,6.46%,TX,Current,Individual,15000,< 1 year,55000,25.22,0,17.10%,8869,22,0,null, 36 ,1,17,43.76206961077844,25.22,No
+ 36 months,RENT,A,debt_consolidation,6.46%,TX,Current,Individual,3850,4 years,25000,7.78,0,27.60%,3279,6,0,null, 36 ,4,27,43.76206961077844,7.78,No
+ 60 months,RENT,C,debt_consolidation,16.91%,IL,Late (31-120 days),Individual,18500,10+ years,75000,12.21,0,4.20%,1017,40,0,null, 60 ,10,4,43.76206961077844,12.21,yes
+ 36 months,RENT,E,other,26.31%,MO,Current,Individual,5100,10+ years,58000,18.52,1,23.80%,2735,14,0,null, 36 ,10,23,43.76206961077844,18.52,No
+ 36 months,MORTGAGE,C,debt_consolidation,13.56%,FL,Current,Individual,14000,10+ years,69000,26.82,0,95.30%,18205,16,0,null, 36 ,10,95,43.76206961077844,26.82,No
+ 60 months,MORTGAGE,B,debt_consolidation,10.72%,AR,Current,Joint App,25000,4 years,50000,17.69,0,8.10%,3684,23,0,12.51, 60 ,4,8,43.76206961077844,17.69,No
+ 60 months,MORTGAGE,B,credit_card,10.72%,NY,Current,Individual,15000,10+ years,90000,22.76,0,20.80%,9010,27,0,null, 60 ,10,20,43.76206961077844,22.76,No
+ 36 months,OWN,C,debt_consolidation,15.02%,TX,Current,Individual,10000,6 years,60000,14.3,1,19.20%,6673,16,0,null, 36 ,6,19,43.76206961077844,14.3,No
+ 60 months,MORTGAGE,A,credit_card,7.84%,TX,Current,Individual,25000,10+ years,60000,17.82,0,33.10%,23103,36,0,null, 60 ,10,33,43.76206961077844,17.82,No
+ 36 months,RENT,B,major_purchase,11.80%,MA,Current,Individual,20000,7 years,55000,31.02,0,56.30%,14698,22,0,null, 36 ,7,56,43.76206961077844,31.02,No
+ 36 months,OWN,C,debt_consolidation,14.47%,NY,Current,Individual,12700,5 years,45000,12.64,0,89.50%,12712,5,0,null, 36 ,5,89,43.76206961077844,12.64,No
+ 36 months,RENT,C,debt_consolidation,16.91%,MO,Current,Individual,6000,2 years,35000,20.75,1,2.30%,63,13,0,null, 36 ,2,2,43.76206961077844,20.75,No
+ 36 months,RENT,B,debt_consolidation,10.33%,TX,Current,Individual,30000,9 years,134000,18.75,0,16.40%,19549,39,0,null, 36 ,9,16,43.76206961077844,18.75,No
+ 36 months,MORTGAGE,E,debt_consolidation,24.37%,GA,Current,Individual,7200,10+ years,38000,26.34,1,77.50%,12788,14,0,null, 36 ,10,77,43.76206961077844,26.34,No
+ 60 months,MORTGAGE,C,credit_card,13.56%,MN,Current,Individual,12000,10+ years,66920,16.16,0,47.20%,6707,25,0,null, 60 ,10,47,43.76206961077844,16.16,No
+ 60 months,MORTGAGE,C,debt_consolidation,15.02%,WI,Current,Individual,25000,10+ years,131500,22.79,0,81.80%,44324,27,0,null, 60 ,10,81,43.76206961077844,22.79,No
+ 36 months,OWN,A,credit_card,6.46%,MI,Current,Individual,10000,< 1 year,200000,4.8,0,49.60%,19188,22,0,null, 36 ,1,49,43.76206961077844,4.8,No
+ 60 months,RENT,B,debt_consolidation,11.80%,RI,Current,Individual,15000,10+ years,55000,12.18,0,22.70%,9204,19,0,null, 60 ,10,22,43.76206961077844,12.18,No
+ 60 months,MORTGAGE,B,debt_consolidation,10.72%,MO,Current,Joint App,22500,8 years,78500,44,0,64.30%,7271,13,0,19.48, 60 ,8,64,43.76206961077844,44,No
+ 36 months,MORTGAGE,C,debt_consolidation,14.47%,VA,Current,Individual,30000,10+ years,119000,13,0,90.30%,22394,25,0,null, 36 ,10,90,43.76206961077844,13,No
+ 36 months,RENT,B,debt_consolidation,11.80%,CA,Current,Joint App,18000,n/a,55000,1.9,0,32.40%,3204,13,0,13.68, 36 ,,32,43.76206961077844,1.9,No
+ 36 months,OWN,B,debt_consolidation,12.98%,CA,Current,Joint App,14000,< 1 year,50000,7.99,1,24.40%,8031,22,1,13.32, 36 ,1,24,43.76206961077844,7.99,No
+ 36 months,RENT,B,credit_card,12.98%,IN,Current,Individual,11000,2 years,65000,16.97,0,95.60%,17678,12,0,null, 36 ,2,95,43.76206961077844,16.97,No
+ 36 months,RENT,C,debt_consolidation,16.14%,CA,Current,Individual,20000,10+ years,50000,27.29,0,76.70%,19793,13,0,null, 36 ,10,76,43.76206961077844,27.29,No
+ 60 months,RENT,D,credit_card,20.89%,CA,Current,Individual,35000,10+ years,122000,22.51,1,95.60%,20467,14,0,null, 60 ,10,95,43.76206961077844,22.51,No
+ 36 months,RENT,C,debt_consolidation,16.14%,DE,Fully Paid,Individual,7500,10+ years,200000,10.03,1,50.80%,6903,33,1,null, 36 ,10,50,43.76206961077844,10.03,No
+ 36 months,OWN,C,home_improvement,14.47%,FL,Current,Individual,3000,n/a,21000,26.06,0,14.10%,27491,12,0,null, 36 ,,14,43.76206961077844,26.06,No
+ 60 months,MORTGAGE,C,debt_consolidation,14.47%,TX,Current,Joint App,25000,10+ years,70000,39.19,0,63.70%,20061,18,0,22.49, 60 ,10,63,43.76206961077844,39.19,No
+ 36 months,MORTGAGE,C,home_improvement,16.91%,FL,Current,Individual,10000,2 years,110000,12.36,0,0.70%,141,21,0,null, 36 ,2,0,43.76206961077844,12.36,No
+ 36 months,RENT,A,debt_consolidation,7.21%,CO,Current,Individual,30000,8 years,105000,17.35,0,63.60%,31048,15,0,null, 36 ,8,63,43.76206961077844,17.35,No
+ 60 months,MORTGAGE,C,debt_consolidation,13.56%,CT,Current,Individual,25000,5 years,85000,11.56,0,26.40%,4034,20,0,null, 60 ,5,26,43.76206961077844,11.56,No
+ 60 months,RENT,D,debt_consolidation,18.94%,VA,Current,Joint App,34000,4 years,210000,9.05,0,98.80%,15613,23,0,11.58, 60 ,4,98,43.76206961077844,9.05,No
+ 36 months,RENT,C,debt_consolidation,16.14%,NV,Current,Joint App,10000,4 years,72000,34.08,1,60.20%,11853,20,0,21.43, 36 ,4,60,43.76206961077844,34.08,No
+ 36 months,RENT,C,major_purchase,15.02%,CA,Current,Individual,2000,3 years,92000,7.96,0,32.40%,7771,12,0,null, 36 ,3,32,43.76206961077844,7.96,No
+ 60 months,MORTGAGE,C,debt_consolidation,16.14%,CA,Current,Individual,40000,10+ years,260000,12.8,0,86.50%,44067,30,0,null, 60 ,10,86,43.76206961077844,12.8,No
+ 36 months,MORTGAGE,D,medical,19.92%,AK,Current,Individual,10225,7 years,120000,8.92,1,79.10%,18028,16,0,null, 36 ,7,79,43.76206961077844,8.92,No
+ 36 months,MORTGAGE,A,debt_consolidation,8.81%,CA,Current,Individual,10000,10+ years,185000,15.44,0,79.80%,26739,23,0,null, 36 ,10,79,43.76206961077844,15.44,No
+ 36 months,MORTGAGE,B,other,10.33%,CO,Current,Individual,34025,10+ years,71409.48,18.7,0,75.10%,16368,21,0,null, 36 ,10,75,43.76206961077844,18.7,No
+ 60 months,RENT,D,debt_consolidation,20.89%,CA,Current,Individual,10000,2 years,78000,30.26,0,25.90%,12109,69,0,null, 60 ,2,25,43.76206961077844,30.26,No
+ 36 months,MORTGAGE,A,debt_consolidation,8.81%,WI,Current,Joint App,7200,10+ years,58000,43.76,0,57.50%,8629,41,0,24.17, 36 ,10,57,43.76206961077844,43.76,No
+ 60 months,MORTGAGE,B,debt_consolidation,10.33%,FL,Current,Individual,28000,1 year,125000,18.5,0,12.20%,3446,52,0,null, 60 ,1,12,43.76206961077844,18.5,No
+ 36 months,MORTGAGE,B,home_improvement,12.98%,CA,Current,Individual,6000,10+ years,98000,19.97,1,17%,2205,17,0,null, 36 ,10,17,43.76206961077844,19.97,No
+ 36 months,RENT,A,moving,8.81%,TX,Current,Individual,17000,10+ years,163000,9.98,0,51.60%,17530,31,0,null, 36 ,10,51,43.76206961077844,9.98,No
+ 36 months,RENT,A,credit_card,6.46%,NY,Current,Individual,7500,10+ years,41000,5.91,0,96.30%,7705,2,0,null, 36 ,10,96,43.76206961077844,5.91,No
+ 36 months,MORTGAGE,A,debt_consolidation,8.81%,AZ,Current,Individual,30000,10+ years,175000,16.67,0,54.40%,17578,21,0,null, 36 ,10,54,43.76206961077844,16.67,No
+ 36 months,RENT,C,other,14.47%,TX,Current,Individual,1500,10+ years,75000,21.84,0,49.30%,10211,26,0,null, 36 ,10,49,43.76206961077844,21.84,No
+ 36 months,RENT,A,debt_consolidation,8.19%,OR,Current,Individual,5500,< 1 year,35000,2.02,0,43.40%,1735,6,0,null, 36 ,1,43,43.76206961077844,2.02,No
+ 36 months,MORTGAGE,C,credit_card,16.91%,TX,Current,Individual,14400,2 years,128800,28.42,0,98.10%,40319,20,0,null, 36 ,2,98,43.76206961077844,28.42,No
+ 60 months,MORTGAGE,B,credit_card,11.31%,NM,Current,Joint App,40000,10+ years,66000,19.96,0,40.90%,28488,20,0,16.27, 60 ,10,40,43.76206961077844,19.96,No
+ 36 months,MORTGAGE,A,debt_consolidation,6.46%,MO,Current,Individual,16000,< 1 year,85000,18.55,1,72.70%,13889,11,0,null, 36 ,1,72,43.76206961077844,18.55,No
+ 36 months,RENT,C,debt_consolidation,13.56%,WI,Current,Individual,10000,2 years,40000,7.29,0,36%,7918,14,0,null, 36 ,2,36,43.76206961077844,7.29,No
+ 36 months,MORTGAGE,D,home_improvement,18.94%,TX,Current,Individual,1200,n/a,52000,22.71,0,71.10%,33133,22,0,null, 36 ,,71,43.76206961077844,22.71,No
+ 36 months,RENT,A,debt_consolidation,8.46%,NY,Current,Joint App,12000,< 1 year,20000,6.66,0,32.30%,7646,8,0,3.98, 36 ,1,32,43.76206961077844,6.66,No
+ 60 months,RENT,B,debt_consolidation,11.31%,NV,Current,Individual,15000,2 years,100000,15.17,0,12%,9830,21,0,null, 60 ,2,12,43.76206961077844,15.17,No
+ 60 months,RENT,C,home_improvement,15.02%,AL,Current,Joint App,20000,5 years,64890,29.72,0,6.70%,1714,14,0,27.07, 60 ,5,6,43.76206961077844,29.72,No
+ 36 months,MORTGAGE,A,credit_card,6.46%,NY,Current,Individual,10000,6 years,60000,25.56,0,36.50%,6895,17,0,null, 36 ,6,36,43.76206961077844,25.56,No
+ 60 months,MORTGAGE,C,debt_consolidation,16.14%,MN,Current,Individual,25000,10+ years,63000,24.65,0,54.20%,31344,27,0,null, 60 ,10,54,43.76206961077844,24.65,No
+ 60 months,MORTGAGE,C,debt_consolidation,13.56%,FL,Current,Individual,20000,9 years,93000,18.54,0,29.40%,5495,19,0,null, 60 ,9,29,43.76206961077844,18.54,No
+ 60 months,RENT,C,debt_consolidation,15.02%,NY,Current,Individual,10000,1 year,87000,11.25,0,45.30%,11048,8,0,null, 60 ,1,45,43.76206961077844,11.25,No
+ 36 months,RENT,B,other,11.80%,CT,Current,Individual,3000,< 1 year,39000,28,0,15.10%,4535,47,0,null, 36 ,1,15,43.76206961077844,28,No
+ 60 months,MORTGAGE,E,debt_consolidation,23.40%,NY,In Grace Period,Individual,22500,1 year,50000,35.41,1,47%,31206,35,1,null, 60 ,1,47,43.76206961077844,35.41,yes
+ 36 months,MORTGAGE,D,debt_consolidation,18.94%,GA,Current,Individual,12000,9 years,63000,29.77,0,39.10%,37541,46,0,null, 36 ,9,39,43.76206961077844,29.77,No
+ 60 months,RENT,B,debt_consolidation,11.80%,DE,Current,Individual,20000,n/a,60000,31.74,0,15%,4575,29,0,null, 60 ,,15,43.76206961077844,31.74,No
+ 60 months,MORTGAGE,D,debt_consolidation,20.89%,CA,Current,Individual,15000,1 year,120000,16.53,0,77.70%,14453,43,0,null, 60 ,1,77,43.76206961077844,16.53,No
+ 36 months,MORTGAGE,B,credit_card,11.31%,TX,Current,Individual,15000,7 years,60000,7.76,0,31%,15733,20,0,null, 36 ,7,31,43.76206961077844,7.76,No
+ 36 months,RENT,D,credit_card,17.97%,FL,Fully Paid,Individual,28000,< 1 year,70900,24.56,0,95.80%,18865,10,0,null, 36 ,1,95,43.76206961077844,24.56,No
+ 36 months,RENT,C,debt_consolidation,15.02%,FL,Current,Individual,15000,1 year,51000,36.09,0,34.60%,8053,10,0,null, 36 ,1,34,43.76206961077844,36.09,No
+ 60 months,RENT,B,credit_card,11.80%,DE,Current,Individual,10000,10+ years,61500,17.62,0,70.40%,6754,13,0,null, 60 ,10,70,43.76206961077844,17.62,No
+ 36 months,RENT,B,credit_card,10.33%,MA,Current,Individual,11000,1 year,45000,13.89,0,51.10%,10123,6,0,null, 36 ,1,51,43.76206961077844,13.89,No
+ 36 months,MORTGAGE,A,home_improvement,8.19%,VA,Current,Individual,19600,10+ years,255000,22.17,0,50%,120976,24,0,null, 36 ,10,50,43.76206961077844,22.17,No
+ 36 months,RENT,A,debt_consolidation,8.81%,MN,Current,Joint App,3600,2 years,75000,31.68,0,33.10%,4566,12,0,14.14, 36 ,2,33,43.76206961077844,31.68,No
+ 60 months,RENT,E,credit_card,25.34%,NY,Current,Individual,28800,10+ years,84500,26.06,0,41.90%,40651,43,0,null, 60 ,10,41,43.76206961077844,26.06,No
+ 60 months,RENT,C,credit_card,13.56%,GA,Current,Individual,13000,4 years,125000,16.37,0,49.80%,10708,47,0,null, 60 ,4,49,43.76206961077844,16.37,No
+ 36 months,OWN,B,credit_card,11.80%,AR,Current,Joint App,12800,n/a,29000,3.64,0,2.90%,130,8,0,19.22, 36 ,,2,43.76206961077844,3.64,No
+ 60 months,RENT,D,credit_card,19.92%,CA,Current,Individual,18000,3 years,70000,20.71,0,29.80%,9216,12,0,null, 60 ,3,29,43.76206961077844,20.71,No
+ 36 months,RENT,A,credit_card,6.46%,MN,Current,Individual,6000,3 years,24000,26.45,0,54.60%,7150,24,0,null, 36 ,3,54,43.76206961077844,26.45,No
+ 60 months,RENT,B,debt_consolidation,11.80%,NJ,Current,Individual,15000,10+ years,62000,5.81,0,23.40%,13527,16,0,null, 60 ,10,23,43.76206961077844,5.81,No
+ 36 months,RENT,B,credit_card,11.31%,VA,Current,Individual,3000,2 years,28000,21.39,0,13.40%,1918,10,0,null, 36 ,2,13,43.76206961077844,21.39,No
+ 60 months,OWN,D,debt_consolidation,17.97%,NY,Current,Individual,25000,10+ years,68000,17.31,0,42.60%,4596,20,0,null, 60 ,10,42,43.76206961077844,17.31,No
+ 36 months,MORTGAGE,B,major_purchase,12.98%,MT,Current,Individual,3000,4 years,135000,27.02,0,77.70%,11342,17,0,null, 36 ,4,77,43.76206961077844,27.02,No
+ 36 months,MORTGAGE,D,other,19.92%,MD,Current,Individual,5400,3 years,34320,10.21,0,46.70%,4436,15,0,null, 36 ,3,46,43.76206961077844,10.21,No
+ 36 months,RENT,D,car,20.89%,MO,Current,Individual,6000,8 years,23000,23.12,0,30.30%,5247,22,0,null, 36 ,8,30,43.76206961077844,23.12,No
+ 60 months,MORTGAGE,D,debt_consolidation,17.97%,FL,Current,Individual,32000,10+ years,70000,28.01,0,23.60%,5481,41,0,null, 60 ,10,23,43.76206961077844,28.01,No
+ 60 months,MORTGAGE,E,debt_consolidation,23.40%,CA,Current,Individual,20000,8 years,249000,13.35,0,38.30%,12512,48,0,null, 60 ,8,38,43.76206961077844,13.35,No
+ 36 months,MORTGAGE,A,debt_consolidation,8.19%,CA,Current,Individual,15000,1 year,155000,14.76,0,50.80%,22151,21,0,null, 36 ,1,50,43.76206961077844,14.76,No
+ 36 months,MORTGAGE,B,credit_card,11.31%,AZ,Current,Joint App,35000,2 years,82000,11.55,0,57.20%,9779,14,0,13.8, 36 ,2,57,43.76206961077844,11.55,No
+ 36 months,MORTGAGE,C,other,16.91%,CA,Fully Paid,Individual,3000,10+ years,72000,9.03,0,33.30%,4098,18,0,null, 36 ,10,33,43.76206961077844,9.03,No
+ 36 months,RENT,C,debt_consolidation,15.02%,VA,Current,Individual,8000,2 years,27000,9.96,0,78%,4995,5,0,null, 36 ,2,78,43.76206961077844,9.96,No
+ 60 months,OWN,D,debt_consolidation,17.97%,OH,Current,Individual,10800,10+ years,32500,24.15,0,59.10%,7800,14,0,null, 60 ,10,59,43.76206961077844,24.15,No
+ 36 months,MORTGAGE,A,credit_card,8.81%,NH,Current,Individual,9000,3 years,83000,5.61,0,66%,10631,8,0,null, 36 ,3,66,43.76206961077844,5.61,No
+ 60 months,MORTGAGE,B,debt_consolidation,12.98%,TX,Current,Individual,12000,10+ years,68000,12.34,0,58%,14686,16,0,null, 60 ,10,58,43.76206961077844,12.34,No
+ 36 months,MORTGAGE,B,home_improvement,11.31%,VT,Current,Individual,2500,< 1 year,58109,30.21,0,18.90%,8235,22,0,null, 36 ,1,18,43.76206961077844,30.21,No
+ 36 months,RENT,D,other,18.94%,FL,Fully Paid,Individual,6000,10+ years,68000,34.86,1,13.20%,1661,31,1,null, 36 ,10,13,43.76206961077844,34.86,No
+ 36 months,MORTGAGE,B,debt_consolidation,11.06%,AL,Current,Individual,5000,10+ years,40000,12.24,0,57.30%,5272,25,0,null, 36 ,10,57,43.76206961077844,12.24,No
+ 36 months,OWN,C,other,13.56%,NC,Current,Individual,18150,6 years,33000,33.6,0,11.60%,4109,34,0,null, 36 ,6,11,43.76206961077844,33.6,No
+ 36 months,RENT,D,credit_card,20.89%,OH,Current,Individual,20000,10+ years,75000,31.74,0,76.50%,31306,33,0,null, 36 ,10,76,43.76206961077844,31.74,No
+ 36 months,RENT,C,debt_consolidation,14.47%,NV,Current,Individual,6000,4 years,110000,27.49,0,40.80%,10857,42,0,null, 36 ,4,40,43.76206961077844,27.49,No
+ 36 months,RENT,B,debt_consolidation,11.31%,AZ,Current,Individual,10000,2 years,27000,22.31,0,40.60%,4751,7,0,null, 36 ,2,40,43.76206961077844,22.31,No
+ 36 months,RENT,A,credit_card,7.02%,FL,Current,Individual,5000,1 year,45000,3.12,0,54.90%,3566,6,0,null, 36 ,1,54,43.76206961077844,3.12,No
+ 36 months,MORTGAGE,B,debt_consolidation,10.33%,GA,Current,Individual,30000,10+ years,119041,34.55,0,67.80%,31869,52,0,null, 36 ,10,67,43.76206961077844,34.55,No
+ 60 months,MORTGAGE,B,debt_consolidation,10.72%,OH,Current,Individual,24800,10+ years,93000,26.48,0,25.70%,25455,49,0,null, 60 ,10,25,43.76206961077844,26.48,No
+ 60 months,RENT,B,debt_consolidation,12.98%,MD,Current,Joint App,28000,5 years,32000,1.5,0,24.30%,4131,3,0,14.16, 60 ,5,24,43.76206961077844,1.5,No
+ 60 months,MORTGAGE,B,debt_consolidation,12.98%,IL,Current,Individual,30000,< 1 year,110000,21.69,0,61.40%,19970,36,0,null, 60 ,1,61,43.76206961077844,21.69,No
+ 36 months,RENT,A,debt_consolidation,6.46%,FL,Current,Individual,25000,3 years,65000,8.22,0,52.30%,22787,18,0,null, 36 ,3,52,43.76206961077844,8.22,No
+ 60 months,RENT,B,credit_card,10.33%,UT,Current,Individual,25000,4 years,107000,11.05,0,8.10%,3339,17,0,null, 60 ,4,8,43.76206961077844,11.05,No
+ 36 months,RENT,A,medical,7.02%,CA,Current,Individual,12000,10+ years,110000,9.48,0,16.60%,10731,27,0,null, 36 ,10,16,43.76206961077844,9.48,No
+ 36 months,RENT,B,credit_card,11.31%,IL,Current,Individual,15000,1 year,57000,13.35,0,84%,14701,4,0,null, 36 ,1,84,43.76206961077844,13.35,No
+ 36 months,MORTGAGE,A,other,7.02%,NJ,Current,Joint App,5000,10+ years,50000,17.57,0,19%,3097,17,0,13.13, 36 ,10,19,43.76206961077844,17.57,No
+ 36 months,MORTGAGE,A,credit_card,7.02%,CT,Current,Individual,15000,< 1 year,45000,18.61,0,27.20%,14955,14,0,null, 36 ,1,27,43.76206961077844,18.61,No
+ 36 months,RENT,A,debt_consolidation,7.21%,CO,Current,Individual,20000,< 1 year,183000,1.6,0,39.10%,12293,6,0,null, 36 ,1,39,43.76206961077844,1.6,No
+ 36 months,OWN,C,other,13.56%,AZ,Current,Individual,5000,n/a,22846,21.54,1,2.90%,390,10,0,null, 36 ,,2,43.76206961077844,21.54,No
+ 60 months,OWN,D,medical,18.94%,MD,Current,Individual,12000,6 years,65000,29.67,0,12%,6097,31,0,null, 60 ,6,12,43.76206961077844,29.67,No
+ 60 months,MORTGAGE,A,credit_card,8.19%,CO,Current,Joint App,23500,< 1 year,37450,37.72,0,30.60%,7797,27,0,25.87, 60 ,1,30,43.76206961077844,37.72,No
+ 36 months,RENT,A,credit_card,7.02%,CA,Current,Individual,8000,10+ years,50000,6.36,0,64.10%,5382,9,0,null, 36 ,10,64,43.76206961077844,6.36,No
+ 36 months,RENT,A,debt_consolidation,8.81%,OH,Current,Individual,6000,10+ years,35000,5.8,0,35.50%,5685,10,0,null, 36 ,10,35,43.76206961077844,5.8,No
+ 36 months,OWN,C,debt_consolidation,14.47%,FL,Current,Individual,10000,10+ years,62000,30.35,2,41%,12338,48,1,null, 36 ,10,41,43.76206961077844,30.35,No
+ 36 months,RENT,B,medical,12.98%,FL,Current,Individual,1500,7 years,45000,21.95,0,26.30%,1685,11,0,null, 36 ,7,26,43.76206961077844,21.95,No
+ 36 months,MORTGAGE,A,debt_consolidation,8.19%,NJ,Current,Individual,5000,< 1 year,60000,11.46,2,10.90%,1224,15,0,null, 36 ,1,10,43.76206961077844,11.46,No
+ 36 months,RENT,D,major_purchase,17.97%,NY,Current,Individual,8500,3 years,36000,20.07,0,7.30%,35904,5,0,null, 36 ,3,7,43.76206961077844,20.07,No
+ 60 months,MORTGAGE,C,credit_card,15.02%,AL,Current,Joint App,40000,7 years,120000,22.32,0,64.90%,31168,31,0,19.41, 60 ,7,64,43.76206961077844,22.32,No
+ 60 months,MORTGAGE,B,debt_consolidation,11.80%,CO,Current,Individual,40000,10+ years,130000,10.35,0,84.80%,32128,23,0,null, 60 ,10,84,43.76206961077844,10.35,No
+ 36 months,RENT,E,debt_consolidation,24.37%,MO,Current,Joint App,15000,n/a,30000,44.6,0,78.90%,14048,21,0,31.23, 36 ,,78,43.76206961077844,44.6,No
+ 60 months,RENT,D,debt_consolidation,22.35%,FL,Current,Individual,21600,10+ years,46000,36.19,0,73.40%,22174,11,0,null, 60 ,10,73,43.76206961077844,36.19,No
+ 36 months,MORTGAGE,A,credit_card,6.46%,WA,Current,Joint App,40000,4 years,78000,20.57,0,71.40%,39836,26,0,9.24, 36 ,4,71,43.76206961077844,20.57,No
+ 36 months,OWN,A,credit_card,6.46%,MA,Fully Paid,Individual,7200,n/a,89000,3.59,0,8.20%,16098,33,0,null, 36 ,,8,43.76206961077844,3.59,No
+ 60 months,RENT,E,debt_consolidation,26.31%,GA,Current,Individual,32275,10+ years,110000,32.82,0,80%,43058,32,0,null, 60 ,10,80,43.76206961077844,32.82,No
+ 36 months,OWN,A,credit_card,6.46%,ME,Current,Individual,22000,10+ years,100000,24.25,2,69.60%,73826,12,0,null, 36 ,10,69,43.76206961077844,24.25,No
+ 60 months,MORTGAGE,C,credit_card,15.02%,PA,Current,Individual,15000,5 years,185000,18.39,1,84.10%,18246,20,0,null, 60 ,5,84,43.76206961077844,18.39,No
+ 36 months,RENT,B,credit_card,12.98%,NY,Current,Individual,8500,1 year,52000,18.3,0,80.40%,17848,27,0,null, 36 ,1,80,43.76206961077844,18.3,No
+ 60 months,RENT,E,debt_consolidation,27.27%,OH,Current,Individual,10000,1 year,65000,16.65,8,8.50%,4686,23,6,null, 60 ,1,8,43.76206961077844,16.65,No
+ 36 months,RENT,A,credit_card,6.46%,OH,Current,Individual,12000,1 year,89000,12.38,1,52.20%,11798,19,0,null, 36 ,1,52,43.76206961077844,12.38,No
+ 36 months,OWN,A,home_improvement,7.56%,KY,Current,Joint App,15000,2 years,50000,15.7,0,15.50%,2764,14,0,14, 36 ,2,15,43.76206961077844,15.7,No
+ 36 months,MORTGAGE,A,debt_consolidation,7.56%,GA,Current,Individual,14000,9 years,65000,14.42,0,12.10%,7697,25,0,null, 36 ,9,12,43.76206961077844,14.42,No
+ 60 months,OWN,D,debt_consolidation,17.97%,OR,Current,Individual,10000,n/a,30000,17.84,1,23.30%,10461,16,1,null, 60 ,,23,43.76206961077844,17.84,No
+ 60 months,MORTGAGE,B,credit_card,12.73%,NY,Current,Joint App,35000,4 years,85000,32.41,0,18.90%,1381,18,0,20.17, 60 ,4,18,43.76206961077844,32.41,No
+ 36 months,MORTGAGE,B,credit_card,10.72%,CA,Current,Individual,35000,10+ years,318427.9,19.03,0,86%,38750,15,0,null, 36 ,10,86,43.76206961077844,19.03,No
+ 60 months,MORTGAGE,A,debt_consolidation,8.19%,TX,In Grace Period,Individual,15000,7 years,69000,19.43,0,28%,16776,21,0,null, 60 ,7,28,43.76206961077844,19.43,yes
+ 36 months,MORTGAGE,E,medical,26.31%,AZ,In Grace Period,Individual,10000,10+ years,93500,23.68,0,68.70%,24129,22,0,null, 36 ,10,68,43.76206961077844,23.68,yes
+ 36 months,MORTGAGE,B,debt_consolidation,10.33%,TX,Current,Individual,15400,4 years,265000,20.27,0,36.80%,75190,41,0,null, 36 ,4,36,43.76206961077844,20.27,No
+ 36 months,OWN,B,debt_consolidation,10.72%,FL,Current,Individual,15000,4 years,58000,4.55,1,32.10%,5459,11,1,null, 36 ,4,32,43.76206961077844,4.55,No
+ 36 months,OWN,A,debt_consolidation,6.46%,CA,Current,Individual,20000,3 years,175000,16.31,0,66.70%,23801,21,0,null, 36 ,3,66,43.76206961077844,16.31,No
+ 60 months,MORTGAGE,B,debt_consolidation,12.98%,CO,Current,Joint App,40000,10+ years,80000,46.43,0,49.80%,46497,31,0,34.01, 60 ,10,49,43.76206961077844,46.43,No
+ 36 months,MORTGAGE,A,credit_card,8.19%,WA,Current,Individual,16800,4 years,84000,11.66,1,57.80%,11280,16,0,null, 36 ,4,57,43.76206961077844,11.66,No
+ 36 months,MORTGAGE,C,debt_consolidation,16.91%,GA,Current,Individual,5300,3 years,26400,13.95,0,82.40%,8734,19,0,null, 36 ,3,82,43.76206961077844,13.95,No
+ 36 months,RENT,B,debt_consolidation,10.72%,FL,Current,Individual,25000,5 years,45000,14.96,0,49.20%,6833,19,0,null, 36 ,5,49,43.76206961077844,14.96,No
+ 60 months,MORTGAGE,C,other,13.56%,MD,Current,Individual,12000,n/a,78400,18,0,69.50%,2434,11,0,null, 60 ,,69,43.76206961077844,18,No
+ 60 months,MORTGAGE,B,credit_card,11.80%,NJ,Current,Individual,24000,5 years,130000,24.93,0,86%,72209,20,0,null, 60 ,5,86,43.76206961077844,24.93,No
+ 36 months,RENT,A,debt_consolidation,8.19%,CA,Current,Individual,25000,< 1 year,73000,3.19,0,16.60%,9865,16,0,null, 36 ,1,16,43.76206961077844,3.19,No
+ 60 months,RENT,C,credit_card,14.47%,DC,Current,Individual,15000,5 years,100000,15.29,0,13.10%,21171,61,0,null, 60 ,5,13,43.76206961077844,15.29,No
+ 60 months,RENT,C,debt_consolidation,13.56%,NJ,Fully Paid,Individual,33000,< 1 year,90000,14.6,0,37.70%,27305,13,0,null, 60 ,1,37,43.76206961077844,14.6,No
+ 36 months,RENT,A,debt_consolidation,8.81%,MA,Current,Individual,17000,3 years,75000,25.97,0,40.50%,22704,14,0,null, 36 ,3,40,43.76206961077844,25.97,No
+ 36 months,OWN,B,house,10.33%,OK,Current,Individual,9600,2 years,53760,19.46,0,36.70%,2861,15,0,null, 36 ,2,36,43.76206961077844,19.46,No
+ 36 months,MORTGAGE,A,home_improvement,7.56%,IL,Current,Individual,3000,10+ years,65000,19.68,1,38.60%,7609,13,1,null, 36 ,10,38,43.76206961077844,19.68,No
+ 36 months,MORTGAGE,D,debt_consolidation,20.89%,IL,Current,Individual,14000,< 1 year,100000,13.98,1,53.80%,39664,17,0,null, 36 ,1,53,43.76206961077844,13.98,No
+ 36 months,MORTGAGE,C,home_improvement,14.47%,IN,Current,Joint App,2500,3 years,38000,35.41,0,35.30%,5643,24,0,17.25, 36 ,3,35,43.76206961077844,35.41,No
+ 36 months,RENT,B,credit_card,10.72%,CA,Current,Individual,3500,n/a,20000,5.04,0,98.70%,2468,6,0,null, 36 ,,98,43.76206961077844,5.04,No
+ 36 months,MORTGAGE,C,debt_consolidation,15.02%,IN,Current,Individual,9000,n/a,30000,27.28,0,45%,9223,19,0,null, 36 ,,45,43.76206961077844,27.28,No
+ 36 months,RENT,A,credit_card,8.19%,CA,Current,Individual,3000,1 year,50000,11.83,0,28.50%,5754,7,0,null, 36 ,1,28,43.76206961077844,11.83,No
+ 36 months,MORTGAGE,C,debt_consolidation,13.56%,AL,Current,Joint App,24000,10+ years,62605.87,38.91,4,34.60%,8515,43,0,18.64, 36 ,10,34,43.76206961077844,38.91,No
+ 36 months,OWN,A,debt_consolidation,7.56%,VA,Current,Individual,22000,10+ years,96000,37.33,2,45.10%,13429,30,1,null, 36 ,10,45,43.76206961077844,37.33,No
+ 36 months,MORTGAGE,C,credit_card,15.02%,MA,Current,Individual,35000,10+ years,149000,12.05,0,23.50%,14354,34,0,null, 36 ,10,23,43.76206961077844,12.05,No
+ 60 months,RENT,C,debt_consolidation,15.02%,NJ,Current,Individual,17600,8 years,40000,23.44,0,44%,23514,9,0,null, 60 ,8,44,43.76206961077844,23.44,No
+ 36 months,RENT,A,credit_card,8.19%,GA,Current,Individual,5000,1 year,30000,24.08,0,40.70%,4072,5,0,null, 36 ,1,40,43.76206961077844,24.08,No
+ 36 months,MORTGAGE,B,house,11.31%,MA,Current,Individual,10000,9 years,71000,30.16,0,22.20%,8981,23,0,null, 36 ,9,22,43.76206961077844,30.16,No
+ 36 months,RENT,B,debt_consolidation,10.72%,RI,Current,Individual,10000,1 year,85000,10.07,0,23.80%,1407,9,0,null, 36 ,1,23,43.76206961077844,10.07,No
+ 36 months,RENT,A,credit_card,7.02%,OH,Current,Individual,3000,1 year,27000,16.13,0,71.20%,3559,5,0,null, 36 ,1,71,43.76206961077844,16.13,No
+ 60 months,OWN,C,debt_consolidation,16.14%,VT,Current,Joint App,24000,4 years,37000,65.1,0,75.70%,20287,24,0,39.74, 60 ,4,75,43.76206961077844,65.1,No
+ 36 months,OWN,A,debt_consolidation,6.46%,IL,Current,Individual,40000,10+ years,150000,8.8,0,15.90%,9728,17,0,null, 36 ,10,15,43.76206961077844,8.8,No
+ 60 months,MORTGAGE,B,credit_card,11.80%,VA,Current,Individual,30000,10+ years,250000,17.07,0,48.30%,57171,35,0,null, 60 ,10,48,43.76206961077844,17.07,No
+ 36 months,MORTGAGE,A,debt_consolidation,6.46%,SC,Current,Individual,11000,8 years,107000,15.04,0,82.40%,11866,32,0,null, 36 ,8,82,43.76206961077844,15.04,No
+ 36 months,MORTGAGE,C,credit_card,14.47%,ID,Current,Individual,5000,1 year,40320,32.47,0,44%,10155,11,0,null, 36 ,1,44,43.76206961077844,32.47,No
+ 36 months,MORTGAGE,C,debt_consolidation,16.91%,MD,Current,Individual,22000,10+ years,96000,23.14,2,29.90%,15390,36,0,null, 36 ,10,29,43.76206961077844,23.14,No
+ 36 months,RENT,A,debt_consolidation,7.56%,CA,Current,Individual,22000,1 year,49000,16.7,0,33%,24509,33,0,null, 36 ,1,33,43.76206961077844,16.7,No
+ 60 months,MORTGAGE,B,debt_consolidation,10.72%,MD,Current,Individual,20000,2 years,75000,7.63,0,9.50%,5388,11,0,null, 60 ,2,9,43.76206961077844,7.63,No
+ 36 months,MORTGAGE,E,other,25.34%,NY,Current,Individual,15000,10+ years,121000,27.69,0,72.40%,16370,15,0,null, 36 ,10,72,43.76206961077844,27.69,No
+ 36 months,MORTGAGE,E,major_purchase,26.31%,FL,Current,Individual,3000,5 years,46000,35.95,0,21.60%,7987,37,0,null, 36 ,5,21,43.76206961077844,35.95,No
+ 60 months,MORTGAGE,B,credit_card,12.98%,NY,Current,Individual,16000,10+ years,60000,8.64,1,48.10%,3220,21,0,null, 60 ,10,48,43.76206961077844,8.64,No
+ 60 months,MORTGAGE,C,debt_consolidation,15.02%,FL,Current,Individual,12000,10+ years,64000,26.19,1,20.80%,8801,27,0,null, 60 ,10,20,43.76206961077844,26.19,No
+ 36 months,MORTGAGE,A,debt_consolidation,6.46%,HI,Current,Individual,40000,10+ years,145000,30.37,0,72.70%,99872,47,0,null, 36 ,10,72,43.76206961077844,30.37,No
+ 36 months,OWN,A,debt_consolidation,6.46%,TX,Current,Individual,15000,10+ years,105000,6.33,0,8.70%,5277,21,0,null, 36 ,10,8,43.76206961077844,6.33,No
+ 36 months,RENT,C,debt_consolidation,16.14%,NC,Current,Individual,15000,10+ years,102000,23.69,0,63.70%,46991,27,0,null, 36 ,10,63,43.76206961077844,23.69,No
+ 36 months,MORTGAGE,B,credit_card,11.80%,TX,Current,Individual,10000,3 years,60000,33.24,1,30.20%,23718,54,1,null, 36 ,3,30,43.76206961077844,33.24,No
+ 36 months,RENT,A,credit_card,7.56%,IL,Current,Individual,8250,10+ years,70000,15.41,3,21.30%,8255,30,3,null, 36 ,10,21,43.76206961077844,15.41,No
+ 36 months,MORTGAGE,B,debt_consolidation,10.72%,LA,Current,Individual,16500,6 years,110000,22.42,0,57.70%,21397,33,0,null, 36 ,6,57,43.76206961077844,22.42,No
+ 36 months,MORTGAGE,D,debt_consolidation,19.92%,FL,Current,Individual,8000,10+ years,90000,21.83,0,54.30%,12218,16,0,null, 36 ,10,54,43.76206961077844,21.83,No
+ 60 months,MORTGAGE,B,credit_card,10.33%,NJ,Current,Joint App,16000,10+ years,70000,4.83,0,28.20%,13049,11,0,12.33, 60 ,10,28,43.76206961077844,4.83,No
+ 36 months,RENT,C,debt_consolidation,13.56%,FL,Current,Joint App,30000,3 years,90000,5.32,0,17.90%,6075,36,0,25.16, 36 ,3,17,43.76206961077844,5.32,No
+ 36 months,RENT,A,debt_consolidation,8.19%,GA,Current,Individual,28200,10+ years,185000,10.22,0,31.30%,12926,16,0,null, 36 ,10,31,43.76206961077844,10.22,No
+ 36 months,MORTGAGE,A,debt_consolidation,7.02%,AR,Current,Individual,21000,7 years,100000,16.03,0,28.60%,66816,29,0,null, 36 ,7,28,43.76206961077844,16.03,No
+ 36 months,MORTGAGE,B,debt_consolidation,11.31%,MD,Current,Individual,5000,1 year,110000,17.94,0,34.60%,21607,40,0,null, 36 ,1,34,43.76206961077844,17.94,No
+ 36 months,RENT,C,debt_consolidation,15.02%,PA,Current,Individual,20000,4 years,52000,11.65,1,52.40%,5760,6,0,null, 36 ,4,52,43.76206961077844,11.65,No
+ 36 months,OWN,D,debt_consolidation,17.97%,FL,Current,Individual,8800,10+ years,50000,28.59,0,22.60%,16058,41,0,null, 36 ,10,22,43.76206961077844,28.59,No
+ 60 months,MORTGAGE,E,debt_consolidation,27.27%,TX,Current,Individual,12950,10+ years,84000,35.84,0,38.80%,24320,28,0,null, 60 ,10,38,43.76206961077844,35.84,No
+ 36 months,MORTGAGE,C,debt_consolidation,15.02%,SC,Current,Individual,11000,1 year,70000,10.17,1,27.90%,11065,31,0,null, 36 ,1,27,43.76206961077844,10.17,No
+ 36 months,RENT,A,credit_card,8.19%,PA,Current,Individual,3500,3 years,30000,7.36,0,70.80%,3963,8,0,null, 36 ,3,70,43.76206961077844,7.36,No
+ 36 months,RENT,B,debt_consolidation,10.72%,CA,Current,Individual,16000,10+ years,35000,17.59,1,3.30%,256,12,1,null, 36 ,10,3,43.76206961077844,17.59,No
+ 36 months,RENT,B,debt_consolidation,11.80%,MD,Current,Individual,21000,< 1 year,137500,25.4,0,97.10%,53127,29,0,null, 36 ,1,97,43.76206961077844,25.4,No
+ 36 months,MORTGAGE,A,other,7.02%,CO,Current,Individual,10000,10+ years,65000,14.79,0,17.40%,7390,29,0,null, 36 ,10,17,43.76206961077844,14.79,No
+ 36 months,RENT,A,credit_card,8.81%,TX,Current,Individual,12000,4 years,30000,17.32,0,48.50%,13349,10,0,null, 36 ,4,48,43.76206961077844,17.32,No
+ 60 months,RENT,A,debt_consolidation,8.19%,TX,Current,Individual,11000,10+ years,72000,17.75,0,8.80%,14295,45,0,null, 60 ,10,8,43.76206961077844,17.75,No
+ 60 months,RENT,B,credit_card,11.31%,MA,Current,Individual,16000,7 years,113000,10.15,0,54.50%,14888,17,0,null, 60 ,7,54,43.76206961077844,10.15,No
+ 60 months,MORTGAGE,A,vacation,8.19%,OH,Current,Individual,40000,9 years,81874,17.47,1,0.60%,26323,52,0,null, 60 ,9,0,43.76206961077844,17.47,No
+ 36 months,RENT,A,credit_card,6.46%,FL,Current,Individual,10000,< 1 year,35000,21.26,0,41%,15848,13,0,null, 36 ,1,41,43.76206961077844,21.26,No
+ 36 months,RENT,A,credit_card,8.81%,CO,Current,Individual,1500,2 years,40000,25.8,0,18%,5907,17,0,null, 36 ,2,18,43.76206961077844,25.8,No
+ 36 months,RENT,B,debt_consolidation,11.31%,WA,Current,Individual,11000,10+ years,115000,12.5,0,62%,28169,23,0,null, 36 ,10,62,43.76206961077844,12.5,No
+ 60 months,RENT,B,credit_card,11.80%,MD,Current,Joint App,25000,10+ years,60320,24.83,0,44%,23512,29,0,22.97, 60 ,10,44,43.76206961077844,24.83,No
+ 36 months,MORTGAGE,B,home_improvement,10.33%,UT,Fully Paid,Individual,6000,5 years,103600,3.2,2,5.70%,351,27,2,null, 36 ,5,5,43.76206961077844,3.2,No
+ 36 months,MORTGAGE,D,credit_card,18.94%,NJ,Current,Individual,15000,10+ years,145000,30.35,0,85.40%,49803,36,0,null, 36 ,10,85,43.76206961077844,30.35,No
+ 36 months,RENT,C,debt_consolidation,14.47%,CA,Current,Individual,8400,1 year,52000,18.3,0,51.30%,9482,9,0,null, 36 ,1,51,43.76206961077844,18.3,No
+ 36 months,RENT,C,home_improvement,13.56%,CA,Current,Joint App,17650,10+ years,86400,24.43,0,34.30%,6350,16,0,21.84, 36 ,10,34,43.76206961077844,24.43,No
+ 36 months,RENT,A,credit_card,7.56%,NY,Current,Joint App,28000,5 years,60000,32,0,21.20%,3350,7,0,24.87, 36 ,5,21,43.76206961077844,32,No
+ 36 months,MORTGAGE,A,home_improvement,8.81%,CT,Current,Individual,20000,n/a,96000,9.23,0,9.10%,18601,57,0,null, 36 ,,9,43.76206961077844,9.23,No
+ 36 months,RENT,C,debt_consolidation,16.14%,TX,Current,Individual,5600,3 years,24911,6.99,0,63.20%,3537,8,0,null, 36 ,3,63,43.76206961077844,6.99,No
+ 60 months,MORTGAGE,C,home_improvement,16.91%,NH,Current,Individual,12000,4 years,60000,26.8,0,57.40%,17512,27,0,null, 60 ,4,57,43.76206961077844,26.8,No
+ 36 months,RENT,C,debt_consolidation,15.02%,CA,Current,Individual,20000,10+ years,70000,21.6,0,71.50%,34596,10,0,null, 36 ,10,71,43.76206961077844,21.6,No
+ 36 months,RENT,B,credit_card,10.33%,FL,Current,Individual,5000,1 year,40000,12.96,0,18.60%,4697,15,0,null, 36 ,1,18,43.76206961077844,12.96,No
+ 60 months,RENT,D,credit_card,17.97%,NJ,Current,Individual,15000,n/a,30000,26.92,0,42.60%,4005,11,0,null, 60 ,,42,43.76206961077844,26.92,No
+ 36 months,MORTGAGE,B,debt_consolidation,12.98%,NJ,Current,Individual,5000,< 1 year,72000,29,1,48.60%,46878,32,0,null, 36 ,1,48,43.76206961077844,29,No
+ 36 months,RENT,D,car,18.94%,CO,Current,Individual,7500,5 years,78000,2.23,0,38.70%,3904,8,0,null, 36 ,5,38,43.76206961077844,2.23,No
+ 36 months,RENT,A,debt_consolidation,6.46%,TX,Current,Individual,16000,4 years,82000,30.35,0,68.30%,37624,21,0,null, 36 ,4,68,43.76206961077844,30.35,No
+ 36 months,MORTGAGE,D,debt_consolidation,17.97%,NH,Current,Individual,30000,10+ years,190000,29.39,0,78.80%,51703,50,0,null, 36 ,10,78,43.76206961077844,29.39,No
+ 36 months,OWN,C,debt_consolidation,13.56%,TN,Current,Individual,26000,1 year,65000,23.04,1,31.70%,25842,33,0,null, 36 ,1,31,43.76206961077844,23.04,No
+ 36 months,OWN,C,debt_consolidation,13.56%,IL,Current,Individual,30000,10+ years,147000,18.2,0,79%,59679,23,0,null, 36 ,10,79,43.76206961077844,18.2,No
+ 36 months,MORTGAGE,B,debt_consolidation,11.80%,NC,Current,Individual,37450,10+ years,145000,23.29,0,40.90%,25582,76,0,null, 36 ,10,40,43.76206961077844,23.29,No
+ 60 months,MORTGAGE,C,credit_card,15.02%,TX,Current,Joint App,40000,1 year,150000,13.27,2,79.80%,28103,36,0,13.5, 60 ,1,79,43.76206961077844,13.27,No
+ 36 months,MORTGAGE,C,debt_consolidation,16.91%,IL,Current,Individual,8000,10+ years,47165,37.33,0,41.90%,20890,17,0,null, 36 ,10,41,43.76206961077844,37.33,No
+ 36 months,RENT,A,credit_card,6.11%,TX,Current,Individual,12000,10+ years,150000,10.99,0,30.10%,26179,20,0,null, 36 ,10,30,43.76206961077844,10.99,No
+ 36 months,MORTGAGE,A,debt_consolidation,6.46%,ME,Current,Individual,12000,2 years,36000,18.93,0,38.40%,9528,11,0,null, 36 ,2,38,43.76206961077844,18.93,No
+ 36 months,RENT,C,debt_consolidation,14.47%,FL,Current,Individual,6000,n/a,15000,16.16,1,52.20%,5532,22,1,null, 36 ,,52,43.76206961077844,16.16,No
+ 36 months,MORTGAGE,C,credit_card,13.56%,TX,Current,Joint App,16000,10+ years,48000,12.25,0,46.10%,11249,27,0,19.73, 36 ,10,46,43.76206961077844,12.25,No
+ 36 months,MORTGAGE,B,debt_consolidation,10.72%,OR,Current,Individual,18000,10+ years,75000,20.72,1,52%,12265,26,1,null, 36 ,10,52,43.76206961077844,20.72,No
+ 36 months,MORTGAGE,A,credit_card,6.46%,TX,In Grace Period,Individual,12500,1 year,105000,13.28,0,55.90%,10789,15,0,null, 36 ,1,55,43.76206961077844,13.28,yes
+ 36 months,RENT,D,debt_consolidation,18.94%,VT,Current,Individual,8400,5 years,28000,10.46,1,0%,0,4,0,null, 36 ,5,0,43.76206961077844,10.46,No
+ 36 months,MORTGAGE,A,debt_consolidation,6.46%,GA,Current,Individual,6500,6 years,46000,2.66,0,28.90%,3270,24,0,null, 36 ,6,28,43.76206961077844,2.66,No
+ 60 months,MORTGAGE,C,credit_card,13.56%,IL,Current,Individual,25000,6 years,89250,38.94,0,68%,42692,40,0,null, 60 ,6,68,43.76206961077844,38.94,No
+ 36 months,RENT,C,debt_consolidation,16.14%,VA,Current,Individual,10000,3 years,80000,0.68,0,36.80%,735,5,0,null, 36 ,3,36,43.76206961077844,0.68,No
+ 60 months,MORTGAGE,B,debt_consolidation,10.72%,IL,Current,Individual,26000,10+ years,130000,25.27,0,52.60%,34413,34,0,null, 60 ,10,52,43.76206961077844,25.27,No
+ 60 months,RENT,C,debt_consolidation,15.02%,CA,Current,Individual,30000,< 1 year,200000,6.12,0,43.50%,8169,11,0,null, 60 ,1,43,43.76206961077844,6.12,No
+ 36 months,RENT,C,credit_card,14.47%,CA,Current,Individual,35000,10+ years,142000,19.33,0,97.50%,31504,13,0,null, 36 ,10,97,43.76206961077844,19.33,No
+ 36 months,MORTGAGE,A,credit_card,6.46%,PA,Current,Individual,5500,10+ years,52000,19.82,0,9.10%,3163,15,0,null, 36 ,10,9,43.76206961077844,19.82,No
+ 36 months,RENT,A,credit_card,8.19%,NC,Current,Individual,31975,< 1 year,70000,17.13,0,44%,19445,14,0,null, 36 ,1,44,43.76206961077844,17.13,No
+ 60 months,RENT,C,debt_consolidation,16.91%,TX,Current,Individual,33200,2 years,205000,19.25,0,55.70%,40909,33,0,null, 60 ,2,55,43.76206961077844,19.25,No
+ 36 months,MORTGAGE,A,credit_card,8.81%,GA,Current,Joint App,10000,10+ years,70000,30.94,0,30.60%,25034,32,0,23.15, 36 ,10,30,43.76206961077844,30.94,No
+ 36 months,OWN,C,home_improvement,16.14%,GA,Current,Individual,10000,n/a,40000,5.76,0,57.80%,7049,6,0,null, 36 ,,57,43.76206961077844,5.76,No
+ 36 months,MORTGAGE,A,debt_consolidation,8.81%,AZ,Current,Individual,20000,n/a,69996,10.15,0,38.20%,4873,11,0,null, 36 ,,38,43.76206961077844,10.15,No
+ 36 months,MORTGAGE,D,other,20.89%,CA,Current,Individual,1200,5 years,78000,20.6,0,70.50%,4016,18,0,null, 36 ,5,70,43.76206961077844,20.6,No
+ 60 months,RENT,C,debt_consolidation,16.91%,HI,Current,Individual,27000,n/a,50000,35.45,0,66.40%,18714,13,0,null, 60 ,,66,43.76206961077844,35.45,No
+ 36 months,RENT,C,house,15.02%,SC,Current,Individual,10000,n/a,28600,3.02,0,26.70%,828,7,0,null, 36 ,,26,43.76206961077844,3.02,No
+ 60 months,MORTGAGE,C,debt_consolidation,16.91%,MI,Current,Joint App,40000,1 year,70000,12.77,0,68.40%,12795,20,0,18.37, 60 ,1,68,43.76206961077844,12.77,No
+ 36 months,OWN,B,other,12.98%,IL,Late (31-120 days),Individual,15000,10+ years,93000,13.25,0,40.50%,11057,22,0,null, 36 ,10,40,43.76206961077844,13.25,yes
+ 36 months,MORTGAGE,C,credit_card,14.47%,TX,Current,Joint App,17000,10+ years,115000,18.88,1,50.60%,12811,38,0,19.67, 36 ,10,50,43.76206961077844,18.88,No
+ 36 months,RENT,D,other,18.94%,CA,Current,Individual,15000,3 years,35000,21.54,1,25.50%,2649,9,0,null, 36 ,3,25,43.76206961077844,21.54,No
+ 60 months,RENT,B,debt_consolidation,12.98%,CO,Current,Individual,15000,3 years,52000,22.87,0,15%,2182,13,0,null, 60 ,3,15,43.76206961077844,22.87,No
+ 36 months,RENT,B,debt_consolidation,10.33%,WA,Current,Individual,10000,8 years,43000,11.75,0,27%,16787,26,0,null, 36 ,8,27,43.76206961077844,11.75,No
+ 36 months,MORTGAGE,E,other,25.34%,NY,Current,Joint App,5350,3 years,38250,12.3,0,73.40%,1834,12,0,7.15, 36 ,3,73,43.76206961077844,12.3,No
+ 60 months,RENT,B,credit_card,11.31%,MI,Current,Individual,15000,2 years,92000,9.03,0,45.10%,14033,9,0,null, 60 ,2,45,43.76206961077844,9.03,No
+ 36 months,MORTGAGE,E,home_improvement,25.34%,IN,Fully Paid,Joint App,4000,1 year,55000,25.77,2,89.80%,9156,33,0,23.53, 36 ,1,89,43.76206961077844,25.77,No
+ 36 months,MORTGAGE,D,debt_consolidation,18.94%,NY,Current,Joint App,5000,10+ years,60000,21.8,0,66.30%,17756,28,0,20.74, 36 ,10,66,43.76206961077844,21.8,No
+ 36 months,MORTGAGE,C,home_improvement,16.14%,NJ,Current,Individual,1000,n/a,63000,22.59,0,98.90%,19786,14,0,null, 36 ,,98,43.76206961077844,22.59,No
+ 36 months,OWN,B,other,12.98%,AK,Current,Individual,10000,3 years,50000,12.59,0,17.60%,6004,27,0,null, 36 ,3,17,43.76206961077844,12.59,No
+ 36 months,RENT,A,debt_consolidation,8.81%,AR,Current,Individual,20000,< 1 year,120000,25.09,0,56.70%,9758,30,0,null, 36 ,1,56,43.76206961077844,25.09,No
+ 36 months,MORTGAGE,A,debt_consolidation,6.46%,UT,Current,Individual,6000,1 year,57000,16.93,0,27.80%,16207,38,0,null, 36 ,1,27,43.76206961077844,16.93,No
+ 60 months,RENT,D,credit_card,19.92%,NJ,Current,Joint App,10700,10+ years,750000,16,0,75.50%,81779,36,0,20.03, 60 ,10,75,43.76206961077844,16,No
+ 36 months,MORTGAGE,B,credit_card,11.31%,TX,Current,Individual,11000,2 years,50000,25.05,0,37.20%,16573,18,0,null, 36 ,2,37,43.76206961077844,25.05,No
+ 60 months,MORTGAGE,B,credit_card,12.98%,IL,Current,Individual,15000,10+ years,72000,26.42,0,46.40%,10944,25,0,null, 60 ,10,46,43.76206961077844,26.42,No
+ 36 months,RENT,A,debt_consolidation,7.84%,NC,Current,Individual,10000,< 1 year,43000,14.21,0,22%,14494,23,0,null, 36 ,1,22,43.76206961077844,14.21,No
+ 36 months,MORTGAGE,B,other,11.80%,OH,Current,Individual,6000,n/a,138000,8.06,0,8.50%,1207,36,0,null, 36 ,,8,43.76206961077844,8.06,No
+ 36 months,MORTGAGE,A,credit_card,8.19%,NV,Current,Individual,15000,6 years,119000,12.34,0,72.90%,19964,73,0,null, 36 ,6,72,43.76206961077844,12.34,No
+ 36 months,RENT,B,other,11.31%,AZ,Current,Individual,4000,10+ years,85000,15.43,1,60.20%,9935,23,0,null, 36 ,10,60,43.76206961077844,15.43,No
+ 60 months,RENT,C,debt_consolidation,14.47%,TX,Current,Joint App,30000,< 1 year,38955,53.27,0,55.20%,10878,25,0,33.14, 60 ,1,55,43.76206961077844,53.27,No
+ 60 months,MORTGAGE,B,debt_consolidation,12.98%,AR,Current,Individual,26000,10+ years,190000,29.56,0,67.40%,26684,56,0,null, 60 ,10,67,43.76206961077844,29.56,No
+ 36 months,OWN,E,debt_consolidation,26.31%,FL,Current,Individual,10000,4 years,23000,31.05,0,27.60%,13833,27,0,null, 36 ,4,27,43.76206961077844,31.05,No
+ 36 months,MORTGAGE,A,credit_card,8.19%,NH,Current,Individual,24000,10+ years,65000,22.86,1,25%,24483,37,0,null, 36 ,10,25,43.76206961077844,22.86,No
+ 60 months,MORTGAGE,D,debt_consolidation,18.94%,PA,Current,Individual,10000,4 years,130000,12.08,6,27%,11416,28,3,null, 60 ,4,27,43.76206961077844,12.08,No
+ 36 months,MORTGAGE,A,other,7.56%,NY,Current,Individual,6700,7 years,60000,13.42,0,40.90%,21006,12,0,null, 36 ,7,40,43.76206961077844,13.42,No
+ 36 months,RENT,B,debt_consolidation,11.31%,OR,Current,Individual,10000,10+ years,37000,5.19,2,19.50%,6648,22,1,null, 36 ,10,19,43.76206961077844,5.19,No
+ 36 months,MORTGAGE,B,debt_consolidation,10.33%,MS,Current,Individual,18500,n/a,67500,35.41,0,91.70%,25945,20,0,null, 36 ,,91,43.76206961077844,35.41,No
+ 36 months,RENT,A,other,8.81%,MA,Current,Individual,20000,6 years,75000,17.74,0,18.10%,4167,11,0,null, 36 ,6,18,43.76206961077844,17.74,No
+ 36 months,RENT,C,other,13.56%,CA,Current,Joint App,10000,1 year,62000,23.13,1,19.30%,2031,13,1,14.8, 36 ,1,19,43.76206961077844,23.13,No
+ 60 months,RENT,E,debt_consolidation,27.27%,AZ,Current,Individual,12000,n/a,50000,8.02,0,98.10%,1472,4,0,null, 60 ,,98,43.76206961077844,8.02,No
+ 36 months,RENT,C,debt_consolidation,16.91%,FL,Current,Individual,10000,10+ years,42000,17.91,0,52.70%,8066,13,0,null, 36 ,10,52,43.76206961077844,17.91,No
+ 36 months,RENT,A,debt_consolidation,8.81%,IL,Current,Individual,20000,6 years,40000,19.32,0,51.80%,24656,20,0,null, 36 ,6,51,43.76206961077844,19.32,No
+ 60 months,RENT,C,debt_consolidation,15.02%,MD,Current,Joint App,10000,7 years,45000,59.23,0,54.40%,15172,28,0,35.24, 60 ,7,54,43.76206961077844,59.23,No
+ 36 months,MORTGAGE,A,credit_card,7.02%,TX,Current,Individual,4475,< 1 year,85000,11.71,0,0.80%,481,16,0,null, 36 ,1,0,43.76206961077844,11.71,No
+ 36 months,RENT,C,debt_consolidation,16.91%,CT,Current,Individual,18000,9 years,49500,28.39,0,74.50%,19071,31,0,null, 36 ,9,74,43.76206961077844,28.39,No
+ 60 months,RENT,B,debt_consolidation,12.98%,NC,Current,Individual,10000,10+ years,64000,23.01,0,32.60%,10344,34,0,null, 60 ,10,32,43.76206961077844,23.01,No
+ 36 months,OWN,A,debt_consolidation,8.19%,IL,Fully Paid,Individual,33000,10+ years,168296,9.38,0,21.80%,13566,38,0,null, 36 ,10,21,43.76206961077844,9.38,No
+ 36 months,RENT,A,debt_consolidation,8.19%,CA,Current,Joint App,5000,8 years,100000,33.4,1,10.40%,7829,35,0,27.37, 36 ,8,10,43.76206961077844,33.4,No
+ 36 months,OWN,C,debt_consolidation,15.02%,NH,Current,Individual,9000,10+ years,42000,32.71,0,79.70%,18958,18,0,null, 36 ,10,79,43.76206961077844,32.71,No
+ 60 months,OWN,B,debt_consolidation,12.98%,TX,Current,Individual,15000,< 1 year,60000,30.44,1,22.80%,5080,49,0,null, 60 ,1,22,43.76206961077844,30.44,No
+ 36 months,RENT,B,debt_consolidation,10.72%,CT,Current,Individual,10000,n/a,65400,18.33,0,31.60%,14095,32,0,null, 36 ,,31,43.76206961077844,18.33,No
+ 36 months,RENT,B,debt_consolidation,11.80%,FL,Current,Individual,19200,< 1 year,100000,36.39,0,46.40%,10814,34,0,null, 36 ,1,46,43.76206961077844,36.39,No
+ 60 months,MORTGAGE,B,credit_card,10.72%,CA,Current,Individual,40000,< 1 year,135000,21.88,0,70.50%,30536,31,0,null, 60 ,1,70,43.76206961077844,21.88,No
+ 36 months,MORTGAGE,B,debt_consolidation,12.98%,GA,Current,Individual,7000,7 years,110000,9.34,1,93.20%,38777,19,0,null, 36 ,7,93,43.76206961077844,9.34,No
+ 60 months,RENT,C,credit_card,16.14%,NC,Current,Joint App,19000,10+ years,55000,15.75,0,63.80%,14749,11,0,21.69, 60 ,10,63,43.76206961077844,15.75,No
+ 60 months,MORTGAGE,C,debt_consolidation,13.56%,TN,Current,Individual,10000,3 years,59000,12.27,0,16.10%,11836,24,0,null, 60 ,3,16,43.76206961077844,12.27,No
+ 60 months,RENT,D,credit_card,19.92%,NY,In Grace Period,Individual,16000,4 years,45000,14.69,0,30%,11361,17,0,null, 60 ,4,30,43.76206961077844,14.69,yes
+ 36 months,MORTGAGE,B,credit_card,12.98%,IN,Current,Joint App,16000,6 years,25000,115.41,0,42.50%,29006,36,0,28.94, 36 ,6,42,43.76206961077844,115.41,No
+ 36 months,RENT,B,credit_card,10.33%,IL,Current,Individual,10000,< 1 year,70000,9.58,0,35%,9414,10,0,null, 36 ,1,35,43.76206961077844,9.58,No
+ 36 months,MORTGAGE,A,debt_consolidation,7.56%,OH,Current,Individual,20000,3 years,120000,33.03,0,14.90%,25974,25,0,null, 36 ,3,14,43.76206961077844,33.03,No
+ 36 months,OWN,E,car,27.27%,MN,Current,Individual,5100,1 year,35000,9.98,0,40.70%,2199,9,0,null, 36 ,1,40,43.76206961077844,9.98,No
+ 60 months,MORTGAGE,C,medical,16.14%,MD,Current,Joint App,10000,10+ years,39000,32.12,0,54.90%,18395,16,0,18.98, 60 ,10,54,43.76206961077844,32.12,No
+ 36 months,MORTGAGE,D,debt_consolidation,20.89%,MT,Current,Joint App,2200,5 years,43000,61.46,0,75.50%,17752,25,0,30.43, 36 ,5,75,43.76206961077844,61.46,No
+ 36 months,RENT,A,debt_consolidation,8.81%,CA,Current,Individual,3000,5 years,170000,5.99,0,41.80%,8366,19,0,null, 36 ,5,41,43.76206961077844,5.99,No
+ 60 months,MORTGAGE,B,debt_consolidation,12.98%,PA,Current,Individual,15775,3 years,90000,9.23,0,8.60%,2239,41,0,null, 60 ,3,8,43.76206961077844,9.23,No
+ 36 months,MORTGAGE,A,debt_consolidation,7.02%,CA,Current,Joint App,32000,n/a,40000,37.65,0,33.80%,15366,20,0,21.43, 36 ,,33,43.76206961077844,37.65,No
+ 60 months,MORTGAGE,E,debt_consolidation,23.40%,NC,Current,Individual,10000,10+ years,33000,36.99,0,80.90%,5663,19,0,null, 60 ,10,80,43.76206961077844,36.99,No
+ 60 months,MORTGAGE,D,debt_consolidation,18.94%,MO,Current,Individual,15000,< 1 year,100000,31.42,0,75.80%,31532,35,0,null, 60 ,1,75,43.76206961077844,31.42,No
+ 60 months,MORTGAGE,B,credit_card,10.72%,ND,Current,Joint App,40000,< 1 year,92000,28.28,0,73.30%,42504,34,0,17.74, 60 ,1,73,43.76206961077844,28.28,No
+ 36 months,OWN,B,debt_consolidation,12.98%,FL,Current,Individual,10000,2 years,36067,38.5,0,80.40%,30318,28,0,null, 36 ,2,80,43.76206961077844,38.5,No
+ 36 months,MORTGAGE,E,credit_card,23.40%,UT,Current,Individual,9200,10+ years,50000,7.73,1,86.20%,9308,14,0,null, 36 ,10,86,43.76206961077844,7.73,No
+ 36 months,MORTGAGE,C,debt_consolidation,14.47%,AL,Current,Individual,15000,3 years,115000,12.87,0,69%,13065,9,0,null, 36 ,3,69,43.76206961077844,12.87,No
+ 60 months,RENT,C,debt_consolidation,15.02%,NY,Current,Individual,35000,3 years,60000,18.92,0,37.80%,15611,7,0,null, 60 ,3,37,43.76206961077844,18.92,No
+ 36 months,OWN,C,debt_consolidation,16.91%,NJ,Current,Individual,8000,< 1 year,60000,30.34,0,44.80%,11460,25,0,null, 36 ,1,44,43.76206961077844,30.34,No
+ 60 months,RENT,A,debt_consolidation,8.19%,CA,Current,Individual,12000,4 years,93000,6.7,0,78.70%,17632,8,0,null, 60 ,4,78,43.76206961077844,6.7,No
+ 36 months,MORTGAGE,A,credit_card,6.46%,LA,Current,Individual,12000,5 years,65000,3.82,0,52.80%,11771,18,0,null, 36 ,5,52,43.76206961077844,3.82,No
+ 36 months,MORTGAGE,C,debt_consolidation,13.56%,NE,Current,Individual,30000,10+ years,135000,27.4,0,68.30%,39328,29,0,null, 36 ,10,68,43.76206961077844,27.4,No
+ 36 months,OWN,C,credit_card,14.47%,TX,Current,Individual,13500,8 years,38000,30.18,0,28.20%,6860,18,0,null, 36 ,8,28,43.76206961077844,30.18,No
+ 36 months,MORTGAGE,A,debt_consolidation,6.46%,AL,Current,Joint App,25000,7 years,50000,17.67,0,46.70%,17821,20,0,18.91, 36 ,7,46,43.76206961077844,17.67,No
+ 36 months,MORTGAGE,C,credit_card,13.56%,TX,Current,Individual,12000,5 years,55000,20.17,1,52.30%,8311,20,1,null, 36 ,5,52,43.76206961077844,20.17,No
+ 36 months,MORTGAGE,A,debt_consolidation,8.81%,NY,Current,Individual,7000,10+ years,117000,13.35,3,91.80%,16894,32,1,null, 36 ,10,91,43.76206961077844,13.35,No
+ 36 months,RENT,B,debt_consolidation,11.31%,GA,Current,Joint App,10000,4 years,45000,25.41,0,75.10%,4730,6,0,15.91, 36 ,4,75,43.76206961077844,25.41,No
+ 60 months,RENT,C,debt_consolidation,15.02%,MI,Current,Individual,26000,10+ years,69000,14.56,1,13.40%,3022,12,0,null, 60 ,10,13,43.76206961077844,14.56,No
+ 60 months,MORTGAGE,A,credit_card,7.21%,OH,Current,Individual,35000,4 years,53000,11.46,0,42.40%,22407,22,0,null, 60 ,4,42,43.76206961077844,11.46,No
+ 36 months,MORTGAGE,A,credit_card,7.02%,NC,Current,Individual,15000,n/a,85000,8.41,0,19.70%,9958,37,0,null, 36 ,,19,43.76206961077844,8.41,No
+ 60 months,MORTGAGE,D,debt_consolidation,18.94%,PA,Current,Individual,10000,1 year,45000,31.97,1,85%,8301,24,0,null, 60 ,1,85,43.76206961077844,31.97,No
+ 60 months,MORTGAGE,C,debt_consolidation,16.14%,AZ,Current,Individual,12000,8 years,90000,1.31,2,49.60%,2182,9,0,null, 60 ,8,49,43.76206961077844,1.31,No
+ 60 months,MORTGAGE,B,debt_consolidation,11.06%,CO,Current,Individual,37000,10+ years,95000,14.86,0,48.80%,30015,24,0,null, 60 ,10,48,43.76206961077844,14.86,No
+ 36 months,OWN,B,debt_consolidation,10.47%,CA,Current,Individual,6000,10+ years,60000,20.1,0,25.10%,3611,26,0,null, 36 ,10,25,43.76206961077844,20.1,No
+ 36 months,RENT,C,debt_consolidation,16.91%,NJ,Current,Individual,2200,7 years,55000,15.82,0,33.60%,17562,26,0,null, 36 ,7,33,43.76206961077844,15.82,No
+ 60 months,RENT,C,debt_consolidation,15.02%,MO,Current,Individual,23000,< 1 year,47000,27.5,0,31.50%,12272,20,0,null, 60 ,1,31,43.76206961077844,27.5,No
+ 60 months,MORTGAGE,B,debt_consolidation,12.98%,NC,Current,Individual,16000,10+ years,55000,20.29,0,7.50%,1876,22,0,null, 60 ,10,7,43.76206961077844,20.29,No
+ 60 months,MORTGAGE,B,debt_consolidation,12.98%,HI,Current,Individual,40000,6 years,100000,23.94,0,67.30%,32507,26,0,null, 60 ,6,67,43.76206961077844,23.94,No
+ 36 months,RENT,B,debt_consolidation,11.31%,TN,Current,Individual,3000,10+ years,47000,20.71,0,13.80%,3597,25,0,null, 36 ,10,13,43.76206961077844,20.71,No
+ 36 months,OWN,A,debt_consolidation,6.46%,IL,Current,Individual,22500,10+ years,58000,38.61,0,21.10%,17843,24,0,null, 36 ,10,21,43.76206961077844,38.61,No
+ 36 months,MORTGAGE,A,credit_card,6.46%,CA,Current,Individual,7000,n/a,65000,23.34,0,51.80%,12059,33,0,null, 36 ,,51,43.76206961077844,23.34,No
+ 36 months,MORTGAGE,A,car,8.19%,SC,Current,Individual,16800,2 years,105000,21.61,0,18.70%,7321,24,0,null, 36 ,2,18,43.76206961077844,21.61,No
+ 60 months,MORTGAGE,D,debt_consolidation,20.89%,CA,Current,Individual,16000,n/a,30000,25.04,0,54.40%,20888,13,0,null, 60 ,,54,43.76206961077844,25.04,No
+ 60 months,MORTGAGE,C,home_improvement,14.47%,VA,Current,Individual,40000,< 1 year,180000,10.31,0,40.70%,18958,32,0,null, 60 ,1,40,43.76206961077844,10.31,No
+ 60 months,RENT,C,major_purchase,13.56%,MI,Current,Joint App,12000,6 years,95000,7.21,0,63.10%,4415,11,0,6.86, 60 ,6,63,43.76206961077844,7.21,No
+ 36 months,MORTGAGE,B,debt_consolidation,11.80%,AR,Current,Individual,12000,5 years,132000,7.08,0,93.80%,6756,13,0,null, 36 ,5,93,43.76206961077844,7.08,No
+ 36 months,MORTGAGE,A,debt_consolidation,7.56%,TX,Current,Individual,10000,5 years,75000,21.47,0,39%,5458,27,0,null, 36 ,5,39,43.76206961077844,21.47,No
+ 60 months,MORTGAGE,B,home_improvement,12.73%,SC,Current,Individual,40000,10+ years,80000,14.19,0,41.40%,30282,14,0,null, 60 ,10,41,43.76206961077844,14.19,No
+ 60 months,RENT,E,credit_card,27.27%,PA,Current,Individual,18000,2 years,40000,28.14,0,71.50%,14938,21,0,null, 60 ,2,71,43.76206961077844,28.14,No
+ 60 months,MORTGAGE,C,other,16.14%,MO,Current,Individual,10000,n/a,40000,9.72,1,41.10%,1234,15,0,null, 60 ,,41,43.76206961077844,9.72,No
+ 36 months,RENT,A,debt_consolidation,6.11%,TX,Current,Individual,15000,10+ years,65000,27.32,0,28.60%,6755,15,0,null, 36 ,10,28,43.76206961077844,27.32,No
+ 60 months,MORTGAGE,B,debt_consolidation,11.80%,NY,Current,Joint App,10800,< 1 year,136000,15.56,0,9.60%,8868,59,0,11.67, 60 ,1,9,43.76206961077844,15.56,No
+ 36 months,RENT,E,home_improvement,24.37%,NY,Current,Individual,6375,n/a,32902.4,5.29,0,21.20%,3458,12,0,null, 36 ,,21,43.76206961077844,5.29,No
+ 36 months,RENT,C,debt_consolidation,16.91%,CA,Current,Individual,12000,8 years,58000,32.55,1,24.60%,12114,25,0,null, 36 ,8,24,43.76206961077844,32.55,No
+ 36 months,MORTGAGE,A,debt_consolidation,6.46%,MA,Current,Individual,20000,< 1 year,140000,13.44,0,17.40%,146963,23,0,null, 36 ,1,17,43.76206961077844,13.44,No
+ 36 months,RENT,A,credit_card,8.81%,MN,Current,Individual,9500,9 years,26000,27.65,0,55.10%,7937,11,0,null, 36 ,9,55,43.76206961077844,27.65,No
+ 36 months,MORTGAGE,C,major_purchase,14.47%,GA,Current,Individual,3025,3 years,45000,22.96,0,13.30%,5283,31,0,null, 36 ,3,13,43.76206961077844,22.96,No
+ 60 months,MORTGAGE,D,debt_consolidation,18.94%,PA,Current,Individual,24000,6 years,122000,26.91,2,49%,45370,29,0,null, 60 ,6,49,43.76206961077844,26.91,No
+ 36 months,MORTGAGE,A,debt_consolidation,8.19%,MN,Current,Joint App,10000,2 years,30000,73.44,0,41.40%,12378,18,0,23, 36 ,2,41,43.76206961077844,73.44,No
+ 36 months,MORTGAGE,B,medical,12.98%,WA,Current,Individual,3600,n/a,38400,17.69,0,85.60%,8821,11,0,null, 36 ,,85,43.76206961077844,17.69,No
+ 60 months,MORTGAGE,C,debt_consolidation,15.02%,CO,Current,Individual,14400,4 years,50000,18.87,0,41.90%,10102,12,0,null, 60 ,4,41,43.76206961077844,18.87,No
+ 36 months,RENT,B,credit_card,10.33%,CA,Current,Individual,12000,< 1 year,51600,13.72,0,48.70%,5796,6,0,null, 36 ,1,48,43.76206961077844,13.72,No
+ 36 months,RENT,B,debt_consolidation,11.31%,TX,Current,Individual,4800,10+ years,30000,37.32,1,24.70%,12321,27,1,null, 36 ,10,24,43.76206961077844,37.32,No
+ 60 months,RENT,C,credit_card,15.02%,MA,Current,Individual,20000,3 years,225000,19.15,2,66.90%,31430,28,1,null, 60 ,3,66,43.76206961077844,19.15,No
+ 60 months,RENT,C,debt_consolidation,16.91%,TX,Current,Individual,19500,< 1 year,72800,27.83,0,97.50%,18144,25,0,null, 60 ,1,97,43.76206961077844,27.83,No
+ 60 months,MORTGAGE,C,debt_consolidation,16.14%,MD,Current,Individual,10000,10+ years,154000,12.34,0,94.20%,16775,12,0,null, 60 ,10,94,43.76206961077844,12.34,No
+ 36 months,RENT,A,debt_consolidation,8.19%,NJ,Current,Individual,5000,10+ years,40000,27.6,0,12.90%,4012,23,0,null, 36 ,10,12,43.76206961077844,27.6,No
+ 60 months,MORTGAGE,B,debt_consolidation,10.08%,MI,Current,Individual,21000,8 years,120000,14.23,0,78.30%,47398,25,0,null, 60 ,8,78,43.76206961077844,14.23,No
+ 60 months,RENT,A,debt_consolidation,8.19%,NJ,Current,Individual,25000,4 years,80000,25.01,1,40.70%,23646,38,0,null, 60 ,4,40,43.76206961077844,25.01,No
+ 60 months,MORTGAGE,A,debt_consolidation,8.19%,SC,Current,Individual,40000,7 years,134000,14.84,0,36.20%,25461,29,0,null, 60 ,7,36,43.76206961077844,14.84,No
+ 36 months,OWN,E,medical,24.37%,FL,Current,Individual,5000,10+ years,70250,39.12,0,69%,40318,28,0,null, 36 ,10,69,43.76206961077844,39.12,No
+ 36 months,MORTGAGE,B,debt_consolidation,11.80%,IL,Current,Joint App,30000,4 years,120000,22.1,0,73.10%,34207,44,0,21.37, 36 ,4,73,43.76206961077844,22.1,No
+ 36 months,RENT,A,credit_card,6.46%,WI,Current,Individual,15000,2 years,57000,20.63,0,62%,15120,17,0,null, 36 ,2,62,43.76206961077844,20.63,No
+ 36 months,RENT,A,debt_consolidation,6.46%,NY,Current,Individual,18000,< 1 year,110000,6.54,0,9.50%,3766,15,0,null, 36 ,1,9,43.76206961077844,6.54,No
+ 60 months,RENT,C,debt_consolidation,15.02%,MA,Current,Individual,30000,1 year,85000,29.07,0,24.70%,25390,44,0,null, 60 ,1,24,43.76206961077844,29.07,No
+ 36 months,MORTGAGE,A,debt_consolidation,7.02%,TX,Current,Individual,40000,8 years,129500,19.48,0,59.70%,57416,42,0,null, 36 ,8,59,43.76206961077844,19.48,No
+ 60 months,RENT,C,credit_card,15.02%,MN,Current,Individual,11200,4 years,25000,39.7,0,55.20%,7280,13,0,null, 60 ,4,55,43.76206961077844,39.7,No
+ 36 months,RENT,A,debt_consolidation,8.19%,WA,Current,Individual,6000,2 years,58000,12.91,0,29.70%,4398,8,0,null, 36 ,2,29,43.76206961077844,12.91,No
+ 36 months,RENT,A,debt_consolidation,6.46%,CA,Current,Individual,18000,10+ years,60000,28.08,0,32.20%,16089,22,0,null, 36 ,10,32,43.76206961077844,28.08,No
+ 60 months,MORTGAGE,B,credit_card,11.80%,NH,Current,Individual,10000,1 year,70000,23.32,0,86.60%,22775,25,0,null, 60 ,1,86,43.76206961077844,23.32,No
+ 36 months,OWN,E,other,24.37%,TX,Late (31-120 days),Individual,18000,2 years,85000,16.21,0,37.70%,16124,25,0,null, 36 ,2,37,43.76206961077844,16.21,yes
+ 36 months,MORTGAGE,B,home_improvement,10.72%,KS,Current,Individual,20000,4 years,75000,15.54,0,39.70%,13774,31,0,null, 36 ,4,39,43.76206961077844,15.54,No
+ 36 months,MORTGAGE,A,home_improvement,8.81%,FL,Current,Joint App,8000,10+ years,75000,10.78,0,33.10%,5161,29,0,6.73, 36 ,10,33,43.76206961077844,10.78,No
+ 36 months,MORTGAGE,B,other,11.31%,MO,Current,Individual,5000,10+ years,64460,21.65,1,30.30%,4300,38,0,null, 36 ,10,30,43.76206961077844,21.65,No
+ 60 months,RENT,C,debt_consolidation,15.02%,MN,Current,Individual,15000,< 1 year,83000,17.7,2,47%,15128,36,1,null, 60 ,1,47,43.76206961077844,17.7,No
+ 36 months,RENT,D,debt_consolidation,19.92%,NY,Current,Individual,1000,10+ years,55000,15.64,0,63.10%,20378,21,0,null, 36 ,10,63,43.76206961077844,15.64,No
+ 60 months,OWN,B,debt_consolidation,12.98%,CT,Current,Individual,13000,< 1 year,125000,13.63,0,76%,41953,21,0,null, 60 ,1,76,43.76206961077844,13.63,No
+ 60 months,OWN,A,credit_card,8.81%,MA,Current,Individual,18000,10+ years,56000,15.67,0,54.80%,12875,23,0,null, 60 ,10,54,43.76206961077844,15.67,No
+ 36 months,MORTGAGE,B,credit_card,11.80%,KY,Current,Individual,3200,10+ years,37000,20.47,0,47.10%,6973,40,0,null, 36 ,10,47,43.76206961077844,20.47,No
+ 36 months,MORTGAGE,C,debt_consolidation,15.02%,MO,Current,Joint App,5000,n/a,12000,35.65,0,56%,8910,23,0,12.04, 36 ,,56,43.76206961077844,35.65,No
+ 36 months,MORTGAGE,D,other,20.89%,IL,Current,Individual,1500,10+ years,70000,39,1,54.70%,4976,33,0,null, 36 ,10,54,43.76206961077844,39,No
+ 36 months,MORTGAGE,A,debt_consolidation,7.56%,FL,Current,Individual,6500,10+ years,59000,4.21,0,20.60%,6581,8,0,null, 36 ,10,20,43.76206961077844,4.21,No
+ 36 months,RENT,A,credit_card,7.84%,NY,Current,Individual,6000,n/a,50000,14.51,0,12.10%,595,26,0,null, 36 ,,12,43.76206961077844,14.51,No
+ 36 months,RENT,B,credit_card,10.33%,CA,Current,Individual,3000,n/a,24000,4.65,0,16.40%,1327,11,0,null, 36 ,,16,43.76206961077844,4.65,No
+ 36 months,RENT,B,debt_consolidation,12.98%,TX,Late (31-120 days),Individual,7000,2 years,90000,21.48,0,32.90%,15593,54,0,null, 36 ,2,32,43.76206961077844,21.48,yes
+ 36 months,RENT,B,credit_card,12.98%,CA,Current,Individual,10000,2 years,110000,10.08,0,59.10%,21280,50,0,null, 36 ,2,59,43.76206961077844,10.08,No
+ 36 months,RENT,A,credit_card,6.67%,WA,Current,Individual,1700,10+ years,35000,25.99,0,40.50%,13681,19,0,null, 36 ,10,40,43.76206961077844,25.99,No
+ 36 months,MORTGAGE,E,vacation,23.40%,KY,Current,Individual,3500,5 years,41600,26.8,0,41.50%,9098,17,0,null, 36 ,5,41,43.76206961077844,26.8,No
+ 36 months,OWN,C,debt_consolidation,16.91%,CA,Current,Individual,25000,10+ years,89000,17.11,0,59.20%,40228,32,0,null, 36 ,10,59,43.76206961077844,17.11,No
+ 36 months,MORTGAGE,B,credit_card,10.33%,FL,Current,Individual,35000,6 years,185000,10.31,0,69.60%,47718,16,0,null, 36 ,6,69,43.76206961077844,10.31,No
+ 60 months,RENT,D,debt_consolidation,17.97%,MD,Current,Individual,26000,2 years,120000,18.68,0,79.10%,50245,28,0,null, 60 ,2,79,43.76206961077844,18.68,No
+ 36 months,MORTGAGE,D,debt_consolidation,18.94%,PA,Current,Individual,14000,10+ years,52000,26.17,0,50.30%,12468,22,0,null, 36 ,10,50,43.76206961077844,26.17,No
+ 36 months,RENT,A,debt_consolidation,8.81%,CA,Late (31-120 days),Individual,15000,2 years,225000,19.83,0,63%,9645,61,0,null, 36 ,2,63,43.76206961077844,19.83,yes
+ 36 months,MORTGAGE,A,debt_consolidation,7.02%,AZ,Current,Individual,35000,8 years,95000,24.66,0,17.90%,9708,27,0,null, 36 ,8,17,43.76206961077844,24.66,No
+ 36 months,MORTGAGE,A,credit_card,6.46%,CA,Current,Individual,15000,3 years,80000,16.28,2,70.20%,21466,23,2,null, 36 ,3,70,43.76206961077844,16.28,No
+ 60 months,MORTGAGE,B,credit_card,11.80%,SC,Current,Individual,10000,< 1 year,95000,19.02,1,34.40%,6675,32,1,null, 60 ,1,34,43.76206961077844,19.02,No
+ 36 months,RENT,C,debt_consolidation,14.47%,NY,Current,Individual,9000,< 1 year,60000,16.24,4,51.10%,4649,18,0,null, 36 ,1,51,43.76206961077844,16.24,No
+ 36 months,MORTGAGE,A,credit_card,7.02%,TX,Current,Individual,11000,10+ years,75000,30.67,0,41.10%,37923,28,0,null, 36 ,10,41,43.76206961077844,30.67,No
+ 36 months,RENT,A,debt_consolidation,7.56%,CT,Current,Individual,9600,2 years,90000,13.35,0,12.50%,4480,10,0,null, 36 ,2,12,43.76206961077844,13.35,No
+ 36 months,RENT,B,debt_consolidation,10.33%,FL,Current,Individual,16000,1 year,70000,13.36,0,46.90%,21016,9,0,null, 36 ,1,46,43.76206961077844,13.36,No
+ 60 months,RENT,B,debt_consolidation,10.33%,OR,Current,Individual,27000,< 1 year,120000,15.23,0,73.50%,31240,22,0,null, 60 ,1,73,43.76206961077844,15.23,No
+ 36 months,MORTGAGE,A,credit_card,7.56%,CO,Current,Joint App,12000,< 1 year,45000,24.29,0,75.60%,17012,10,0,11.17, 36 ,1,75,43.76206961077844,24.29,No
+ 60 months,MORTGAGE,D,debt_consolidation,20.89%,MO,Current,Individual,35000,5 years,60000,36.78,0,19.10%,2903,29,0,null, 60 ,5,19,43.76206961077844,36.78,No
+ 36 months,OWN,C,debt_consolidation,16.14%,IL,Current,Individual,10000,n/a,39000,16.52,0,25%,4584,30,0,null, 36 ,,25,43.76206961077844,16.52,No
+ 36 months,RENT,C,debt_consolidation,15.02%,TN,Current,Individual,15000,10+ years,94000,29.01,0,91.60%,39958,13,0,null, 36 ,10,91,43.76206961077844,29.01,No
+ 36 months,MORTGAGE,B,debt_consolidation,11.31%,WA,Current,Individual,18000,10+ years,230000,19.61,0,75.80%,44022,38,0,null, 36 ,10,75,43.76206961077844,19.61,No
+ 36 months,MORTGAGE,A,debt_consolidation,8.81%,SC,Current,Individual,13600,10+ years,134000,31.17,1,76%,95670,27,0,null, 36 ,10,76,43.76206961077844,31.17,No
+ 60 months,MORTGAGE,B,credit_card,10.72%,ND,Current,Individual,40000,10+ years,135000,11.24,0,73.10%,36482,26,0,null, 60 ,10,73,43.76206961077844,11.24,No
+ 60 months,MORTGAGE,B,debt_consolidation,11.80%,IL,Current,Individual,20000,10+ years,86000,24.35,0,20%,9341,27,0,null, 60 ,10,20,43.76206961077844,24.35,No
+ 36 months,OWN,A,debt_consolidation,8.46%,HI,Current,Individual,5000,10+ years,42000,13.2,0,18.70%,6862,15,0,null, 36 ,10,18,43.76206961077844,13.2,No
+ 36 months,MORTGAGE,C,home_improvement,15.02%,AZ,In Grace Period,Individual,9600,< 1 year,50000,25.01,0,52.60%,14211,23,0,null, 36 ,1,52,43.76206961077844,25.01,yes
+ 36 months,MORTGAGE,A,debt_consolidation,7.56%,MA,Current,Individual,10000,10+ years,50000,12.67,0,38.20%,13910,25,0,null, 36 ,10,38,43.76206961077844,12.67,No
+ 36 months,MORTGAGE,A,debt_consolidation,7.56%,GA,Current,Individual,25000,5 years,220000,6.66,0,21%,13423,18,0,null, 36 ,5,21,43.76206961077844,6.66,No
+ 36 months,MORTGAGE,B,home_improvement,11.31%,OR,Current,Individual,5000,10+ years,163000,17.76,0,81%,55810,23,0,null, 36 ,10,81,43.76206961077844,17.76,No
+ 36 months,MORTGAGE,B,debt_consolidation,12.98%,PA,Current,Individual,10000,10+ years,63542,19.72,0,15.60%,1043,17,0,null, 36 ,10,15,43.76206961077844,19.72,No
+ 36 months,OWN,E,debt_consolidation,23.40%,MI,Current,Individual,22000,10+ years,55000,32.86,0,96.40%,18027,21,0,null, 36 ,10,96,43.76206961077844,32.86,No
+ 36 months,MORTGAGE,D,home_improvement,20.89%,LA,Current,Individual,10000,10+ years,140000,14.9,0,47.90%,5893,36,0,null, 36 ,10,47,43.76206961077844,14.9,No
+ 36 months,MORTGAGE,A,other,7.56%,TX,Late (31-120 days),Joint App,40000,2 years,184093,5.53,0,40.70%,15098,16,0,5.73, 36 ,2,40,43.76206961077844,5.53,yes
+ 36 months,RENT,A,debt_consolidation,8.81%,MA,Current,Individual,20000,7 years,75000,12.77,0,34.10%,13091,18,0,null, 36 ,7,34,43.76206961077844,12.77,No
+ 60 months,RENT,C,credit_card,16.14%,OH,Current,Individual,28800,8 years,65000,27.68,0,97.90%,22612,35,0,null, 60 ,8,97,43.76206961077844,27.68,No
+ 36 months,RENT,B,credit_card,11.31%,NV,Current,Individual,10000,< 1 year,36000,36.12,0,72.70%,12438,19,0,null, 36 ,1,72,43.76206961077844,36.12,No
+ 36 months,RENT,B,debt_consolidation,11.31%,NY,Current,Individual,6000,8 years,140000,11.53,0,43%,11098,19,0,null, 36 ,8,43,43.76206961077844,11.53,No
+ 36 months,OWN,B,home_improvement,11.80%,IN,Current,Individual,6000,10+ years,47000,29.49,0,28.30%,7794,20,0,null, 36 ,10,28,43.76206961077844,29.49,No
+ 36 months,MORTGAGE,A,debt_consolidation,7.84%,IL,Current,Joint App,9000,< 1 year,85000,0.35,0,3.70%,989,10,0,4, 36 ,1,3,43.76206961077844,0.35,No
+ 36 months,RENT,E,debt_consolidation,24.37%,GA,Fully Paid,Individual,18500,2 years,120000,13.17,0,35.80%,13572,16,0,null, 36 ,2,35,43.76206961077844,13.17,No
+ 60 months,MORTGAGE,B,credit_card,12.98%,TX,Current,Joint App,30000,2 years,30000,66.48,0,58.80%,12112,37,0,34.15, 60 ,2,58,43.76206961077844,66.48,No
+ 36 months,MORTGAGE,D,home_improvement,20.89%,TX,Current,Individual,10000,n/a,95000,25.51,0,59.50%,22434,44,0,null, 36 ,,59,43.76206961077844,25.51,No
+ 36 months,MORTGAGE,A,debt_consolidation,8.19%,PA,Current,Individual,8000,10+ years,85000,27.43,0,78.50%,48727,17,0,null, 36 ,10,78,43.76206961077844,27.43,No
+ 36 months,MORTGAGE,A,medical,7.02%,PA,Current,Individual,2000,< 1 year,43000,3.88,0,7.70%,3996,28,0,null, 36 ,1,7,43.76206961077844,3.88,No
+ 36 months,MORTGAGE,A,credit_card,8.19%,NH,Current,Individual,9000,4 years,61000,26.99,1,74.20%,9723,35,0,null, 36 ,4,74,43.76206961077844,26.99,No
+ 36 months,MORTGAGE,A,home_improvement,8.19%,NJ,Current,Individual,9500,8 years,170000,9.2,0,0.30%,65,38,0,null, 36 ,8,0,43.76206961077844,9.2,No
+ 36 months,RENT,B,credit_card,11.80%,CA,Current,Individual,16800,4 years,50000,18.65,0,78%,19749,10,0,null, 36 ,4,78,43.76206961077844,18.65,No
+ 36 months,MORTGAGE,A,credit_card,7.84%,WI,Current,Individual,12000,10+ years,58000,26.59,1,90.60%,20747,33,0,null, 36 ,10,90,43.76206961077844,26.59,No
+ 60 months,RENT,E,debt_consolidation,25.34%,CA,Current,Individual,15000,10+ years,77000,21.45,0,7.80%,2404,26,0,null, 60 ,10,7,43.76206961077844,21.45,No
+ 60 months,RENT,B,small_business,11.80%,TX,Current,Joint App,40000,1 year,110000,17.75,0,35.20%,8194,34,0,13.01, 60 ,1,35,43.76206961077844,17.75,No
+ 36 months,OWN,A,credit_card,6.46%,KS,Current,Individual,7000,10+ years,65000,3.9,0,66.50%,7846,11,0,null, 36 ,10,66,43.76206961077844,3.9,No
+ 36 months,RENT,C,debt_consolidation,15.02%,CA,Current,Individual,15000,2 years,66560,31.45,0,43.90%,15092,30,0,null, 36 ,2,43,43.76206961077844,31.45,No
+ 36 months,MORTGAGE,A,debt_consolidation,8.19%,OH,Current,Individual,20000,1 year,75000,31.6,0,5.10%,8169,37,0,null, 36 ,1,5,43.76206961077844,31.6,No
+ 36 months,RENT,B,credit_card,10.33%,FL,Current,Individual,9100,1 year,28000,5.27,0,35.60%,7153,9,0,null, 36 ,1,35,43.76206961077844,5.27,No
+ 36 months,RENT,C,credit_card,16.14%,OH,Current,Individual,5000,9 years,37000,32.01,0,59.20%,21310,19,0,null, 36 ,9,59,43.76206961077844,32.01,No
+ 36 months,MORTGAGE,B,vacation,12.73%,AZ,Current,Joint App,3000,2 years,50000,33.27,0,26.20%,12330,21,0,18.19, 36 ,2,26,43.76206961077844,33.27,No
+ 36 months,RENT,C,other,15.02%,MD,Current,Individual,6000,1 year,84512,21.75,0,17.60%,14173,25,0,null, 36 ,1,17,43.76206961077844,21.75,No
+ 36 months,MORTGAGE,A,credit_card,6.11%,NY,Current,Individual,40000,10+ years,200000,10.28,0,61.20%,64797,24,0,null, 36 ,10,61,43.76206961077844,10.28,No
+ 36 months,RENT,A,medical,7.02%,CA,Current,Individual,2500,3 years,70000,13.24,0,8.80%,3379,15,0,null, 36 ,3,8,43.76206961077844,13.24,No
+ 36 months,MORTGAGE,C,debt_consolidation,16.91%,NM,Current,Joint App,20000,< 1 year,37000,64.45,1,79.90%,3835,44,0,31.01, 36 ,1,79,43.76206961077844,64.45,No
+ 60 months,MORTGAGE,C,medical,15.02%,NH,Current,Individual,12000,10+ years,64000,33.21,1,55.10%,18570,21,0,null, 60 ,10,55,43.76206961077844,33.21,No
+ 60 months,MORTGAGE,B,home_improvement,11.80%,NC,Late (31-120 days),Individual,30000,6 years,112000,16.01,0,7.70%,6855,37,0,null, 60 ,6,7,43.76206961077844,16.01,yes
+ 60 months,RENT,C,debt_consolidation,15.02%,GA,Current,Individual,40000,6 years,86500,12.11,0,72.40%,13165,10,0,null, 60 ,6,72,43.76206961077844,12.11,No
+ 36 months,RENT,A,credit_card,7.56%,LA,Current,Individual,7500,2 years,38000,38.19,0,46.30%,12779,28,0,null, 36 ,2,46,43.76206961077844,38.19,No
+ 36 months,RENT,A,debt_consolidation,8.19%,NY,Current,Individual,5000,3 years,20000,9.78,0,11.50%,4473,18,0,null, 36 ,3,11,43.76206961077844,9.78,No
+ 36 months,MORTGAGE,A,credit_card,8.81%,MI,Current,Individual,15000,1 year,182000,15.43,1,92.50%,15353,21,1,null, 36 ,1,92,43.76206961077844,15.43,No
+ 60 months,MORTGAGE,A,debt_consolidation,7.84%,TX,Current,Joint App,20000,10+ years,45000,7.15,0,35.90%,24248,18,0,4.73, 60 ,10,35,43.76206961077844,7.15,No
+ 60 months,MORTGAGE,B,debt_consolidation,10.33%,WV,Current,Individual,40000,10+ years,105000,25.1,0,47.70%,19891,15,0,null, 60 ,10,47,43.76206961077844,25.1,No
+ 36 months,MORTGAGE,B,major_purchase,10.72%,AZ,Current,Individual,6000,10+ years,94000,16,0,78.10%,14448,16,0,null, 36 ,10,78,43.76206961077844,16,No
+ 60 months,RENT,D,credit_card,22.35%,FL,Current,Individual,24000,< 1 year,150000,37.26,0,73%,61459,27,0,null, 60 ,1,73,43.76206961077844,37.26,No
+ 36 months,MORTGAGE,A,credit_card,6.46%,MA,Current,Individual,36000,< 1 year,78000,28.03,0,50.60%,70683,24,0,null, 36 ,1,50,43.76206961077844,28.03,No
+ 60 months,MORTGAGE,C,credit_card,16.91%,TX,Current,Joint App,10000,10+ years,105000,6.85,1,44.30%,12635,17,1,5.77, 60 ,10,44,43.76206961077844,6.85,No
+ 36 months,MORTGAGE,C,credit_card,15.02%,AL,Current,Individual,10000,10+ years,65000,29.63,0,63.70%,10637,30,0,null, 36 ,10,63,43.76206961077844,29.63,No
+ 36 months,RENT,D,debt_consolidation,20.89%,MI,Fully Paid,Individual,14500,5 years,38500,13.09,0,19.80%,3368,32,0,null, 36 ,5,19,43.76206961077844,13.09,No
+ 36 months,OWN,C,debt_consolidation,14.47%,CO,Current,Individual,6000,10+ years,58000,14.98,0,47.80%,3682,21,0,null, 36 ,10,47,43.76206961077844,14.98,No
+ 36 months,RENT,C,debt_consolidation,16.14%,NJ,Current,Individual,20000,4 years,86000,16.12,2,20.30%,4984,20,1,null, 36 ,4,20,43.76206961077844,16.12,No
+ 36 months,RENT,A,debt_consolidation,8.81%,NY,Current,Individual,40000,1 year,125000,15.7,0,41%,25359,24,0,null, 36 ,1,41,43.76206961077844,15.7,No
+ 36 months,RENT,C,credit_card,13.56%,MO,Current,Individual,11000,5 years,63000,27.36,0,85.30%,16624,10,0,null, 36 ,5,85,43.76206961077844,27.36,No
+ 60 months,MORTGAGE,B,debt_consolidation,12.98%,VT,Current,Individual,24000,< 1 year,65000,16.4,1,27.90%,4740,16,0,null, 60 ,1,27,43.76206961077844,16.4,No
+ 36 months,MORTGAGE,A,debt_consolidation,6.46%,PA,Current,Individual,25000,6 years,160000,11.66,0,38.80%,23004,33,0,null, 36 ,6,38,43.76206961077844,11.66,No
+ 36 months,MORTGAGE,C,debt_consolidation,16.14%,NC,Current,Individual,15000,5 years,100000,10.75,1,79.10%,6722,22,0,null, 36 ,5,79,43.76206961077844,10.75,No
+ 36 months,RENT,C,other,13.56%,IL,Current,Individual,3000,2 years,66000,7.29,3,10%,460,33,3,null, 36 ,2,10,43.76206961077844,7.29,No
+ 60 months,RENT,C,credit_card,16.91%,PA,In Grace Period,Individual,14400,10+ years,51000,14.75,0,19.60%,4500,27,0,null, 60 ,10,19,43.76206961077844,14.75,yes
+ 36 months,RENT,A,credit_card,7.56%,IL,Current,Individual,9600,9 years,57000,16.57,0,61.40%,12277,9,0,null, 36 ,9,61,43.76206961077844,16.57,No
+ 60 months,MORTGAGE,B,debt_consolidation,10.72%,ID,Current,Individual,16000,6 years,55000,20.21,0,45.90%,15111,13,0,null, 60 ,6,45,43.76206961077844,20.21,No
+ 36 months,RENT,C,small_business,16.14%,CA,Current,Individual,6000,6 years,41000,8.84,1,83.20%,8322,44,0,null, 36 ,6,83,43.76206961077844,8.84,No
+ 60 months,MORTGAGE,C,debt_consolidation,15.02%,CO,Current,Individual,16000,10+ years,52000,12.95,2,97.40%,1754,16,2,null, 60 ,10,97,43.76206961077844,12.95,No
+ 36 months,OWN,B,debt_consolidation,11.06%,WA,Fully Paid,Joint App,14400,n/a,40000,57.28,0,24.80%,61929,36,0,36.13, 36 ,,24,43.76206961077844,57.28,No
+ 36 months,RENT,A,major_purchase,7.56%,IL,Current,Individual,7500,7 years,85000,2.61,0,41.20%,8867,15,0,null, 36 ,7,41,43.76206961077844,2.61,No
+ 36 months,MORTGAGE,D,debt_consolidation,18.94%,TN,Current,Individual,25000,10+ years,150000,24.55,1,86.90%,19811,38,0,null, 36 ,10,86,43.76206961077844,24.55,No
+ 36 months,MORTGAGE,A,credit_card,6.46%,TX,Current,Joint App,6275,10+ years,95604,10.54,1,30.20%,12352,27,0,11.35, 36 ,10,30,43.76206961077844,10.54,No
+ 36 months,RENT,A,home_improvement,6.46%,CA,Current,Individual,20000,n/a,125000,23.77,0,43.30%,37004,38,0,null, 36 ,,43,43.76206961077844,23.77,No
+ 36 months,OWN,D,credit_card,19.92%,MD,Current,Individual,10000,2 years,105000,14.39,0,78%,12486,15,0,null, 36 ,2,78,43.76206961077844,14.39,No
+ 36 months,MORTGAGE,A,credit_card,6.67%,IL,Current,Individual,15000,10+ years,128000,18.97,0,24%,20779,45,0,null, 36 ,10,24,43.76206961077844,18.97,No
+ 36 months,OWN,C,home_improvement,13.56%,MI,Current,Individual,10000,5 years,46000,10.49,0,22.10%,1881,10,0,null, 36 ,5,22,43.76206961077844,10.49,No
+ 36 months,RENT,D,credit_card,18.94%,PA,Current,Individual,7200,6 years,150000,7.53,2,66.70%,2467,18,0,null, 36 ,6,66,43.76206961077844,7.53,No
+ 60 months,MORTGAGE,C,debt_consolidation,15.02%,NC,Current,Individual,10000,3 years,66000,12.07,0,37.10%,10619,26,0,null, 60 ,3,37,43.76206961077844,12.07,No
+ 36 months,MORTGAGE,A,debt_consolidation,8.81%,IL,Current,Individual,32000,3 years,80000,21.27,0,36%,19767,12,0,null, 36 ,3,36,43.76206961077844,21.27,No
+ 60 months,OWN,D,major_purchase,19.92%,IL,Current,Individual,15000,5 years,250000,19.18,0,23.80%,8766,25,0,null, 60 ,5,23,43.76206961077844,19.18,No
+ 36 months,MORTGAGE,B,debt_consolidation,10.72%,IL,Current,Individual,4000,4 years,75000,17.23,0,25.60%,7136,22,0,null, 36 ,4,25,43.76206961077844,17.23,No
+ 36 months,MORTGAGE,D,credit_card,18.94%,AZ,Current,Individual,16500,10+ years,78000,39.6,0,54.60%,19448,18,0,null, 36 ,10,54,43.76206961077844,39.6,No
+ 36 months,RENT,C,other,14.47%,MI,Current,Individual,2000,10+ years,58000,15.79,4,null,0,15,1,null, 36 ,10,43.76206961077844,43.76206961077844,15.79,No
+ 36 months,RENT,C,debt_consolidation,15.02%,PA,Current,Individual,3000,5 years,87000,23.49,1,41.80%,15202,24,0,null, 36 ,5,41,43.76206961077844,23.49,No
+ 36 months,RENT,D,debt_consolidation,19.92%,NY,Current,Individual,1900,3 years,95000,17.34,1,51.80%,1863,29,0,null, 36 ,3,51,43.76206961077844,17.34,No
+ 36 months,MORTGAGE,C,credit_card,16.14%,OH,Current,Individual,4800,10+ years,60000,20,0,46.70%,6637,13,0,null, 36 ,10,46,43.76206961077844,20,No
+ 36 months,RENT,B,credit_card,10.72%,CA,Current,Individual,20000,4 years,49000,22.36,0,70.40%,19440,10,0,null, 36 ,4,70,43.76206961077844,22.36,No
+ 36 months,RENT,C,medical,15.02%,CA,Late (31-120 days),Individual,5000,10+ years,72000,24.85,0,41.70%,26246,29,0,null, 36 ,10,41,43.76206961077844,24.85,yes
+ 36 months,RENT,B,debt_consolidation,12.98%,CA,Current,Individual,25000,5 years,68000,24.53,0,24.80%,4744,29,0,null, 36 ,5,24,43.76206961077844,24.53,No
+ 36 months,MORTGAGE,B,debt_consolidation,12.98%,TX,Current,Joint App,21400,1 year,77000,36.79,0,30.80%,11172,29,0,32.56, 36 ,1,30,43.76206961077844,36.79,No
+ 60 months,RENT,E,debt_consolidation,25.34%,NJ,Current,Individual,30000,6 years,92500,29.16,0,78.90%,48182,16,0,null, 60 ,6,78,43.76206961077844,29.16,No
+ 36 months,OWN,B,debt_consolidation,10.33%,IL,Current,Individual,32000,10+ years,130000,18.94,2,59.90%,45618,37,0,null, 36 ,10,59,43.76206961077844,18.94,No
+ 36 months,RENT,C,debt_consolidation,14.47%,NY,Current,Individual,11000,2 years,80000,8.5,1,82.80%,11007,22,1,null, 36 ,2,82,43.76206961077844,8.5,No
+ 60 months,RENT,D,credit_card,20.89%,FL,Current,Individual,11000,4 years,55000,23.72,0,83.10%,23423,17,0,null, 60 ,4,83,43.76206961077844,23.72,No
+ 36 months,RENT,B,debt_consolidation,10.33%,CA,Current,Individual,5400,4 years,40000,13.74,0,27.20%,5882,8,0,null, 36 ,4,27,43.76206961077844,13.74,No
+ 36 months,RENT,C,debt_consolidation,16.14%,FL,Current,Individual,26400,< 1 year,120000,8.24,0,37.80%,8514,12,0,null, 36 ,1,37,43.76206961077844,8.24,No
+ 60 months,MORTGAGE,D,credit_card,18.94%,AZ,Current,Joint App,26000,10+ years,68000,30.46,0,70.80%,30092,16,0,23.29, 60 ,10,70,43.76206961077844,30.46,No
+ 60 months,RENT,C,credit_card,16.91%,CA,Current,Individual,12000,6 years,45000,27.09,0,45.50%,12056,13,0,null, 60 ,6,45,43.76206961077844,27.09,No
+ 36 months,RENT,A,debt_consolidation,6.46%,KS,Current,Individual,15000,1 year,48500,23.81,0,9.60%,5296,36,0,null, 36 ,1,9,43.76206961077844,23.81,No
+ 36 months,RENT,C,moving,13.56%,FL,Current,Individual,3000,1 year,60000,19.82,1,50.80%,4519,11,1,null, 36 ,1,50,43.76206961077844,19.82,No
+ 60 months,MORTGAGE,A,debt_consolidation,8.19%,PA,Current,Individual,18000,3 years,109000,16.95,0,51.60%,18561,21,0,null, 60 ,3,51,43.76206961077844,16.95,No
+ 36 months,MORTGAGE,C,credit_card,15.02%,NY,Current,Individual,2000,1 year,110000,8.07,4,94.20%,20630,25,4,null, 36 ,1,94,43.76206961077844,8.07,No
+ 36 months,RENT,A,debt_consolidation,8.81%,MA,Current,Individual,8000,10+ years,60000,18.06,0,16.10%,8199,26,0,null, 36 ,10,16,43.76206961077844,18.06,No
+ 36 months,MORTGAGE,A,debt_consolidation,7.56%,FL,Current,Individual,11600,10+ years,76000,36.22,0,61%,63216,25,0,null, 36 ,10,61,43.76206961077844,36.22,No
+ 36 months,MORTGAGE,A,debt_consolidation,8.81%,NJ,Current,Individual,12000,10+ years,95000,10.42,0,21.90%,12646,26,0,null, 36 ,10,21,43.76206961077844,10.42,No
+ 60 months,OWN,D,debt_consolidation,20.89%,GA,Fully Paid,Individual,20000,10+ years,75000,14.8,0,45.20%,2891,18,0,null, 60 ,10,45,43.76206961077844,14.8,No
+ 36 months,MORTGAGE,C,medical,14.47%,NY,Current,Individual,1000,10+ years,92000,18.16,0,77.60%,26838,17,0,null, 36 ,10,77,43.76206961077844,18.16,No
+ 36 months,RENT,B,debt_consolidation,11.31%,CA,Current,Individual,6000,3 years,35000,19.68,0,63.60%,5405,4,0,null, 36 ,3,63,43.76206961077844,19.68,No
+ 36 months,MORTGAGE,C,credit_card,16.91%,AZ,Current,Individual,9800,10+ years,101000,29.76,0,81.30%,18382,23,0,null, 36 ,10,81,43.76206961077844,29.76,No
+ 36 months,MORTGAGE,A,home_improvement,7.02%,NV,Current,Joint App,10000,6 years,30000,24.36,0,15%,5624,19,0,15.44, 36 ,6,15,43.76206961077844,24.36,No
+ 60 months,MORTGAGE,B,home_improvement,11.80%,VA,Current,Joint App,12000,10+ years,50000,31.73,1,45.80%,11261,47,1,22.5, 60 ,10,45,43.76206961077844,31.73,No
+ 36 months,RENT,D,other,19.92%,OH,Current,Individual,8000,n/a,19000,21.67,0,1.10%,104,6,0,null, 36 ,,1,43.76206961077844,21.67,No
+ 60 months,MORTGAGE,B,credit_card,12.98%,MI,Current,Joint App,35000,10+ years,64055,53.49,0,79.30%,54015,30,0,27.85, 60 ,10,79,43.76206961077844,53.49,No
+ 36 months,RENT,B,debt_consolidation,12.98%,SC,Current,Individual,20000,7 years,42000,38.71,0,55.70%,22795,26,0,null, 36 ,7,55,43.76206961077844,38.71,No
+ 36 months,RENT,A,credit_card,8.81%,LA,Current,Individual,18000,9 years,167000,12.87,0,21.20%,16392,21,0,null, 36 ,9,21,43.76206961077844,12.87,No
+ 36 months,MORTGAGE,D,other,20.89%,TX,Current,Individual,3200,n/a,48000,11.5,0,0%,0,12,0,null, 36 ,,0,43.76206961077844,11.5,No
+ 36 months,MORTGAGE,A,debt_consolidation,8.81%,TN,Current,Individual,10000,n/a,27000,4.44,0,30.70%,1105,7,0,null, 36 ,,30,43.76206961077844,4.44,No
+ 60 months,RENT,D,other,20.89%,CA,Current,Individual,17000,4 years,71000,12.71,0,45.10%,12085,28,0,null, 60 ,4,45,43.76206961077844,12.71,No
+ 36 months,RENT,D,medical,20.89%,CA,Current,Individual,1500,n/a,65000,15.97,0,50.70%,10541,18,0,null, 36 ,,50,43.76206961077844,15.97,No
+ 60 months,MORTGAGE,B,credit_card,11.31%,OR,Current,Individual,35000,10+ years,82000,26.37,0,72.70%,36781,46,0,null, 60 ,10,72,43.76206961077844,26.37,No
+ 60 months,RENT,C,credit_card,13.56%,TX,Current,Individual,20000,10+ years,130000,12.17,0,78.10%,22330,19,0,null, 60 ,10,78,43.76206961077844,12.17,No
+ 36 months,RENT,B,debt_consolidation,12.98%,FL,Current,Individual,6000,n/a,67000,36.9,0,81%,32246,21,0,null, 36 ,,81,43.76206961077844,36.9,No
+ 36 months,RENT,A,debt_consolidation,7.56%,OR,Current,Individual,21000,5 years,90000,7.63,0,36.70%,1469,7,0,null, 36 ,5,36,43.76206961077844,7.63,No
+ 60 months,MORTGAGE,C,debt_consolidation,14.47%,MI,Current,Individual,19500,9 years,60000,9.7,0,43.10%,4656,21,0,null, 60 ,9,43,43.76206961077844,9.7,No
+ 36 months,RENT,D,debt_consolidation,19.92%,MN,Current,Individual,2000,4 years,48000,20,0,82.80%,2071,12,0,null, 36 ,4,82,43.76206961077844,20,No
+ 36 months,MORTGAGE,A,credit_card,8.19%,TX,Current,Individual,40000,2 years,90000,21.01,0,41.30%,26084,33,0,null, 36 ,2,41,43.76206961077844,21.01,No
+ 36 months,RENT,E,debt_consolidation,23.40%,MI,Current,Individual,1000,1 year,35000,22.22,0,52.90%,952,19,0,null, 36 ,1,52,43.76206961077844,22.22,No
+ 36 months,RENT,B,credit_card,11.80%,CA,Current,Individual,10000,2 years,30000,16,0,36.50%,10150,7,0,null, 36 ,2,36,43.76206961077844,16,No
+ 36 months,MORTGAGE,C,debt_consolidation,16.91%,OH,Current,Individual,18000,10+ years,142000,13.62,0,97%,16428,11,0,null, 36 ,10,97,43.76206961077844,13.62,No
+ 36 months,MORTGAGE,B,home_improvement,10.72%,ME,Current,Individual,2000,5 years,93600,19.28,0,36.10%,14287,30,0,null, 36 ,5,36,43.76206961077844,19.28,No
+ 36 months,RENT,A,credit_card,7.56%,VA,Fully Paid,Individual,10000,< 1 year,115000,10.34,0,37.20%,8965,14,0,null, 36 ,1,37,43.76206961077844,10.34,No
+ 36 months,MORTGAGE,A,debt_consolidation,8.19%,UT,Current,Individual,9000,10+ years,90000,14.16,0,21.70%,3747,32,0,null, 36 ,10,21,43.76206961077844,14.16,No
+ 60 months,MORTGAGE,C,debt_consolidation,15.02%,AL,Current,Individual,22325,2 years,120000,25.88,0,88.60%,36499,22,0,null, 60 ,2,88,43.76206961077844,25.88,No
+ 36 months,RENT,B,debt_consolidation,10.33%,WA,Current,Individual,16000,8 years,80000,6.8,0,33.70%,9714,11,0,null, 36 ,8,33,43.76206961077844,6.8,No
+ 36 months,RENT,E,other,23.40%,MD,Current,Individual,1000,10+ years,70000,34.84,0,85.70%,34269,22,0,null, 36 ,10,85,43.76206961077844,34.84,No
+ 36 months,RENT,B,debt_consolidation,10.72%,CA,Current,Individual,5000,5 years,50000,9.94,0,19.30%,328,6,0,null, 36 ,5,19,43.76206961077844,9.94,No
+ 60 months,RENT,C,other,16.14%,CA,Current,Individual,16500,4 years,80000,13.59,0,83.90%,7046,18,0,null, 60 ,4,83,43.76206961077844,13.59,No
+ 60 months,RENT,B,debt_consolidation,12.98%,FL,Current,Individual,40000,3 years,225000,18.28,0,84.40%,48589,20,0,null, 60 ,3,84,43.76206961077844,18.28,No
+ 36 months,OWN,B,debt_consolidation,10.72%,CT,Current,Individual,8400,2 years,57600,15.42,0,94.20%,11866,18,0,null, 36 ,2,94,43.76206961077844,15.42,No
+ 36 months,RENT,C,credit_card,15.02%,GA,Current,Individual,3025,4 years,44000,36.14,0,67.40%,5187,27,0,null, 36 ,4,67,43.76206961077844,36.14,No
+ 36 months,MORTGAGE,C,medical,16.91%,NV,Current,Individual,8000,10+ years,90000,33.61,0,41.40%,48033,36,0,null, 36 ,10,41,43.76206961077844,33.61,No
+ 60 months,MORTGAGE,B,car,10.33%,OR,Current,Joint App,10000,2 years,64480,24.81,0,36.60%,21852,18,0,14.61, 60 ,2,36,43.76206961077844,24.81,No
+ 60 months,RENT,D,debt_consolidation,22.35%,NV,Current,Individual,16800,< 1 year,61000,10.19,0,63.90%,5755,9,0,null, 60 ,1,63,43.76206961077844,10.19,No
+ 36 months,MORTGAGE,B,debt_consolidation,11.31%,CA,Current,Individual,18850,4 years,70000,20.42,0,68.30%,19861,24,0,null, 36 ,4,68,43.76206961077844,20.42,No
+ 36 months,MORTGAGE,B,debt_consolidation,12.98%,MA,Current,Individual,10000,10+ years,95690,16.1,0,44.80%,8104,17,0,null, 36 ,10,44,43.76206961077844,16.1,No
+ 36 months,OWN,C,home_improvement,15.02%,TX,Current,Individual,8500,10+ years,54000,32.38,0,94.30%,31324,13,0,null, 36 ,10,94,43.76206961077844,32.38,No
+ 60 months,RENT,D,debt_consolidation,19.92%,CA,Current,Individual,15000,3 years,68000,17.21,0,4.40%,3798,9,0,null, 60 ,3,4,43.76206961077844,17.21,No
+ 36 months,RENT,A,debt_consolidation,7.02%,NJ,Current,Joint App,24000,5 years,51000,22.64,0,37.80%,11316,17,0,10.2, 36 ,5,37,43.76206961077844,22.64,No
+ 60 months,RENT,C,debt_consolidation,16.91%,IL,Current,Individual,10000,3 years,35000,13.96,0,45.20%,4245,11,0,null, 60 ,3,45,43.76206961077844,13.96,No
+ 36 months,RENT,A,debt_consolidation,8.19%,CA,Current,Individual,12000,1 year,80000,15.68,0,20.50%,2993,18,0,null, 36 ,1,20,43.76206961077844,15.68,No
+ 36 months,OWN,A,home_improvement,7.56%,MO,Current,Individual,5000,10+ years,41000,7.32,0,9.90%,1389,13,0,null, 36 ,10,9,43.76206961077844,7.32,No
+ 36 months,MORTGAGE,A,debt_consolidation,8.19%,TX,Current,Individual,15000,< 1 year,53000,33.7,0,12.90%,9368,44,0,null, 36 ,1,12,43.76206961077844,33.7,No
+ 36 months,MORTGAGE,A,credit_card,7.56%,NE,Current,Individual,30500,6 years,180000,6.77,0,37.80%,19833,45,0,null, 36 ,6,37,43.76206961077844,6.77,No
+ 36 months,MORTGAGE,C,debt_consolidation,13.56%,PA,Current,Individual,6500,10+ years,285000,28,0,69.80%,180124,43,0,null, 36 ,10,69,43.76206961077844,28,No
+ 36 months,RENT,A,debt_consolidation,7.02%,NE,Current,Individual,9000,3 years,34000,17.93,0,0.50%,114,32,0,null, 36 ,3,0,43.76206961077844,17.93,No
+ 36 months,RENT,A,credit_card,7.56%,TX,Current,Individual,10000,4 years,30000,24.68,0,31.90%,9148,8,0,null, 36 ,4,31,43.76206961077844,24.68,No
+ 36 months,MORTGAGE,C,credit_card,13.56%,AL,Current,Individual,4500,9 years,70000,10.34,1,24.60%,4255,16,0,null, 36 ,9,24,43.76206961077844,10.34,No
+ 36 months,MORTGAGE,A,home_improvement,8.19%,OH,Current,Individual,4000,5 years,64000,1.78,0,7.60%,3024,18,0,null, 36 ,5,7,43.76206961077844,1.78,No
+ 36 months,MORTGAGE,A,debt_consolidation,7.56%,PA,Current,Individual,15000,8 years,150000,4.02,0,17.10%,8188,9,0,null, 36 ,8,17,43.76206961077844,4.02,No
+ 36 months,OWN,A,debt_consolidation,6.46%,NJ,Current,Individual,15000,n/a,70000,12.98,0,9.90%,7145,36,0,null, 36 ,,9,43.76206961077844,12.98,No
+ 36 months,MORTGAGE,D,credit_card,20.89%,VA,Current,Individual,15000,< 1 year,20000,25.57,0,69.30%,13727,17,0,null, 36 ,1,69,43.76206961077844,25.57,No
+ 36 months,RENT,A,credit_card,6.46%,WA,Current,Individual,4000,< 1 year,54000,9.91,0,16.70%,4642,20,0,null, 36 ,1,16,43.76206961077844,9.91,No
+ 60 months,RENT,D,debt_consolidation,22.35%,NY,Current,Individual,13500,3 years,47000,6.95,0,25%,7595,15,0,null, 60 ,3,25,43.76206961077844,6.95,No
+ 36 months,MORTGAGE,B,debt_consolidation,11.31%,MA,Current,Individual,23200,3 years,120000,38.51,0,21.10%,11139,20,0,null, 36 ,3,21,43.76206961077844,38.51,No
+ 36 months,RENT,C,debt_consolidation,13.56%,MI,Current,Individual,3000,5 years,75000,20.85,0,57.80%,30593,27,0,null, 36 ,5,57,43.76206961077844,20.85,No
+ 60 months,RENT,D,debt_consolidation,19.92%,PA,Current,Individual,10000,2 years,57980,36.99,0,96.80%,3389,23,0,null, 60 ,2,96,43.76206961077844,36.99,No
+ 36 months,RENT,C,debt_consolidation,16.91%,CT,Current,Individual,30000,5 years,62250,28.44,0,43.40%,28133,43,0,null, 36 ,5,43,43.76206961077844,28.44,No
+ 60 months,MORTGAGE,B,debt_consolidation,10.72%,CA,Current,Individual,20000,1 year,130000,14.4,0,45.70%,12564,20,0,null, 60 ,1,45,43.76206961077844,14.4,No
+ 36 months,RENT,D,credit_card,20.89%,NY,Current,Individual,3600,5 years,23225,9.2,0,74%,3406,5,0,null, 36 ,5,74,43.76206961077844,9.2,No
+ 36 months,RENT,A,credit_card,7.56%,MD,Fully Paid,Individual,16000,< 1 year,185000,6.98,0,22.90%,15715,37,0,null, 36 ,1,22,43.76206961077844,6.98,No
+ 36 months,OWN,A,credit_card,8.81%,OH,Current,Individual,10000,10+ years,80000,28.91,0,21.90%,18624,37,0,null, 36 ,10,21,43.76206961077844,28.91,No
+ 36 months,OWN,C,credit_card,16.14%,OK,Current,Individual,2000,5 years,82000,29.53,0,82.30%,40095,30,0,null, 36 ,5,82,43.76206961077844,29.53,No
+ 36 months,MORTGAGE,A,credit_card,7.56%,FL,Current,Individual,12000,10+ years,110000,12.61,0,18.40%,24920,36,0,null, 36 ,10,18,43.76206961077844,12.61,No
+ 36 months,MORTGAGE,A,debt_consolidation,8.81%,SC,Current,Individual,23500,10+ years,130000,26.89,0,57.40%,44741,22,0,null, 36 ,10,57,43.76206961077844,26.89,No
+ 60 months,ANY,D,debt_consolidation,20.89%,TN,Current,Individual,30000,2 years,50000,25.76,0,42.40%,8018,18,0,null, 60 ,2,42,43.76206961077844,25.76,No
+ 36 months,OWN,B,debt_consolidation,11.31%,IL,Current,Individual,10000,10+ years,68000,3.39,0,24.80%,9559,17,0,null, 36 ,10,24,43.76206961077844,3.39,No
+ 36 months,RENT,E,other,24.37%,CA,Current,Individual,1000,2 years,25000,16.08,0,75.70%,1589,3,0,null, 36 ,2,75,43.76206961077844,16.08,No
+ 60 months,MORTGAGE,D,debt_consolidation,18.94%,TX,Current,Individual,13000,1 year,48000,12.25,0,82.70%,11418,15,0,null, 60 ,1,82,43.76206961077844,12.25,No
+ 36 months,MORTGAGE,A,credit_card,7.56%,NH,Current,Individual,14000,< 1 year,60000,23.14,0,29.80%,8652,15,0,null, 36 ,1,29,43.76206961077844,23.14,No
+ 36 months,OWN,D,debt_consolidation,17.97%,TX,Current,Individual,5000,1 year,65000,16.62,0,67.70%,5554,8,0,null, 36 ,1,67,43.76206961077844,16.62,No
+ 36 months,RENT,C,vacation,16.91%,FL,Fully Paid,Individual,5500,5 years,60000,27.32,0,0.70%,146,25,0,null, 36 ,5,0,43.76206961077844,27.32,No
+ 36 months,RENT,B,debt_consolidation,12.98%,CA,Current,Individual,19000,1 year,70000,20.54,2,77.80%,11749,18,1,null, 36 ,1,77,43.76206961077844,20.54,No
+ 36 months,MORTGAGE,E,debt_consolidation,26.31%,GA,Current,Joint App,33250,6 years,30000,56.08,0,73.30%,31245,17,0,33.47, 36 ,6,73,43.76206961077844,56.08,No
+ 36 months,RENT,E,other,23.40%,MI,Late (31-120 days),Individual,1000,3 years,60000,29.56,0,59%,10980,18,0,null, 36 ,3,59,43.76206961077844,29.56,yes
+ 36 months,MORTGAGE,A,vacation,7.21%,CA,Current,Joint App,6000,10+ years,31000,38.13,0,2.70%,1257,26,0,15.1, 36 ,10,2,43.76206961077844,38.13,No
+ 60 months,OWN,D,debt_consolidation,20.89%,TX,Fully Paid,Individual,14000,10+ years,125000,12.22,0,1.40%,191,38,0,null, 60 ,10,1,43.76206961077844,12.22,No
+ 60 months,OWN,C,other,16.91%,AL,Current,Individual,12800,10+ years,60000,26.64,0,28.20%,13728,29,0,null, 60 ,10,28,43.76206961077844,26.64,No
+ 60 months,OWN,E,debt_consolidation,27.27%,NC,In Grace Period,Individual,30000,1 year,225000,16.58,0,80%,10005,44,0,null, 60 ,1,80,43.76206961077844,16.58,yes
+ 36 months,MORTGAGE,C,debt_consolidation,15.02%,OH,Fully Paid,Individual,15500,10+ years,40000,17.31,0,49.90%,15910,21,0,null, 36 ,10,49,43.76206961077844,17.31,No
+ 60 months,MORTGAGE,C,debt_consolidation,15.02%,GA,Current,Individual,12500,10+ years,146896,13.26,6,79.20%,8638,22,1,null, 60 ,10,79,43.76206961077844,13.26,No
+ 36 months,OWN,E,debt_consolidation,26.31%,NY,Current,Joint App,19200,2 years,55000,27.99,0,30.80%,4399,28,0,17.52, 36 ,2,30,43.76206961077844,27.99,No
+ 36 months,RENT,B,debt_consolidation,12.98%,CT,Current,Individual,6000,n/a,30000,34.76,0,45.60%,16263,28,0,null, 36 ,,45,43.76206961077844,34.76,No
+ 36 months,MORTGAGE,A,debt_consolidation,8.81%,NC,Current,Individual,15000,9 years,39000,31.6,0,24.80%,6815,23,0,null, 36 ,9,24,43.76206961077844,31.6,No
+ 36 months,RENT,C,credit_card,16.91%,CA,Current,Individual,20000,3 years,36000,16,0,91.40%,14625,13,0,null, 36 ,3,91,43.76206961077844,16,No
+ 60 months,MORTGAGE,D,debt_consolidation,20.89%,CA,Current,Individual,18725,5 years,108000,22.3,1,34.70%,18411,27,0,null, 60 ,5,34,43.76206961077844,22.3,No
+ 36 months,RENT,B,credit_card,11.31%,MI,Current,Individual,10000,< 1 year,96000,8.38,0,81.60%,8735,10,0,null, 36 ,1,81,43.76206961077844,8.38,No
+ 36 months,RENT,B,credit_card,11.80%,DE,Current,Individual,9600,< 1 year,50000,8.59,0,51%,6984,13,0,null, 36 ,1,51,43.76206961077844,8.59,No
+ 36 months,MORTGAGE,C,credit_card,16.14%,TN,Current,Individual,15000,10+ years,55000,24.01,0,86.60%,25978,23,0,null, 36 ,10,86,43.76206961077844,24.01,No
+ 36 months,OWN,A,credit_card,8.81%,CA,Current,Individual,6500,9 years,75460,18.26,0,19.80%,5101,18,0,null, 36 ,9,19,43.76206961077844,18.26,No
+ 36 months,MORTGAGE,B,credit_card,10.33%,MI,Current,Individual,10000,4 years,145000,5.9,0,94.60%,8417,13,0,null, 36 ,4,94,43.76206961077844,5.9,No
+ 36 months,MORTGAGE,C,credit_card,13.56%,MI,Current,Individual,16000,6 years,35000,13.07,0,37.30%,13706,23,0,null, 36 ,6,37,43.76206961077844,13.07,No
+ 36 months,MORTGAGE,A,debt_consolidation,7.02%,OK,Current,Individual,10000,10+ years,87000,3.17,0,87.40%,6552,11,0,null, 36 ,10,87,43.76206961077844,3.17,No
+ 60 months,RENT,C,debt_consolidation,15.02%,WI,Late (31-120 days),Individual,15000,3 years,55000,11.72,0,27.90%,4181,8,0,null, 60 ,3,27,43.76206961077844,11.72,yes
+ 60 months,MORTGAGE,B,debt_consolidation,11.31%,CA,Current,Individual,35000,10+ years,150000,13.02,0,24.90%,28524,30,0,null, 60 ,10,24,43.76206961077844,13.02,No
+ 36 months,MORTGAGE,A,credit_card,6.46%,OR,Current,Individual,39000,10+ years,150000,24.79,0,45.60%,93060,31,0,null, 36 ,10,45,43.76206961077844,24.79,No
+ 36 months,MORTGAGE,E,debt_consolidation,24.37%,TX,Current,Individual,7000,4 years,70344,15.65,0,67.50%,32417,46,0,null, 36 ,4,67,43.76206961077844,15.65,No
+ 36 months,OWN,A,debt_consolidation,6.46%,IL,Current,Joint App,6000,6 years,110000,7.09,0,4.80%,2325,39,0,3.18, 36 ,6,4,43.76206961077844,7.09,No
+ 60 months,MORTGAGE,B,debt_consolidation,11.80%,FL,Current,Individual,20000,n/a,52740,28.19,0,60%,23140,17,0,null, 60 ,,60,43.76206961077844,28.19,No
+ 36 months,RENT,D,debt_consolidation,19.92%,CA,Current,Individual,23000,1 year,92000,9.14,0,57.20%,19165,5,0,null, 36 ,1,57,43.76206961077844,9.14,No
+ 36 months,RENT,B,credit_card,11.80%,AL,Current,Individual,3200,n/a,9240,12.86,0,96.20%,3272,3,0,null, 36 ,,96,43.76206961077844,12.86,No
+ 36 months,RENT,B,debt_consolidation,11.80%,CA,Current,Individual,8400,9 years,38800,32.79,0,25.10%,7001,28,0,null, 36 ,9,25,43.76206961077844,32.79,No
+ 36 months,MORTGAGE,A,debt_consolidation,8.81%,AL,Current,Individual,16000,3 years,88000,15.67,0,45.60%,27226,29,0,null, 36 ,3,45,43.76206961077844,15.67,No
+ 36 months,RENT,B,debt_consolidation,10.72%,CA,Current,Individual,35000,5 years,100000,14.82,0,39.30%,22269,21,0,null, 36 ,5,39,43.76206961077844,14.82,No
+ 36 months,RENT,A,medical,7.56%,OK,Fully Paid,Individual,2000,3 years,65000,33.77,0,28.40%,20765,32,0,null, 36 ,3,28,43.76206961077844,33.77,No
+ 36 months,RENT,E,other,23.40%,FL,Fully Paid,Individual,1000,n/a,30096,34.85,0,33.20%,8800,25,0,null, 36 ,,33,43.76206961077844,34.85,No
+ 36 months,OWN,A,credit_card,7.56%,MO,Current,Individual,15000,3 years,80000,36.57,0,16%,14095,43,0,null, 36 ,3,16,43.76206961077844,36.57,No
+ 36 months,MORTGAGE,D,other,18.94%,TX,Current,Joint App,4200,< 1 year,58000,37.08,0,98.80%,56339,25,0,18.04, 36 ,1,98,43.76206961077844,37.08,No
+ 60 months,MORTGAGE,B,home_improvement,11.80%,CA,Current,Individual,12000,4 years,80000,9.77,2,3.90%,572,17,2,null, 60 ,4,3,43.76206961077844,9.77,No
+ 60 months,RENT,D,debt_consolidation,19.92%,CA,Current,Individual,11000,3 years,30000,26.52,0,50.20%,11745,5,0,null, 60 ,3,50,43.76206961077844,26.52,No
+ 60 months,RENT,D,debt_consolidation,22.35%,AZ,Current,Joint App,20000,2 years,29700,37.66,0,20.30%,4757,11,0,17.73, 60 ,2,20,43.76206961077844,37.66,No
+ 36 months,RENT,B,vacation,10.33%,MN,Current,Individual,1600,1 year,80000,12.96,0,49%,5533,14,0,null, 36 ,1,49,43.76206961077844,12.96,No
+ 36 months,MORTGAGE,A,credit_card,7.02%,CA,Current,Individual,7500,8 years,54740,7.48,0,15.50%,9632,17,0,null, 36 ,8,15,43.76206961077844,7.48,No
+ 36 months,MORTGAGE,C,credit_card,15.02%,CA,Current,Individual,30000,< 1 year,120000,30.24,1,66.20%,49795,16,0,null, 36 ,1,66,43.76206961077844,30.24,No
+ 36 months,OWN,A,credit_card,8.81%,CA,Current,Individual,14000,3 years,40000,30.63,0,22.70%,8053,13,0,null, 36 ,3,22,43.76206961077844,30.63,No
+ 36 months,RENT,E,small_business,27.27%,CA,Current,Individual,5000,< 1 year,23040,2.6,0,3.30%,145,5,0,null, 36 ,1,3,43.76206961077844,2.6,No
+ 60 months,RENT,D,debt_consolidation,18.94%,AK,Current,Individual,20000,2 years,40000,10.66,0,43.20%,1468,14,0,null, 60 ,2,43,43.76206961077844,10.66,No
+ 36 months,OWN,A,debt_consolidation,7.02%,NY,Current,Individual,35000,< 1 year,200000,17.19,0,71.40%,203971,24,0,null, 36 ,1,71,43.76206961077844,17.19,No
+ 36 months,RENT,B,debt_consolidation,11.31%,WA,Current,Individual,34350,10+ years,91000,29.64,0,15.30%,1998,30,0,null, 36 ,10,15,43.76206961077844,29.64,No
+ 36 months,MORTGAGE,E,other,24.37%,IL,Current,Individual,1000,n/a,33483,20.43,0,35.20%,13663,12,0,null, 36 ,,35,43.76206961077844,20.43,No
+ 36 months,RENT,E,debt_consolidation,25.34%,MA,Current,Individual,10000,4 years,85000,16.66,0,41.70%,10705,12,0,null, 36 ,4,41,43.76206961077844,16.66,No
+ 60 months,OWN,D,debt_consolidation,18.94%,SC,Current,Individual,20000,5 years,65000,26.37,0,56.50%,1073,8,0,null, 60 ,5,56,43.76206961077844,26.37,No
+ 36 months,RENT,B,other,11.31%,MI,Fully Paid,Individual,7000,10+ years,65000,15.32,0,null,0,23,0,null, 36 ,10,43.76206961077844,43.76206961077844,15.32,No
+ 36 months,OWN,A,credit_card,6.46%,TX,Current,Individual,9000,1 year,55500,19.46,0,63.20%,10624,21,0,null, 36 ,1,63,43.76206961077844,19.46,No
+ 36 months,OWN,B,debt_consolidation,11.80%,OR,Current,Joint App,15000,< 1 year,31000,31.75,1,34%,1598,7,0,14.69, 36 ,1,34,43.76206961077844,31.75,No
+ 60 months,OWN,D,debt_consolidation,20.89%,PA,Current,Individual,20000,n/a,33000,6.15,0,29.50%,4330,16,0,null, 60 ,,29,43.76206961077844,6.15,No
+ 36 months,OWN,C,debt_consolidation,14.47%,MO,Current,Individual,15500,3 years,43000,20.96,0,24.40%,2388,13,0,null, 36 ,3,24,43.76206961077844,20.96,No
+ 36 months,RENT,B,debt_consolidation,10.08%,NY,Current,Individual,14000,3 years,95000,21.13,0,84.90%,16562,17,0,null, 36 ,3,84,43.76206961077844,21.13,No
+ 60 months,MORTGAGE,B,debt_consolidation,10.72%,FL,Current,Individual,15000,7 years,65000,23.93,0,20.50%,58933,48,0,null, 60 ,7,20,43.76206961077844,23.93,No
